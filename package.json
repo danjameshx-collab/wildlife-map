@@ -1,0 +1,35 @@
+{
+  "name": "wildlife-map",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "db:init": "node scripts/init-db.mjs",
+    "db:seed": "node scripts/seed-db.mjs",
+    "db:export": "node scripts/export-data.mjs",
+    "cities:export": "node scripts/export-cities.mjs",
+    "species:images": "node scripts/fetch-species-images.mjs",
+    "db:refresh": "npm run db:seed && npm run species:images && npm run db:export"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.8",
+    "all-the-cities": "^3.1.0",
+    "better-sqlite3": "^12.11.1",
+    "leaflet": "^1.9.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-leaflet": "^5.0.0",
+    "world-countries": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.2",
+    "oxlint": "^1.69.0",
+    "vite": "^8.1.0"
+  }
+}
