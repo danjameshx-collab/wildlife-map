@@ -65,7 +65,7 @@ export default function MapView({ locations }) {
             radius={8}
             pathOptions={markerOptions(loc)}
           >
-            <Popup maxWidth={420} minWidth={420} maxHeight={580}>
+            <Popup maxWidth={420} minWidth={280} maxHeight={580}>
               <LocationPopup location={loc} />
             </Popup>
           </CircleMarker>

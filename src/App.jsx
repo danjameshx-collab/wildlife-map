@@ -8,6 +8,7 @@ const ALL_CATEGORIES = [...new Set(locationsData.flatMap((l) => l.sightings.map(
 
 export default function App() {
   const [selectedCategories, setSelectedCategories] = useState(ALL_CATEGORIES);
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const toggleCategory = (cat) => {
     setSelectedCategories((prev) =>
@@ -26,11 +27,25 @@ export default function App() {
 
   return (
     <div className="app-layout">
+      <button
+        type="button"
+        className="menu-toggle"
+        aria-label={isMenuOpen ? 'Close filters' : 'Open filters'}
+        aria-expanded={isMenuOpen}
+        onClick={() => setIsMenuOpen((prev) => !prev)}
+      >
+        <span className="menu-toggle-icon" />
+      </button>
+      {isMenuOpen && (
+        <div className="menu-backdrop" onClick={() => setIsMenuOpen(false)} />
+      )}
       <FilterPanel
         categories={ALL_CATEGORIES}
         selectedCategories={selectedCategories}
         onToggleCategory={toggleCategory}
         resultCount={filteredLocations.length}
+        isOpen={isMenuOpen}
+        onClose={() => setIsMenuOpen(false)}
       />
       <MapView locations={filteredLocations} />
     </div>
