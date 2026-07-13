@@ -1,5 +1,5 @@
 import 'leaflet/dist/leaflet.css';
-import { MapContainer, TileLayer, CircleMarker, Popup } from 'react-leaflet';
+import { MapContainer, TileLayer, CircleMarker, Popup, ZoomControl } from 'react-leaflet';
 import PlaceLabels from './PlaceLabels';
 import LocationPopup from './LocationPopup';
 
@@ -49,7 +49,9 @@ export default function MapView({ locations }) {
       maxBounds={MAX_BOUNDS}
       maxBoundsViscosity={1.0}
       preferCanvas={true}
+      zoomControl={false}
     >
+      <ZoomControl position="topright" />
       <TileLayer
         url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png"
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
