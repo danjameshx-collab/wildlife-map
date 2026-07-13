@@ -1,13 +1,13 @@
 :root {
-  --sidebar:        #0b1622;
-  --sidebar-raised: #0f1e2e;
+  --sidebar:        #0b1f16;
+  --sidebar-raised: #102a1e;
   --sidebar-border: rgba(255, 255, 255, 0.07);
-  --accent:         #06b6d4;
-  --accent-dim:     rgba(6, 182, 212, 0.12);
-  --accent-mid:     rgba(6, 182, 212, 0.28);
-  --text:           #b8cfe0;
-  --text-bright:    #eaf2fb;
-  --text-muted:     #3d5670;
+  --accent:         #10b981;
+  --accent-dim:     rgba(16, 185, 129, 0.12);
+  --accent-mid:     rgba(16, 185, 129, 0.28);
+  --text:           #b9d6c6;
+  --text-bright:    #ecfbf3;
+  --text-muted:     #3d7059;
 
   font: 14px/1.5 system-ui, 'Segoe UI', Roboto, sans-serif;
   color: var(--text);
@@ -35,7 +35,7 @@ h1, h2 { color: var(--text-bright); font-weight: 600; }
   display: flex;
   align-items: center;
   justify-content: center;
-  background: radial-gradient(circle at 50% 30%, #0d2540 0%, var(--sidebar) 70%);
+  background: radial-gradient(circle at 50% 30%, #0f3d24 0%, var(--sidebar) 70%);
 }
 
 .gate-card {

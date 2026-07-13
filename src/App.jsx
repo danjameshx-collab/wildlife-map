@@ -8,7 +8,7 @@ const ALL_CATEGORIES = [...new Set(locationsData.flatMap((l) => l.sightings.map(
 
 export default function App() {
   const [selectedCategories, setSelectedCategories] = useState(ALL_CATEGORIES);
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isMenuOpen, setIsMenuOpen] = useState(true);
 
   const toggleCategory = (cat) => {
     setSelectedCategories((prev) =>
@@ -36,16 +36,12 @@ export default function App() {
       >
         <span className="menu-toggle-icon" />
       </button>
-      {isMenuOpen && (
-        <div className="menu-backdrop" onClick={() => setIsMenuOpen(false)} />
-      )}
       <FilterPanel
         categories={ALL_CATEGORIES}
         selectedCategories={selectedCategories}
         onToggleCategory={toggleCategory}
         resultCount={filteredLocations.length}
         isOpen={isMenuOpen}
-        onClose={() => setIsMenuOpen(false)}
       />
       <MapView locations={filteredLocations} />
     </div>

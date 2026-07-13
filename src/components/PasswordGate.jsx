@@ -23,7 +23,7 @@ export default function PasswordGate({ children }) {
   return (
     <div className="gate-screen">
       <form className="gate-card" onSubmit={handleSubmit}>
-        <span className="gate-icon">🐠</span>
+        <span className="gate-icon">🦈</span>
         <h1>Wildlife Map</h1>
         <p>This site is password protected.</p>
         <input

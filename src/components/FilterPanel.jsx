@@ -4,22 +4,13 @@ export default function FilterPanel({
   onToggleCategory,
   resultCount,
   isOpen,
-  onClose,
 }) {
   return (
-    <aside className={`filter-panel${isOpen ? ' filter-panel-open' : ''}`}>
+    <aside className={`filter-panel${isOpen ? '' : ' filter-panel-collapsed'}`}>
       <div className="panel-header">
         <div className="panel-title-row">
-          <span className="panel-icon">🐠</span>
+          <span className="panel-icon">🦈</span>
           <h1>Wildlife Map</h1>
-          <button
-            type="button"
-            className="panel-close"
-            aria-label="Close filters"
-            onClick={onClose}
-          >
-            ✕
-          </button>
         </div>
         <p className="subtitle">
           <span className="result-count">{resultCount}</span>{' '}
