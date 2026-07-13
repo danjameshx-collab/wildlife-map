@@ -4208,5 +4208,135 @@
     "description": "Sturdy, short-horned antelope of African floodplains and reedbeds, usually found in pairs or small family groups near water.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/2009-reedbuck.jpg/960px-2009-reedbuck.jpg",
     "endemic": false
+  },
+  {
+    "id": 16324,
+    "common_name": "Polar Bear",
+    "scientific_name": "Ursus maritimus",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "World's largest land carnivore, hunting seals from sea ice across the circumpolar Arctic.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/960px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16325,
+    "common_name": "Walrus",
+    "scientific_name": "Odobenus rosmarus",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Massive tusked pinniped that hauls out in large herds on Arctic ice floes and coastlines.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Walrus_%28Odobenus_rosmarus%29_on_Svalbard.jpg/960px-Walrus_%28Odobenus_rosmarus%29_on_Svalbard.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16326,
+    "common_name": "Beluga Whale",
+    "scientific_name": "Delphinapterus leucas",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "All-white 'canary of the sea', a highly vocal whale that gathers in pods in Arctic estuaries and bays.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Delphinapterus_leucas_beluga_MNHN.jpg/960px-Delphinapterus_leucas_beluga_MNHN.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16327,
+    "common_name": "Narwhal",
+    "scientific_name": "Monodon monoceros",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Arctic whale famed for the male's long spiraled tusk; migrates through fjords and pack ice leads each summer.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg/960px-%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16328,
+    "common_name": "Arctic Fox",
+    "scientific_name": "Vulpes lagopus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Small tundra fox with a thick coat that turns white in winter, following polar bears to scavenge seal kills.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ArcticFoxSummer.jpg/960px-ArcticFoxSummer.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16329,
+    "common_name": "Muskox",
+    "scientific_name": "Ovibos moschatus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Ice-age relict bovid with a shaggy double coat, forming defensive circles against wolves on the Arctic tundra.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_1.jpg/960px-Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_1.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16330,
+    "common_name": "Snowy Owl",
+    "scientific_name": "Bubo scandiacus",
+    "category": "Bird",
+    "conservation_status": "Vulnerable",
+    "description": "Large white owl of the open tundra, hunting lemmings by day during the Arctic summer's constant light.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG/960px-B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG",
+    "endemic": false
+  },
+  {
+    "id": 16331,
+    "common_name": "Amur Leopard",
+    "scientific_name": "Panthera pardus orientalis",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "World's rarest big cat, a cold-adapted leopard subspecies surviving in the temperate forests of the Russia-China border.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Amur_Leopard_Pittsburgh_Zoo.jpg/960px-Amur_Leopard_Pittsburgh_Zoo.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16332,
+    "common_name": "Willow Ptarmigan",
+    "scientific_name": "Lagopus lagopus",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Cold-hardy grouse that molts to pure white plumage in winter for camouflage on snow.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lag%C3%B3podo_com%C3%BAn_%28Lagopus_lagopus%29%2C_Parque_nacional_y_reserva_Denali%2C_Alaska%2C_Estados_Unidos%2C_2017-08-29%2C_DD_87.jpg/960px-Lag%C3%B3podo_com%C3%BAn_%28Lagopus_lagopus%29%2C_Parque_nacional_y_reserva_Denali%2C_Alaska%2C_Estados_Unidos%2C_2017-08-29%2C_DD_87.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16333,
+    "common_name": "Arctic Hare",
+    "scientific_name": "Lepus arcticus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Large-bodied hare adapted to the High Arctic, capable of surviving temperatures below -30°C.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Arctic_Hare_%28Lepus_arcticus%29_02.jpg/960px-Arctic_Hare_%28Lepus_arcticus%29_02.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16334,
+    "common_name": "Arctic Wolf",
+    "scientific_name": "Canis lupus arctos",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Pale, thick-coated gray wolf subspecies that ranges across the High Arctic islands, preying on muskoxen and Peary caribou.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Arctic_wolf_canis_lupus_family_canidae_or_plains_tundra_or_timber_wolf.jpg/960px-Arctic_wolf_canis_lupus_family_canidae_or_plains_tundra_or_timber_wolf.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16335,
+    "common_name": "Kamchatka Brown Bear",
+    "scientific_name": "Ursus arctos beringianus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Among the largest brown bears in the world, gathering along salmon-choked rivers each summer and autumn.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg/960px-Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16336,
+    "common_name": "Greater Roadrunner",
+    "scientific_name": "Geococcyx californianus",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Fast-running desert cuckoo that sprints after lizards and snakes rather than flying.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2025-02-02_02_Greater_roadrunner_%28Geococcyx_californianus%29_-_AZ_USA.jpg/960px-2025-02-02_02_Greater_roadrunner_%28Geococcyx_californianus%29_-_AZ_USA.jpg",
+    "endemic": false
   }
 ]

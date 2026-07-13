@@ -45564,5 +45564,800 @@
         "notes": "Golden eagles nest on Kaçkar's high cliffs and ridges."
       }
     ]
+  },
+  {
+    "id": 42773,
+    "name": "Wapusk NP",
+    "country": "Canada",
+    "region": "Manitoba",
+    "lat": 58.55,
+    "lng": -93.35,
+    "description": "Subarctic park on the Hudson Bay coast holding one of the world's largest polar bear denning areas, near Churchill, the 'Polar Bear Capital of the World'.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16324,
+        "common_name": "Polar Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/960px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 10,
+        "end_month": 11,
+        "likelihood": "common",
+        "notes": "Pregnant females den here through summer/autumn; bears gather on the coast each October-November waiting for sea ice to form."
+      },
+      {
+        "species_id": 16328,
+        "common_name": "Arctic Fox",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ArcticFoxSummer.jpg/960px-ArcticFoxSummer.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Resident year-round, often trailing polar bears to scavenge seal carcasses."
+      },
+      {
+        "species_id": 16330,
+        "common_name": "Snowy Owl",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG/960px-B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Nests on the open tundra, hunting lemmings through the brief Arctic summer."
+      },
+      {
+        "species_id": 16076,
+        "common_name": "Moose",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_moose.jpg/960px-Alaska_moose.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Found in the park's boreal forest fringe and willow wetlands."
+      },
+      {
+        "species_id": 16326,
+        "common_name": "Beluga Whale",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Delphinapterus_leucas_beluga_MNHN.jpg/960px-Delphinapterus_leucas_beluga_MNHN.jpg",
+        "endemic": false,
+        "start_month": 7,
+        "end_month": 8,
+        "likelihood": "likely",
+        "notes": "Thousands gather at the mouth of the Churchill River to molt and calve in summer."
+      }
+    ]
+  },
+  {
+    "id": 42774,
+    "name": "Torngat Mountains NP",
+    "country": "Canada",
+    "region": "Newfoundland and Labrador",
+    "lat": 59.35,
+    "lng": -63.98,
+    "description": "Remote, roadless wilderness of fjords and peaks at the northern tip of Labrador, home to one of Canada's densest polar bear populations.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16324,
+        "common_name": "Polar Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/960px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "One of the highest densities of polar bears on the Canadian mainland year-round."
+      },
+      {
+        "species_id": 16077,
+        "common_name": "Caribou",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/960px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "The George River and Torngat Mountains caribou herds pass through the park."
+      },
+      {
+        "species_id": 16334,
+        "common_name": "Arctic Wolf",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Arctic_wolf_canis_lupus_family_canidae_or_plains_tundra_or_timber_wolf.jpg/960px-Arctic_wolf_canis_lupus_family_canidae_or_plains_tundra_or_timber_wolf.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Arctic wolves follow caribou herds across the tundra plateau."
+      },
+      {
+        "species_id": 16221,
+        "common_name": "Golden Eagle",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/960px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 6,
+        "end_month": 9,
+        "likelihood": "possible",
+        "notes": "Nests on the Torngats' steep cliffs during the short summer."
+      }
+    ]
+  },
+  {
+    "id": 42775,
+    "name": "Aulavik NP",
+    "country": "Canada",
+    "region": "Northwest Territories",
+    "lat": 73.83,
+    "lng": -119.4,
+    "description": "High Arctic park on Banks Island holding the world's largest population of muskoxen, alongside Peary caribou and Arctic foxes.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16329,
+        "common_name": "Muskox",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_1.jpg/960px-Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_1.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Banks Island holds roughly a third of the world's entire muskox population."
+      },
+      {
+        "species_id": 16328,
+        "common_name": "Arctic Fox",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ArcticFoxSummer.jpg/960px-ArcticFoxSummer.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Common across the island's polar desert and river valleys."
+      },
+      {
+        "species_id": 16333,
+        "common_name": "Arctic Hare",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Arctic_Hare_%28Lepus_arcticus%29_02.jpg/960px-Arctic_Hare_%28Lepus_arcticus%29_02.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Well camouflaged against the snow and gravel plains for most of the year."
+      },
+      {
+        "species_id": 16324,
+        "common_name": "Polar Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/960px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 8,
+        "end_month": 10,
+        "likelihood": "possible",
+        "notes": "Bears occasionally move inland along the Thomsen River in late summer."
+      }
+    ]
+  },
+  {
+    "id": 42776,
+    "name": "Quttinirpaaq NP",
+    "country": "Canada",
+    "region": "Nunavut",
+    "lat": 81.93,
+    "lng": -75.5,
+    "description": "Canada's second-largest and northernmost national park, on Ellesmere Island barely 800 km from the North Pole.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16329,
+        "common_name": "Muskox",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_1.jpg/960px-Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_1.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Herds graze the polar desert vegetation of Lake Hazen's thermal oasis."
+      },
+      {
+        "species_id": 16334,
+        "common_name": "Arctic Wolf",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Arctic_wolf_canis_lupus_family_canidae_or_plains_tundra_or_timber_wolf.jpg/960px-Arctic_wolf_canis_lupus_family_canidae_or_plains_tundra_or_timber_wolf.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "A well-studied, remarkably approachable population dens near Eureka and Lake Hazen."
+      },
+      {
+        "species_id": 16333,
+        "common_name": "Arctic Hare",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Arctic_Hare_%28Lepus_arcticus%29_02.jpg/960px-Arctic_Hare_%28Lepus_arcticus%29_02.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Common across the gravel plains and river valleys."
+      },
+      {
+        "species_id": 16324,
+        "common_name": "Polar Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/960px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 6,
+        "end_month": 9,
+        "likelihood": "possible",
+        "notes": "Bears range onto the island's coasts and sea ice edges in summer."
+      }
+    ]
+  },
+  {
+    "id": 42777,
+    "name": "Sirmilik NP",
+    "country": "Canada",
+    "region": "Nunavut",
+    "lat": 72.98,
+    "lng": -80.5,
+    "description": "Baffin Island park bordering Eclipse Sound and Pond Inlet, where narwhal and beluga gather each summer as the sea ice breaks up.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16327,
+        "common_name": "Narwhal",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg/960px-%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg",
+        "endemic": false,
+        "start_month": 7,
+        "end_month": 8,
+        "likelihood": "common",
+        "notes": "Thousands migrate through Eclipse Sound and Lancaster Sound as the ice breaks up each summer."
+      },
+      {
+        "species_id": 16326,
+        "common_name": "Beluga Whale",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Delphinapterus_leucas_beluga_MNHN.jpg/960px-Delphinapterus_leucas_beluga_MNHN.jpg",
+        "endemic": false,
+        "start_month": 7,
+        "end_month": 9,
+        "likelihood": "likely",
+        "notes": "Pods follow the narwhal into the same open leads and floe edges."
+      },
+      {
+        "species_id": 16324,
+        "common_name": "Polar Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/960px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Hunts seals along the floe edge of Baffin Bay year-round."
+      },
+      {
+        "species_id": 16325,
+        "common_name": "Walrus",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Walrus_%28Odobenus_rosmarus%29_on_Svalbard.jpg/960px-Walrus_%28Odobenus_rosmarus%29_on_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 6,
+        "end_month": 9,
+        "likelihood": "possible",
+        "notes": "Occasionally hauls out on nearby coastal ice."
+      }
+    ]
+  },
+  {
+    "id": 42778,
+    "name": "Wrangel Island NR",
+    "country": "Russia",
+    "region": "Chukotka",
+    "lat": 71.25,
+    "lng": -179.4,
+    "description": "Isolated Siberian island in the Arctic Ocean holding the world's largest known concentration of polar bear dens and vast walrus haul-outs.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16324,
+        "common_name": "Polar Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/960px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Hundreds of pregnant females den here each year, the highest density of polar bear dens on Earth."
+      },
+      {
+        "species_id": 16325,
+        "common_name": "Walrus",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Walrus_%28Odobenus_rosmarus%29_on_Svalbard.jpg/960px-Walrus_%28Odobenus_rosmarus%29_on_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 8,
+        "end_month": 10,
+        "likelihood": "common",
+        "notes": "One of the largest walrus haul-outs in the world forms on the island's beaches each autumn."
+      },
+      {
+        "species_id": 16330,
+        "common_name": "Snowy Owl",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG/960px-B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Breeds on the island's tundra in numbers that track the local lemming cycle."
+      },
+      {
+        "species_id": 16328,
+        "common_name": "Arctic Fox",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ArcticFoxSummer.jpg/960px-ArcticFoxSummer.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Common across the island, denning near seabird cliffs and polar bear kill sites."
+      }
+    ]
+  },
+  {
+    "id": 42779,
+    "name": "Kronotsky NR",
+    "country": "Russia",
+    "region": "Kamchatka",
+    "lat": 54.75,
+    "lng": 160.35,
+    "description": "Volcanic wilderness reserve on the Kamchatka Peninsula where some of the world's largest brown bears gather to fish spawning salmon.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16335,
+        "common_name": "Kamchatka Brown Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg/960px-Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg",
+        "endemic": false,
+        "start_month": 6,
+        "end_month": 10,
+        "likelihood": "common",
+        "notes": "Dozens gather at Kuril Lake and the peninsula's rivers during the salmon runs."
+      },
+      {
+        "species_id": 16185,
+        "common_name": "Steller's Sea Eagle",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Haliaeetus_pelagicus_%28Rausu%2C_Japan%29.jpg/960px-Haliaeetus_pelagicus_%28Rausu%2C_Japan%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 3,
+        "likelihood": "likely",
+        "notes": "Kamchatka holds one of the largest wintering populations of this giant sea eagle."
+      },
+      {
+        "species_id": 15942,
+        "common_name": "Sea Otter",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Found along the peninsula's kelp-lined Pacific coast."
+      },
+      {
+        "species_id": 16221,
+        "common_name": "Golden Eagle",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/960px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Hunts marmots and hares over the peninsula's volcanic highlands."
+      }
+    ]
+  },
+  {
+    "id": 42780,
+    "name": "Land of the Leopard NP",
+    "country": "Russia",
+    "region": "Primorsky Krai",
+    "lat": 43.15,
+    "lng": 131.4,
+    "description": "Temperate forest reserve on the Russia-China border protecting the last wild population of the critically endangered Amur leopard alongside Amur tigers.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16331,
+        "common_name": "Amur Leopard",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Amur_Leopard_Pittsburgh_Zoo.jpg/960px-Amur_Leopard_Pittsburgh_Zoo.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "rare",
+        "notes": "Camera-trap monitoring counts roughly 120 individuals, up from a low of about 30 in the early 2000s."
+      },
+      {
+        "species_id": 16230,
+        "common_name": "Amur Tiger",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/P.t.altaica_Tomak_Male.jpg/960px-P.t.altaica_Tomak_Male.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "rare",
+        "notes": "Shares this forest with the leopard, part of the recovering Russian Far East tiger population."
+      },
+      {
+        "species_id": 16095,
+        "common_name": "Eurasian Lynx",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lynx_Nationalpark_Bayerischer_Wald_01.jpg/960px-Lynx_Nationalpark_Bayerischer_Wald_01.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Found throughout the reserve's mixed conifer-broadleaf forest."
+      }
+    ]
+  },
+  {
+    "id": 42781,
+    "name": "Svalbard",
+    "country": "Norway",
+    "region": "Arctic Norway",
+    "lat": 78.22,
+    "lng": 15.63,
+    "description": "High Arctic archipelago where polar bears outnumber people, with walrus haul-outs and beluga pods along its glacier-carved fjords.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16324,
+        "common_name": "Polar Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/960px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "An estimated 300 or more bears range across the archipelago and its sea ice."
+      },
+      {
+        "species_id": 16325,
+        "common_name": "Walrus",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Walrus_%28Odobenus_rosmarus%29_on_Svalbard.jpg/960px-Walrus_%28Odobenus_rosmarus%29_on_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 6,
+        "end_month": 9,
+        "likelihood": "likely",
+        "notes": "Recovering haul-outs are regularly seen on beaches like Poolepynten."
+      },
+      {
+        "species_id": 16326,
+        "common_name": "Beluga Whale",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Delphinapterus_leucas_beluga_MNHN.jpg/960px-Delphinapterus_leucas_beluga_MNHN.jpg",
+        "endemic": false,
+        "start_month": 6,
+        "end_month": 9,
+        "likelihood": "likely",
+        "notes": "Small pods enter fjords such as Kongsfjorden as the ice retreats."
+      },
+      {
+        "species_id": 16182,
+        "common_name": "Wild Reindeer",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/960px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "The endemic Svalbard reindeer subspecies is common and unusually tame across the tundra."
+      },
+      {
+        "species_id": 16330,
+        "common_name": "Snowy Owl",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG/960px-B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG",
+        "endemic": false,
+        "start_month": 6,
+        "end_month": 8,
+        "likelihood": "possible",
+        "notes": "Breeds in the archipelago's bird cliffs and tundra during the brief summer."
+      }
+    ]
+  },
+  {
+    "id": 42782,
+    "name": "Northeast Greenland NP",
+    "country": "Greenland",
+    "region": "Arctic Greenland",
+    "lat": 76.5,
+    "lng": -25,
+    "description": "The world's largest national park, a vast ice-and-tundra wilderness home to muskoxen, polar bears, and narwhal-filled fjords.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16329,
+        "common_name": "Muskox",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_1.jpg/960px-Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_1.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "One of the largest and most stable muskox populations in the world roams the park's tundra valleys."
+      },
+      {
+        "species_id": 16324,
+        "common_name": "Polar Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/960px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Ranges across the park's coastline and pack ice, one of the least disturbed bear populations on Earth."
+      },
+      {
+        "species_id": 16327,
+        "common_name": "Narwhal",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg/960px-%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg",
+        "endemic": false,
+        "start_month": 7,
+        "end_month": 9,
+        "likelihood": "likely",
+        "notes": "Pods enter the park's deep fjords as summer sea ice breaks up."
+      },
+      {
+        "species_id": 16334,
+        "common_name": "Arctic Wolf",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Arctic_wolf_canis_lupus_family_canidae_or_plains_tundra_or_timber_wolf.jpg/960px-Arctic_wolf_canis_lupus_family_canidae_or_plains_tundra_or_timber_wolf.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "A pale, isolated wolf population preys on muskoxen across the interior."
+      },
+      {
+        "species_id": 16333,
+        "common_name": "Arctic Hare",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Arctic_Hare_%28Lepus_arcticus%29_02.jpg/960px-Arctic_Hare_%28Lepus_arcticus%29_02.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Common across the park's rocky tundra."
+      }
+    ]
+  },
+  {
+    "id": 42783,
+    "name": "Arctic National Wildlife Refuge",
+    "country": "USA",
+    "region": "Alaska",
+    "lat": 68.9,
+    "lng": -145,
+    "description": "Untouched Arctic wilderness on Alaska's North Slope, calving grounds of the Porcupine caribou herd and denning habitat for polar bears.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16077,
+        "common_name": "Caribou",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/960px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg",
+        "endemic": false,
+        "start_month": 5,
+        "end_month": 7,
+        "likelihood": "common",
+        "notes": "Roughly 200,000 Porcupine caribou migrate here each year to calve on the coastal plain."
+      },
+      {
+        "species_id": 16324,
+        "common_name": "Polar Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/960px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+        "endemic": false,
+        "start_month": 10,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Pregnant females den along the refuge's coastal bluffs each autumn."
+      },
+      {
+        "species_id": 16329,
+        "common_name": "Muskox",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_1.jpg/960px-Muskox_%28Ovibos_moschatus%29_male_Dovrefjell_1.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Small resident herds are found year-round across the coastal plain."
+      },
+      {
+        "species_id": 16328,
+        "common_name": "Arctic Fox",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ArcticFoxSummer.jpg/960px-ArcticFoxSummer.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Common across the tundra, following caribou and denning bears."
+      },
+      {
+        "species_id": 16330,
+        "common_name": "Snowy Owl",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG/960px-B%C3%BAho_nival_%28Bubo_scandiacus%29%2C_Arcos_de_la_Frontera%2C_C%C3%A1diz%2C_Espa%C3%B1a%2C_2015-12-08%2C_DD_03.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Breeds on the open tundra when lemming numbers are high."
+      }
+    ]
+  },
+  {
+    "id": 42784,
+    "name": "Isle Royale NP",
+    "country": "USA",
+    "region": "Michigan",
+    "lat": 48.1,
+    "lng": -88.85,
+    "description": "Remote Lake Superior island park famous for the world's longest continuously studied predator-prey relationship between wolves and moose.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16076,
+        "common_name": "Moose",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_moose.jpg/960px-Alaska_moose.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "The island's moose population, isolated since swimming or crossing ice from the mainland last century, has been tracked since 1958."
+      },
+      {
+        "species_id": 16073,
+        "common_name": "Gray Wolf",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/960px-Eurasian_wolf_2.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "A small, closely studied wolf pack preys on the island's moose, the longest-running predator-prey study on Earth."
+      },
+      {
+        "species_id": 15993,
+        "common_name": "Harbor Seal",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Common_seal_%28Phoca_vitulina%29_2.jpg/960px-Common_seal_%28Phoca_vitulina%29_2.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Hauls out on rocky shoals around the island's coastline."
+      }
+    ]
+  },
+  {
+    "id": 42785,
+    "name": "Redwood NP",
+    "country": "USA",
+    "region": "California",
+    "lat": 41.3,
+    "lng": -124,
+    "description": "Old-growth coastal park protecting the tallest trees on Earth, with Roosevelt elk grazing its fern-carpeted prairies.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16075,
+        "common_name": "Elk / Wapiti",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jasper.Wapiti-Hirsch.P1033401.jpg/960px-Jasper.Wapiti-Hirsch.P1033401.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Roosevelt elk herds graze the park's coastal prairies, especially around Elk Meadow and Prairie Creek."
+      },
+      {
+        "species_id": 16078,
+        "common_name": "American Black Bear",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Black bears forage through the redwood understory and berry thickets."
+      },
+      {
+        "species_id": 16079,
+        "common_name": "Mountain Lion",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mountain_Lion_in_Glacier_National_Park.jpg/960px-Mountain_Lion_in_Glacier_National_Park.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Occasionally seen or tracked in the park's old-growth interior."
+      },
+      {
+        "species_id": 16115,
+        "common_name": "Bald Eagle",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/960px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Nests along the park's rivers and coastline."
+      }
+    ]
+  },
+  {
+    "id": 42786,
+    "name": "Death Valley NP",
+    "country": "USA",
+    "region": "California",
+    "lat": 36.5,
+    "lng": -117.08,
+    "description": "The hottest, driest, and lowest national park in the USA, where desert bighorn and roadrunners endure extremes far below sea level.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16081,
+        "common_name": "Bighorn Sheep",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/New_Mexico_Bighorn_Sheep.JPG/960px-New_Mexico_Bighorn_Sheep.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Desert bighorn range the park's rocky slopes, visiting isolated springs to drink."
+      },
+      {
+        "species_id": 16083,
+        "common_name": "Coyote",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2009-Coyote-Yosemite.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Common throughout the valley floor and surrounding canyons."
+      },
+      {
+        "species_id": 16336,
+        "common_name": "Greater Roadrunner",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2025-02-02_02_Greater_roadrunner_%28Geococcyx_californianus%29_-_AZ_USA.jpg/960px-2025-02-02_02_Greater_roadrunner_%28Geococcyx_californianus%29_-_AZ_USA.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Frequently seen sprinting across desert roads and washes."
+      }
+    ]
   }
 ]
