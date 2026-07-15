@@ -46359,5 +46359,3007 @@
         "notes": "Frequently seen sprinting across desert roads and washes."
       }
     ]
+  },
+  {
+    "id": 42787,
+    "name": "Great Wall of China",
+    "country": "China",
+    "region": "Beijing (Badaling)",
+    "lat": 40.4319,
+    "lng": 116.5704,
+    "type": "landmark",
+    "description": "A defensive wall system stretching thousands of kilometers across northern China, built and rebuilt over two millennia by successive dynasties to guard against northern invasions.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Badaling_China_Great-Wall-of-China-01.jpg/960px-Badaling_China_Great-Wall-of-China-01.jpg",
+    "highlights": [
+      "The sheer scale is almost impossible to grasp in person — it snakes over mountain ridges as far as you can see in both directions.",
+      "Badaling's restored ramparts and watchtowers make for a dramatic, photogenic hike.",
+      "It's one of the few human-made structures you can trace across a map for thousands of kilometers.",
+      "Standing on 600-year-old stone laid during the Ming dynasty is a tangible link to a huge stretch of history."
+    ],
+    "wonder": true
+  },
+  {
+    "id": 42788,
+    "name": "Petra",
+    "country": "Jordan",
+    "region": "Ma'an Governorate",
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "type": "landmark",
+    "description": "A rose-red city carved directly into sandstone cliffs by the Nabataeans over 2,000 years ago, reached through a narrow, kilometer-long canyon called the Siq.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Treasury%2C_Petra%2C_Jordan1.jpg/960px-The_Treasury%2C_Petra%2C_Jordan1.jpg",
+    "highlights": [
+      "The reveal of the Treasury facade as you emerge from the Siq is one of travel's great 'wow' moments.",
+      "The scale of the rock-cut architecture — tombs, temples, and an amphitheater carved from solid cliff — is staggering.",
+      "It stayed lost to the Western world for centuries, only rediscovered in 1812, which gives it a real air of mystery.",
+      "Hiking up to the Monastery (Ad Deir) rewards you with a quieter, even larger facade and sweeping desert views."
+    ],
+    "wonder": true
+  },
+  {
+    "id": 42789,
+    "name": "Christ the Redeemer",
+    "country": "Brazil",
+    "region": "Rio de Janeiro",
+    "lat": -22.9519,
+    "lng": -43.2105,
+    "type": "landmark",
+    "description": "An Art Deco statue of Jesus Christ with arms outstretched, standing 38 meters tall atop Corcovado Mountain overlooking Rio de Janeiro.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/960px-Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+    "highlights": [
+      "The summit delivers one of the best panoramic city views on Earth — Sugarloaf, Copacabana, and Rio's forested peaks all at once.",
+      "The statue's calm, welcoming pose has made it an instantly recognizable symbol of Brazil and of Rio itself.",
+      "Riding the cog train up through Tijuca Forest, the world's largest urban rainforest, is an experience in itself.",
+      "It's especially striking lit up at night or emerging from cloud cover on a misty morning."
+    ],
+    "wonder": true
+  },
+  {
+    "id": 42790,
+    "name": "Machu Picchu",
+    "country": "Peru",
+    "region": "Cusco Region",
+    "lat": -13.1631,
+    "lng": -72.545,
+    "type": "landmark",
+    "description": "A 15th-century Inca citadel perched on a narrow ridge high in the Andes, built with precision dry-stone walls and rediscovered by the outside world in 1911.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg/960px-80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg",
+    "highlights": [
+      "The classic overlook shot — terraced ruins framed by Huayna Picchu peak — is one of the most iconic views in the world.",
+      "Its mountaintop setting, wrapped in cloud forest, feels genuinely remote and dramatic even with other visitors around.",
+      "The precision Inca stonework, fitted without mortar, still amazes engineers today.",
+      "Arriving on foot via the multi-day Inca Trail turns the citadel into the payoff of a real journey, not just a photo stop."
+    ],
+    "wonder": true
+  },
+  {
+    "id": 42791,
+    "name": "Chichén Itzá",
+    "country": "Mexico",
+    "region": "Yucatán",
+    "lat": 20.6843,
+    "lng": -88.5678,
+    "type": "landmark",
+    "description": "A major Maya city on the Yucatán Peninsula, dominated by the step-pyramid of El Castillo, an astronomically precise calendar built in stone.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/960px-Chichen_Itza_3.jpg",
+    "highlights": [
+      "During the spring and autumn equinoxes, sunlight creates a shadow of a serpent slithering down El Castillo's staircase.",
+      "El Castillo's design encodes the 365-day solar calendar directly into its steps and platforms.",
+      "The nearby Great Ball Court is the largest in the ancient Americas, with startling acoustics.",
+      "It's an easy, striking day trip from Cancún or Tulum, making world-class ruins very accessible."
+    ],
+    "wonder": true
+  },
+  {
+    "id": 42792,
+    "name": "Colosseum",
+    "country": "Italy",
+    "region": "Rome",
+    "lat": 41.8902,
+    "lng": 12.4922,
+    "type": "landmark",
+    "description": "The largest amphitheater ever built, completed around 80 AD, once hosting gladiator contests and public spectacles for up to 65,000 spectators.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/960px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg",
+    "highlights": [
+      "Nearly 2,000 years old and still instantly recognizable as the blueprint for every modern stadium.",
+      "The exposed underground hypogeum, where gladiators and animals waited before shows, is a fascinating (and slightly eerie) look behind the scenes.",
+      "Standing inside, it's easy to picture 65,000 Romans roaring at once.",
+      "It sits right in the heart of Rome, walkable from the Forum and Palatine Hill for a full day immersed in the ancient city."
+    ],
+    "wonder": true
+  },
+  {
+    "id": 42793,
+    "name": "Taj Mahal",
+    "country": "India",
+    "region": "Agra, Uttar Pradesh",
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "type": "landmark",
+    "description": "An ivory-white marble mausoleum built by Mughal emperor Shah Jahan for his wife Mumtaz Mahal, completed in 1653 on the banks of the Yamuna River.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg/960px-Taj_Mahal%2C_Agra%2C_India_edit2.jpg",
+    "highlights": [
+      "It's a genuine monument to love — built by a grieving emperor for his favorite wife — which gives every visit an emotional undertone.",
+      "The marble subtly shifts color through the day, glowing pink at dawn, white at midday, and golden at sunset.",
+      "The symmetry is flawless: gardens, reflecting pool, and minarets all perfectly mirrored around the central dome.",
+      "Up close, the inlaid semi-precious stone work (pietra dura) in floral patterns is extraordinary craftsmanship."
+    ],
+    "wonder": true
+  },
+  {
+    "id": 42794,
+    "name": "Eiffel Tower",
+    "country": "France",
+    "region": "Paris",
+    "lat": 48.8584,
+    "lng": 2.2945,
+    "type": "landmark",
+    "description": "Wrought-iron lattice tower built by Gustave Eiffel for the 1889 World's Fair, once the tallest structure on Earth and now the defining symbol of Paris.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg/960px-Tour_Eiffel_Wikimedia_Commons.jpg",
+    "highlights": [
+      "Meant to be dismantled after 20 years, it survived by proving useful for radio transmission — now it's unimaginable to picture Paris without it.",
+      "The view from the top sweeps across the Seine, the Arc de Triomphe, and Montmartre in one panorama.",
+      "It sparkles with 20,000 lightbulbs for five minutes every hour after dark, a free show visible across the city.",
+      "Picnicking on the Champ de Mars lawn with the tower lit up at night is a Paris rite of passage."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42795,
+    "name": "Statue of Liberty",
+    "country": "USA",
+    "region": "New York",
+    "lat": 40.6892,
+    "lng": -74.0445,
+    "type": "landmark",
+    "description": "Neoclassical copper statue on Liberty Island, gifted by France in 1886, holding a torch aloft as a symbol of freedom and the millions of immigrants who arrived by sea.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/New_York_City_%28New_York%2C_USA%29%2C_Statue_of_Liberty_--_2012_--_6660.jpg/960px-New_York_City_%28New_York%2C_USA%29%2C_Statue_of_Liberty_--_2012_--_6660.jpg",
+    "highlights": [
+      "For generations of immigrants arriving through Ellis Island, this was the very first sight of America.",
+      "Climbing to the crown gives a rare view straight up through Lady Liberty's own torch-bearing arm.",
+      "Her sheer scale is deceptive from shore — up close, the copper plates and rivets reveal remarkable 1880s engineering.",
+      "The ferry ride out across New York Harbor, with the Manhattan skyline behind you, is half the experience."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42796,
+    "name": "Giza Pyramids & Sphinx",
+    "country": "Egypt",
+    "region": "Giza",
+    "lat": 29.9792,
+    "lng": 31.1342,
+    "type": "landmark",
+    "description": "The last surviving wonder of the ancient world: three colossal pyramids built as royal tombs around 2560 BC, guarded by the enigmatic limestone Great Sphinx.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Great_Sphinx_of_Giza_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg/960px-Great_Sphinx_of_Giza_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg",
+    "highlights": [
+      "It's the only one of the original Seven Wonders of the Ancient World still standing, over 4,500 years later.",
+      "The precision of the Great Pyramid's construction — blocks weighing tons, aligned almost perfectly to true north — still isn't fully explained.",
+      "The Sphinx's weathered, half-buried form has fascinated visitors for millennia, from Roman tourists to modern-day travelers.",
+      "The pyramids sit right at the edge of modern Cairo, an almost surreal collision of ancient and urban skylines."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42797,
+    "name": "Sydney Opera House",
+    "country": "Australia",
+    "region": "New South Wales",
+    "lat": -33.8568,
+    "lng": 151.2153,
+    "type": "landmark",
+    "description": "Jørn Utzon's sail-shaped performing arts center on Sydney Harbour, completed in 1973 and instantly recognized as one of the 20th century's architectural masterpieces.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sydney_Opera_House_-_Dec_2008.jpg/960px-Sydney_Opera_House_-_Dec_2008.jpg",
+    "highlights": [
+      "The shell-like roofline looks completely different from every angle — like billowing sails from the water, like layered shells from the Botanic Gardens.",
+      "It's a working venue for opera, ballet, and concerts, not just a photo backdrop — you can actually watch a show under those famous roofs.",
+      "The harbourside setting, with the Harbour Bridge arching behind it, makes it one of the most photogenic waterfronts on Earth.",
+      "Built against huge engineering odds (the curved shells required inventing new construction methods), it's a monument to architectural ambition."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42798,
+    "name": "Angkor Wat",
+    "country": "Cambodia",
+    "region": "Siem Reap",
+    "lat": 13.4125,
+    "lng": 103.867,
+    "type": "landmark",
+    "description": "The world's largest religious monument, a 12th-century Khmer temple complex built for King Suryavarman II, its five towers mirrored in surrounding moats at sunrise.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg/960px-Angkor_Wat_with_its_reflection_%28cropped%29.jpg",
+    "highlights": [
+      "Watching the five towers silhouette against a pink sunrise, perfectly mirrored in the reflecting pools, is a bucket-list moment for a reason.",
+      "Every wall is carved with intricate bas-reliefs depicting Hindu epics and thousands of celestial apsara dancers.",
+      "It's just one temple in a vast surrounding complex — Ta Prohm's tree-strangled ruins and Bayon's giant stone faces are equally unforgettable.",
+      "Originally built as a Hindu temple, it transitioned to Buddhist use, and it remains an active place of worship today."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42799,
+    "name": "Stonehenge",
+    "country": "England",
+    "region": "Wiltshire",
+    "lat": 51.1789,
+    "lng": -1.8262,
+    "type": "landmark",
+    "description": "A prehistoric ring of massive standing stones on Salisbury Plain, erected in stages from around 3000 BC, aligned with startling precision to the solstice sunrises.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stonehenge_Heel_Stone.jpg/960px-Stonehenge_Heel_Stone.jpg",
+    "highlights": [
+      "Nobody fully agrees on how Neolithic builders moved 25-ton sarsen stones here without modern tools, which keeps it genuinely mysterious.",
+      "Its alignment with the summer and winter solstice sunrises shows a level of astronomical planning that predates writing in Britain.",
+      "Standing alone in the open expanse of Salisbury Plain, the stones feel far older and stranger than any museum exhibit could convey.",
+      "Special access visits let you walk in among the stones themselves, rather than viewing from the roped-off path."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42800,
+    "name": "Mount Fuji",
+    "country": "Japan",
+    "region": "Honshu",
+    "lat": 35.3606,
+    "lng": 138.7274,
+    "type": "landmark",
+    "description": "Japan's tallest peak and most sacred mountain, a near-perfectly symmetrical dormant volcano that has inspired centuries of art, pilgrimage, and poetry.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Chureito_Pagoda_and_Mount_Fuji_Wikivoyage_banner.jpg/960px-Chureito_Pagoda_and_Mount_Fuji_Wikivoyage_banner.jpg",
+    "highlights": [
+      "Its symmetrical snow-capped cone is instantly recognizable, immortalized in Hokusai's woodblock prints and countless works since.",
+      "Climbing to the summit for sunrise is a pilgrimage tradition going back centuries, still hiked by hundreds of thousands each summer.",
+      "The classic view from Chureito Pagoda, or reflected in Lake Kawaguchi, is one of the most photographed scenes in Japan.",
+      "As a still-active volcano regarded as sacred, it carries a spiritual weight that goes beyond its physical beauty."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42801,
+    "name": "Neuschwanstein Castle",
+    "country": "Germany",
+    "region": "Bavaria",
+    "lat": 47.5576,
+    "lng": 10.7498,
+    "type": "landmark",
+    "description": "A fairy-tale 19th-century castle commissioned by King Ludwig II of Bavaria, perched on a rugged hill above the Hohenschwangau valley in the Alps.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neuschwanstein_Castle_2024-02.jpg/960px-Neuschwanstein_Castle_2024-02.jpg",
+    "highlights": [
+      "It directly inspired Disney's Sleeping Beauty Castle, so it genuinely looks like it's straight out of a fairy tale.",
+      "The dramatic clifftop setting above forested gorges and alpine peaks feels almost too picturesque to be real.",
+      "Ludwig II built it as a private retreat and lived there only a few months before his mysterious death — giving it a tragic, romantic backstory.",
+      "The view from Marienbrücke bridge, looking back at the castle against the mountains, is one of Europe's classic photographs."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42802,
+    "name": "Acropolis of Athens",
+    "country": "Greece",
+    "region": "Athens",
+    "lat": 37.9715,
+    "lng": 23.7257,
+    "type": "landmark",
+    "description": "A rocky citadel above Athens crowned by the Parthenon, the 5th-century BC temple to Athena that remains the touchstone of classical architecture.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg/960px-Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+    "highlights": [
+      "The Parthenon's proportions have influenced Western architecture for 2,500 years — you're looking at the literal template for countless government buildings and museums.",
+      "It sits high above modern Athens, so the view stretches from ancient ruins straight out over a sprawling 21st-century city.",
+      "The Doric columns' subtle curves and tapering, refined to correct optical illusions, show extraordinary ancient engineering.",
+      "Visiting at sunset, when the marble glows gold-pink above the city, is when the hill earns its reputation."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42803,
+    "name": "Sagrada Família",
+    "country": "Spain",
+    "region": "Barcelona",
+    "lat": 41.4036,
+    "lng": 2.1744,
+    "type": "landmark",
+    "description": "Antoni Gaudí's still-unfinished basilica in Barcelona, a riot of organic curves, towering spires, and light-filled naves that has been under construction since 1882.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sagrada_Familia_March_2015-19bw.jpg/960px-Sagrada_Familia_March_2015-19bw.jpg",
+    "highlights": [
+      "It's been under continuous construction for over 140 years and still isn't finished — you're watching history being built in real time.",
+      "Gaudí modeled the interior columns on tree trunks, so the nave feels like walking through a stone forest filtering colored light.",
+      "Every facade tells a different story in stone, from the joyful Nativity façade to the stark, angular Passion façade.",
+      "Once completed, its central tower will make it the tallest church building in the world, deliberately kept one meter below Barcelona's Montjuïc hill."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42804,
+    "name": "Burj Khalifa",
+    "country": "UAE",
+    "region": "Dubai",
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "type": "landmark",
+    "description": "The tallest building ever constructed, rising 828 meters above Dubai in a tapering spire of glass and steel, completed in 2010.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dubai_Skyline_mit_Burj_Khalifa_%2818241030269%29.jpg/960px-Dubai_Skyline_mit_Burj_Khalifa_%2818241030269%29.jpg",
+    "highlights": [
+      "At 828 meters, it's more than twice the height of the Eiffel Tower — the observation decks put you above the clouds on humid days.",
+      "The building's Y-shaped floor plan and tapering spire were engineered specifically to withstand desert wind loads at record height.",
+      "The nightly choreographed fountain show at its base, set to music, draws crowds every evening.",
+      "From the top, Dubai's rapid transformation from desert to megacity is laid out beneath you in one sweeping view."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42805,
+    "name": "Golden Gate Bridge",
+    "country": "USA",
+    "region": "San Francisco",
+    "lat": 37.8199,
+    "lng": -122.4783,
+    "type": "landmark",
+    "description": "An Art Deco suspension bridge spanning the strait between San Francisco Bay and the Pacific, painted 'International Orange' and completed in 1937.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg/960px-San_Francisco_%28CA%2C_USA%29%2C_Golden_Gate_Bridge_--_2022_--_3023_%28bw%29.jpg",
+    "highlights": [
+      "Its burnt-orange towers rising through San Francisco's rolling fog banks create one of the most atmospheric views in America.",
+      "When it opened in 1937 it was both the tallest and longest suspension bridge in the world, an engineering marvel of its time.",
+      "Walking or biking across gives constantly shifting views of the bay, Alcatraz, and the city skyline.",
+      "The color was chosen specifically because it stands out against both the blue bay and the grey fog — a deliberate design decision that became iconic."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42806,
+    "name": "Big Ben & Houses of Parliament",
+    "country": "England",
+    "region": "London",
+    "lat": 51.5007,
+    "lng": -0.1246,
+    "type": "landmark",
+    "description": "The Gothic Revival Palace of Westminster on the Thames, home to the UK Parliament, with its clock tower's bell 'Big Ben' among the most recognized sounds in the world.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Big_Ben_and_the_Houses_of_Parliament_from_the_London_Eye.jpg/960px-Big_Ben_and_the_Houses_of_Parliament_from_the_London_Eye.jpg",
+    "highlights": [
+      "Big Ben's chimes have rung out over London since 1859 and are broadcast on the BBC as a national timekeeping ritual.",
+      "The riverside Gothic Revival facade, especially lit up at night and reflected in the Thames, is one of the world's classic skylines.",
+      "It's still a fully functioning seat of government — history and live democracy sharing the same building.",
+      "The view from across Westminster Bridge or the London Eye frames the clock tower perfectly against the water."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42807,
+    "name": "Mount Rushmore",
+    "country": "USA",
+    "region": "South Dakota",
+    "lat": 43.8791,
+    "lng": -103.4591,
+    "type": "landmark",
+    "description": "Colossal 18-meter-tall faces of four U.S. presidents — Washington, Jefferson, Roosevelt, and Lincoln — carved into a granite mountainside in the Black Hills.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dean_Franklin_-_06.04.03_Mount_Rushmore_Monument_%28by-sa%29.jpg/960px-Dean_Franklin_-_06.04.03_Mount_Rushmore_Monument_%28by-sa%29.jpg",
+    "highlights": [
+      "Sculptor Gutzon Borglum and 400 workers carved the granite faces using dynamite for rough shaping and precision drilling for the details — remarkably, no one died during construction.",
+      "Each face is about as tall as a six-story building, a scale that's hard to appreciate until you're standing at the base.",
+      "The Black Hills setting, with pine-covered granite peaks all around, is dramatic even before you spot the carvings.",
+      "The evening lighting ceremony illuminates the sculpture against the dark sky, drawing a nightly crowd."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42808,
+    "name": "Moai of Easter Island",
+    "country": "Chile",
+    "region": "Rapa Nui",
+    "lat": -27.1226,
+    "lng": -109.2769,
+    "type": "landmark",
+    "description": "Nearly a thousand monolithic stone figures carved by the Rapa Nui people between roughly 1250 and 1500 AD, standing watch across one of the most isolated islands on Earth.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ahu-Tongariki-and-Traveling-Moai.jpg/960px-Ahu-Tongariki-and-Traveling-Moai.jpg",
+    "highlights": [
+      "The 15 restored moai at Ahu Tongariki standing in a row against the Pacific horizon is one of the most striking sights in archaeology.",
+      "How a Neolithic society moved multi-ton statues for miles across the island, without wheels or draft animals, remains debated and fascinating.",
+      "Rapa Nui's extreme isolation — over 3,500 km from the nearest continent — makes the scale of the achievement even more remarkable.",
+      "Each moai's face is individually carved, giving the statues a distinct, watchful personality rather than a uniform mold."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42809,
+    "name": "Forbidden City",
+    "country": "China",
+    "region": "Beijing",
+    "lat": 39.9163,
+    "lng": 116.3972,
+    "type": "landmark",
+    "description": "The imperial palace complex at the heart of Beijing, home to 24 Chinese emperors from 1420 to 1912, with nearly 1,000 surviving timber-framed halls and courtyards.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/China_%28Beijing%29_Aerial_view_of_Forbidden_City_%2838884882275%29.jpg/960px-China_%28Beijing%29_Aerial_view_of_Forbidden_City_%2838884882275%29.jpg",
+    "highlights": [
+      "It's the largest palace complex on Earth — nearly 1,000 buildings across 72 hectares, all laid out on a precise north-south axis.",
+      "For 500 years, ordinary people were barred from entering — you're walking through a world that was strictly off-limits until 1912.",
+      "The golden roof tiles and vermilion walls, best seen from Jingshan Park's hill just to the north, form one of the great skyline views in Asia.",
+      "Every hall and gate is loaded with imperial symbolism, from dragon carvings to the deliberate numerology of the layout."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42810,
+    "name": "Alhambra",
+    "country": "Spain",
+    "region": "Granada",
+    "lat": 37.176,
+    "lng": -3.5881,
+    "type": "landmark",
+    "description": "A sprawling Moorish palace and fortress complex above Granada, built mainly in the 13th and 14th centuries, famed for its intricate stucco, tilework, and courtyard gardens.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pavillon_Cour_des_Lions_Alhambra_Granada_Spain.jpg/960px-Pavillon_Cour_des_Lions_Alhambra_Granada_Spain.jpg",
+    "highlights": [
+      "The Court of the Lions and its filigree stucco arches are considered the high point of Islamic architecture in Spain.",
+      "Water is used everywhere — reflecting pools, fountains, and channels — turning the whole complex into a cool, murmuring oasis.",
+      "It's a rare place where Islamic, Christian, and Renaissance architecture sit layered on top of each other across centuries.",
+      "The Generalife gardens' terraces, with views back over the palace and the Sierra Nevada beyond, are as memorable as the palace itself."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42811,
+    "name": "Niagara Falls",
+    "country": "Canada",
+    "region": "Ontario / New York border",
+    "lat": 43.0962,
+    "lng": -79.0377,
+    "type": "landmark",
+    "description": "Three massive waterfalls straddling the Canada-US border, where the Niagara River drops up to 57 meters at a combined flow of over 2,800 cubic meters per second.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Maid_of_the_Mist_VII_approaching_the_Horseshoe_Falls%2C_West_view_20170418_1.jpg/960px-Maid_of_the_Mist_VII_approaching_the_Horseshoe_Falls%2C_West_view_20170418_1.jpg",
+    "highlights": [
+      "The sheer volume of water — over 2,800 cubic meters per second — produces a roar and mist cloud you feel before you see the falls.",
+      "Boat tours like the Maid of the Mist take you right to the base of Horseshoe Falls, into the spray itself.",
+      "It's lit up in changing colors every night, turning the cascading water into a natural light show.",
+      "The Canadian side offers the classic curved view of Horseshoe Falls that appears on countless postcards."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42812,
+    "name": "Victoria Falls",
+    "country": "Zambia",
+    "region": "Southern Province / Zimbabwe border",
+    "lat": -17.9243,
+    "lng": 25.8572,
+    "type": "landmark",
+    "description": "One of the largest waterfalls in the world by width, where the Zambezi River plunges 108 meters into a narrow gorge, known locally as 'the smoke that thunders'.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_30-34_PAN.jpg/960px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_30-34_PAN.jpg",
+    "highlights": [
+      "At over 1.7 km wide, it's classified as the largest sheet of falling water on Earth — nothing prepares you for the scale in person.",
+      "The local name, 'Mosi-oa-Tunya' (the smoke that thunders), describes the spray plume that's visible for kilometers and audible from far away.",
+      "Devil's Pool, a natural rock pool right at the lip of the falls, lets braver visitors swim to the very edge (seasonally, water levels permitting).",
+      "Straddling Zambia and Zimbabwe, it can be viewed from either side, each offering a completely different angle on the gorge."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42813,
+    "name": "Potala Palace",
+    "country": "China",
+    "region": "Lhasa, Tibet",
+    "lat": 29.6558,
+    "lng": 91.1177,
+    "type": "landmark",
+    "description": "A monumental fortress-palace rising over 13 stories above Lhasa, built from the 17th century as the winter residence of the Dalai Lamas and a center of Tibetan Buddhism.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Potala_Palace%2C_August_2009.jpg/960px-Potala_Palace%2C_August_2009.jpg",
+    "highlights": [
+      "At over 3,700 meters elevation, it's among the highest major palaces on Earth, dominating the Lhasa skyline from its ridge.",
+      "The complex holds over a thousand rooms, chapels, and stupas, including the tombs of past Dalai Lamas encased in gold.",
+      "Its massive white and red walls, built directly into the rock of Red Hill, blend the fortress with the mountain itself.",
+      "As the former political and spiritual seat of the Dalai Lamas, it carries centuries of Tibetan Buddhist history within its walls."
+    ],
+    "wonder": false
+  },
+  {
+    "id": 42814,
+    "name": "Leaning Tower of Pisa",
+    "country": "Italy",
+    "region": "Pisa, Tuscany",
+    "lat": 43.723,
+    "lng": 10.3966,
+    "type": "landmark",
+    "description": "A 12th-century marble bell tower that began tilting almost as soon as construction started on its soft, unstable subsoil, now frozen at a striking 4-degree lean.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg/960px-The_Duomo_and_Tower_of_Pisa_at_sunrise.jpg",
+    "highlights": [
+      "The tilt wasn't a design choice — it's a five-century-old engineering accident that turned into the city's biggest tourist draw.",
+      "Millions of visitors have taken the same forced-perspective photo pretending to push it upright.",
+      "Engineers spent decades in the 1990s stabilizing the foundation, saving it from eventually toppling.",
+      "Climbing the 296 spiral steps inside means walking a genuinely tilted staircase, an odd sensation in itself."
+    ]
+  },
+  {
+    "id": 42815,
+    "name": "St. Mark's Square & Grand Canal",
+    "country": "Italy",
+    "region": "Venice, Veneto",
+    "lat": 45.4342,
+    "lng": 12.3388,
+    "type": "landmark",
+    "description": "The grand civic heart of Venice, ringed by St. Mark's Basilica and the Doge's Palace, with the S-curved Grand Canal winding past centuries of palazzos just beyond.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Venice_city_scenes_-_night_on_the_Grand_canal%2C_near_St_Mark%27s_square_%2811002355734%29.jpg/960px-Venice_city_scenes_-_night_on_the_Grand_canal%2C_near_St_Mark%27s_square_%2811002355734%29.jpg",
+    "highlights": [
+      "Venice is built on more than 100 small islands linked by canals and bridges — there's simply nowhere else like it.",
+      "St. Mark's Basilica's gold-mosaic interior took centuries to complete and glitters like a Byzantine treasury.",
+      "Gliding down the Grand Canal by gondola or vaporetto reveals a parade of Gothic and Renaissance palace facades.",
+      "The square famously floods at high tide (acqua alta), when raised walkways appear and locals wade through the piazza."
+    ]
+  },
+  {
+    "id": 42816,
+    "name": "Notre-Dame Cathedral",
+    "country": "France",
+    "region": "Paris",
+    "lat": 48.853,
+    "lng": 2.3499,
+    "type": "landmark",
+    "description": "A masterpiece of French Gothic architecture on the Île de la Cité, begun in 1163, famous for its flying buttresses, rose windows, and gargoyles overlooking the Seine.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Notre_Dame_Paris_front_facade_lower.jpg/960px-Notre_Dame_Paris_front_facade_lower.jpg",
+    "highlights": [
+      "It survived the French Revolution, two world wars, and a devastating 2019 fire that nearly destroyed it entirely.",
+      "Its rose windows contain some of the finest surviving 13th-century stained glass in the world.",
+      "Victor Hugo's novel made the building's gargoyles and bell towers famous well beyond France.",
+      "The meticulous post-fire restoration has become its own story of craftsmanship, reviving techniques centuries old."
+    ]
+  },
+  {
+    "id": 42817,
+    "name": "Louvre Museum & Pyramid",
+    "country": "France",
+    "region": "Paris",
+    "lat": 48.8606,
+    "lng": 2.3376,
+    "type": "landmark",
+    "description": "The world's most-visited museum, housed in a former royal palace, fronted by I.M. Pei's glass pyramid entrance that controversially modernized the historic courtyard in 1989.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/960px-Louvre_Museum_Wikimedia_Commons.jpg",
+    "highlights": [
+      "It holds the Mona Lisa, the Venus de Milo, and hundreds of thousands of other works spanning millennia of human art.",
+      "Pei's glass pyramid was fiercely debated when unveiled, and is now as iconic as the palace itself.",
+      "The building was a royal fortress and palace for centuries before becoming a museum after the Revolution.",
+      "You could spend weeks inside and still not see everything — it's genuinely too vast for one visit."
+    ]
+  },
+  {
+    "id": 42818,
+    "name": "Palace of Versailles",
+    "country": "France",
+    "region": "Île-de-France",
+    "lat": 48.8049,
+    "lng": 2.1204,
+    "type": "landmark",
+    "description": "Louis XIV's opulent royal residence outside Paris, a symbol of absolute monarchy with its Hall of Mirrors and vast formal gardens designed to overwhelm every visitor.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg/960px-Chateau_Versailles_Galerie_des_Glaces.jpg",
+    "highlights": [
+      "The Hall of Mirrors, lined with 357 mirrors facing the garden windows, was where the Treaty of Versailles was signed in 1919.",
+      "The gardens alone cover nearly 800 hectares, with fountains choreographed to music on selected days.",
+      "It was built specifically to project royal power — every room is designed to impress and intimidate.",
+      "Marie Antoinette's private hamlet on the grounds offers a strange, intimate contrast to the palace's grandeur."
+    ]
+  },
+  {
+    "id": 42819,
+    "name": "Mont Saint-Michel",
+    "country": "France",
+    "region": "Normandy",
+    "lat": 48.6361,
+    "lng": -1.5115,
+    "type": "landmark",
+    "description": "A medieval abbey perched on a rocky tidal island off the Normandy coast, surrounded by some of the highest tidal ranges in Europe that can cut it off from the mainland.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Mont_St_Michel_at_sunrise.jpg/960px-Mont_St_Michel_at_sunrise.jpg",
+    "highlights": [
+      "At high tide the island is completely surrounded by sea, and at low tide vast mudflats stretch out around it.",
+      "The abbey's spire, topped by a gilded statue of the archangel Michael, has crowned the island since the 8th century.",
+      "Its silhouette rising from the bay is one of the most photographed views in France.",
+      "The tidal range here is among the largest in Europe, transforming the landscape twice a day."
+    ]
+  },
+  {
+    "id": 42820,
+    "name": "Charles Bridge",
+    "country": "Czech Republic",
+    "region": "Prague",
+    "lat": 50.0865,
+    "lng": 14.4114,
+    "type": "landmark",
+    "description": "A 14th-century stone bridge across the Vltava River lined with 30 baroque statues, connecting Prague's Old Town to the castle district.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Prague_07-2016_View_from_Petrinska_Tower_img2.jpg/960px-Prague_07-2016_View_from_Petrinska_Tower_img2.jpg",
+    "highlights": [
+      "It's stood since 1357, surviving floods and wars while remaining the city's most iconic crossing.",
+      "The 30 statues of saints lining its length, mostly baroque additions, turn the walk across into an open-air gallery.",
+      "At sunrise, before the crowds arrive, the bridge and its views of Prague Castle are almost eerily quiet.",
+      "Street musicians and artists have gathered here for centuries, giving it a lively, bohemian atmosphere."
+    ]
+  },
+  {
+    "id": 42821,
+    "name": "Prague Castle",
+    "country": "Czech Republic",
+    "region": "Prague",
+    "lat": 50.091,
+    "lng": 14.4016,
+    "type": "landmark",
+    "description": "The largest ancient castle complex in the world by area, seat of Bohemian kings and Czech presidents for over a thousand years, crowned by the spires of St. Vitus Cathedral.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Guard_at_the_Prague_castle%2C_Prague_-_7620_%28cropped%29.jpg/960px-Guard_at_the_Prague_castle%2C_Prague_-_7620_%28cropped%29.jpg",
+    "highlights": [
+      "Guinness World Records lists it as the largest coherent castle complex on Earth, at roughly 70,000 square meters.",
+      "St. Vitus Cathedral inside took nearly 600 years to complete, spanning Gothic to 20th-century construction.",
+      "It has been a seat of power continuously since the 9th century, now serving as the Czech president's office.",
+      "The changing of the guard and the view over Prague's red rooftops from the castle terraces are a highlight of any visit."
+    ]
+  },
+  {
+    "id": 42822,
+    "name": "Brandenburg Gate",
+    "country": "Germany",
+    "region": "Berlin",
+    "lat": 52.5163,
+    "lng": 13.3777,
+    "type": "landmark",
+    "description": "An 18th-century neoclassical triumphal arch that stood in no-man's-land during the Cold War, now a symbol of German reunification and European unity.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Brandenburg_Gate_Quadriga_at_Night.jpg/960px-Brandenburg_Gate_Quadriga_at_Night.jpg",
+    "highlights": [
+      "For 28 years it sat just behind the Berlin Wall, a monument literally trapped between two worlds.",
+      "Crowds gathered here the night the Wall fell in 1989, making it the defining image of German reunification.",
+      "The quadriga sculpture on top, a chariot driven by the goddess of victory, was looted by Napoleon and later recovered.",
+      "It now anchors Berlin's ceremonial boulevard, hosting concerts, celebrations, and New Year's Eve fireworks each year."
+    ]
+  },
+  {
+    "id": 42823,
+    "name": "Cologne Cathedral",
+    "country": "Germany",
+    "region": "Cologne",
+    "lat": 50.9413,
+    "lng": 6.9583,
+    "type": "landmark",
+    "description": "A colossal Gothic cathedral whose twin spires dominate the Cologne skyline, built over six centuries and reputedly housing the relics of the Three Wise Men.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg/960px-Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg",
+    "highlights": [
+      "Construction spanned over 600 years, halted for centuries before resuming and finally finishing in 1880.",
+      "It was the tallest building in the world briefly upon completion, and its spires still dwarf the surrounding city.",
+      "It survived Allied bombing in WWII largely intact while the neighborhood around it was flattened, a scene locals still talk about.",
+      "The golden reliquary inside is said to hold the bones of the Biblical Magi, drawing pilgrims for centuries."
+    ]
+  },
+  {
+    "id": 42824,
+    "name": "Matterhorn",
+    "country": "Switzerland",
+    "region": "Zermatt, Valais",
+    "lat": 45.9763,
+    "lng": 7.6586,
+    "type": "landmark",
+    "description": "One of the most instantly recognizable mountains on Earth, a near-perfect pyramid of rock straddling the Swiss-Italian border above the car-free village of Zermatt.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/CH.VS.Zermatt_2021-10-17_Matterhorn_8726.jpg/960px-CH.VS.Zermatt_2021-10-17_Matterhorn_8726.jpg",
+    "highlights": [
+      "Its dramatic, almost symmetrical pyramid shape has made it the visual shorthand for 'mountain' worldwide, echoed in the Toblerone logo.",
+      "The first ascent in 1865 ended in tragedy when four climbers fell to their deaths on the descent, a story still told in Zermatt.",
+      "Zermatt itself bans combustion-engine cars, so the mountain looms over a village of electric taxis and horse carts.",
+      "At sunrise and sunset the peak turns fiery orange-pink, a phenomenon locals call the 'alpenglow'."
+    ]
+  },
+  {
+    "id": 42825,
+    "name": "Cliffs of Moher",
+    "country": "Ireland",
+    "region": "County Clare",
+    "lat": 52.9715,
+    "lng": -9.4309,
+    "type": "landmark",
+    "description": "Sheer Atlantic cliffs rising up to 214 meters above the sea along Ireland's west coast, stretching for 14 kilometers and home to thousands of nesting seabirds.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ireland_Cliffs_of_Moher_BW_2025-09-11_14-27-51.jpg/960px-Ireland_Cliffs_of_Moher_BW_2025-09-11_14-27-51.jpg",
+    "highlights": [
+      "The cliffs drop so abruptly into the Atlantic that the sense of scale only hits once you're standing at the edge.",
+      "Puffins, guillemots, and razorbills nest on the ledges each spring, making it a major seabird colony.",
+      "On a clear day the Aran Islands and the mountains of Connemara are visible far across the bay.",
+      "They've featured in major films, including as the Cliffs of Insanity in The Princess Bride."
+    ]
+  },
+  {
+    "id": 42826,
+    "name": "Giant's Causeway",
+    "country": "Northern Ireland",
+    "region": "County Antrim",
+    "lat": 55.2408,
+    "lng": -6.5116,
+    "type": "landmark",
+    "description": "Roughly 40,000 interlocking hexagonal basalt columns formed by ancient volcanic activity, jutting into the sea along Northern Ireland's Antrim coast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Giant%27s_Causeway_%2814%29.JPG/960px-Giant%27s_Causeway_%2814%29.JPG",
+    "highlights": [
+      "The columns are so geometrically regular that early visitors assumed they had to be man-made, hence the legend of giants building them.",
+      "Local folklore says a giant named Finn McCool built the causeway to reach Scotland, and the Scottish coast does have matching basalt formations.",
+      "Walking across the interlocking stones right down to the waterline feels genuinely otherworldly.",
+      "It formed from rapidly cooling lava roughly 60 million years ago, a rare and dramatic geological process."
+    ]
+  },
+  {
+    "id": 42827,
+    "name": "Trevi Fountain",
+    "country": "Italy",
+    "region": "Rome",
+    "lat": 41.9009,
+    "lng": 12.4833,
+    "type": "landmark",
+    "description": "Rome's largest and most theatrical baroque fountain, completed in 1762, where legend says a coin tossed over your shoulder guarantees a return to the Eternal City.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Oceanus_%28Trevi_fountain%29.jpg/960px-Oceanus_%28Trevi_fountain%29.jpg",
+    "highlights": [
+      "An estimated 3,000 euros in coins are thrown into the fountain every single day, collected and donated to charity.",
+      "The dramatic sculpture of Neptune taming sea horses fills an entire palazzo facade behind the water.",
+      "It's fed by an aqueduct that has supplied Rome with water since ancient Roman times.",
+      "Its starring role in Fellini's La Dolce Vita cemented it as a symbol of romantic Rome."
+    ]
+  },
+  {
+    "id": 42828,
+    "name": "Pompeii",
+    "country": "Italy",
+    "region": "Campania",
+    "lat": 40.7461,
+    "lng": 14.4989,
+    "type": "landmark",
+    "description": "A once-thriving Roman city frozen in time by the eruption of Mount Vesuvius in 79 AD, preserving streets, villas, and plaster casts of its final residents in extraordinary detail.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pompeii_Ruins_%26_Mt._Vesuvius_%2848442337717%29.jpg/960px-Pompeii_Ruins_%26_Mt._Vesuvius_%2848442337717%29.jpg",
+    "highlights": [
+      "Ash and pumice buried the city so completely that everyday Roman life — bakeries, taverns, graffiti — survives almost untouched.",
+      "The eerie plaster casts of victims, formed from cavities left in the hardened ash, capture their final moments.",
+      "Vesuvius still looms directly over the ruins, an active volcano that remains a real concern for the region today.",
+      "Walking its Roman streets gives an unfiltered, ground-level view of ancient daily life found almost nowhere else."
+    ]
+  },
+  {
+    "id": 42829,
+    "name": "Amalfi Coast",
+    "country": "Italy",
+    "region": "Campania",
+    "lat": 40.628,
+    "lng": 14.4894,
+    "type": "landmark",
+    "description": "A dramatic stretch of Mediterranean coastline where pastel villages like Positano cling to steep cliffs above turquoise water, linked by one of the world's most scenic coastal roads.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Positano_%28Italy%29_04.jpg/960px-Positano_%28Italy%29_04.jpg",
+    "highlights": [
+      "Positano's houses stack up the cliffside in tiers of pink, yellow, and white, one of the most photographed views in Italy.",
+      "The coastal drive between Sorrento and Amalfi hugs cliff edges with hairpin turns and sea views at every corner.",
+      "Lemon groves terraced into the hillsides supply the region's famous limoncello.",
+      "Hidden coves accessible only by boat or footpath give the coast a sense of discovery even amid the crowds."
+    ]
+  },
+  {
+    "id": 42830,
+    "name": "Tre Cime di Lavaredo",
+    "country": "Italy",
+    "region": "Dolomites, South Tyrol",
+    "lat": 46.6178,
+    "lng": 12.3031,
+    "type": "landmark",
+    "description": "Three dramatic pale limestone peaks rising sheer from alpine meadows in the Dolomites, among the most photographed mountain formations in the Alps.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Drei_Zinnen_Tre_Cime_di_Lavaredo_Dolomites.jpg/960px-Drei_Zinnen_Tre_Cime_di_Lavaredo_Dolomites.jpg",
+    "highlights": [
+      "The three towers glow pink and orange at sunset in a phenomenon called 'enrosadira', unique to Dolomite limestone.",
+      "A popular loop trail circles all three peaks, passing WWI-era trenches and shelters carved into the rock.",
+      "Their sheer, almost vertical faces have made them a legendary destination for rock climbers since the 1800s.",
+      "The surrounding meadows and rifugios (mountain huts) make this one of the most accessible high-alpine landscapes in Europe."
+    ]
+  },
+  {
+    "id": 42831,
+    "name": "Santorini",
+    "country": "Greece",
+    "region": "Cyclades",
+    "lat": 36.4618,
+    "lng": 25.3753,
+    "type": "landmark",
+    "description": "A crescent-shaped volcanic island in the Aegean, its whitewashed, blue-domed villages perched on the rim of a caldera formed by one of history's largest volcanic eruptions.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Oia_Santorini_sunset.jpg",
+    "highlights": [
+      "The island is literally the rim of a collapsed volcano, and the caldera views are the direct result of that ancient catastrophe.",
+      "Oia's sunset, watched by crowds gathered along the cliffside walkway every evening, is considered one of the best in the world.",
+      "The white-and-blue color scheme of the buildings isn't just aesthetic — whitewash was historically used to reflect heat and disinfect.",
+      "Wineries built into volcanic soil produce distinctive Assyrtiko wines found almost nowhere else."
+    ]
+  },
+  {
+    "id": 42832,
+    "name": "Meteora",
+    "country": "Greece",
+    "region": "Thessaly",
+    "lat": 39.7217,
+    "lng": 21.6308,
+    "type": "landmark",
+    "description": "Eastern Orthodox monasteries built atop towering sandstone pillars in central Greece, some dating to the 14th century, once accessible only by climbing removable ladders or nets.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%CE%9C%CE%B5%CF%84%CE%B5%CF%89%CF%81%CE%B1_by_night.jpg/960px-%CE%9C%CE%B5%CF%84%CE%B5%CF%89%CF%81%CE%B1_by_night.jpg",
+    "highlights": [
+      "Monks originally reached these monasteries via retractable rope ladders and nets, deliberately making them nearly impossible to attack.",
+      "The rock pillars themselves formed over millions of years through erosion, sediment, and tectonic uplift.",
+      "Six monasteries remain active today, still inhabited by small communities of monks and nuns.",
+      "The combination of sheer natural rock towers and centuries-old architecture makes it feel like nowhere else on Earth."
+    ]
+  },
+  {
+    "id": 42833,
+    "name": "Delphi",
+    "country": "Greece",
+    "region": "Phocis",
+    "lat": 38.4824,
+    "lng": 22.501,
+    "type": "landmark",
+    "description": "The sanctuary of Apollo on the slopes of Mount Parnassus, home to the ancient world's most famous oracle, whose prophecies were said to shape decisions across the Greek world.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Down_Archaeological_site_of_Delphi%2C_Marmaria%2C_201267.jpg/960px-Down_Archaeological_site_of_Delphi%2C_Marmaria%2C_201267.jpg",
+    "highlights": [
+      "Ancient Greeks believed this was the center of the world, marked by a sacred stone called the omphalos.",
+      "Kings, generals, and city-states consulted the Oracle here before major decisions for centuries.",
+      "The site's dramatic mountainside setting, overlooking a valley of olive groves down to the Gulf of Corinth, is stunning even without the ruins.",
+      "The well-preserved theater and stadium above the temple hosted the Pythian Games, second only to the Olympics in prestige."
+    ]
+  },
+  {
+    "id": 42834,
+    "name": "Blue Mosque",
+    "country": "Turkey",
+    "region": "Istanbul",
+    "lat": 41.0054,
+    "lng": 28.9768,
+    "type": "landmark",
+    "description": "A 17th-century Ottoman imperial mosque famed for its six minarets and the tens of thousands of handmade blue İznik tiles lining its interior.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blue_Mosque_Courtyard_Dusk_Wikimedia_Commons.jpg/960px-Blue_Mosque_Courtyard_Dusk_Wikimedia_Commons.jpg",
+    "highlights": [
+      "It's one of the few mosques ever built with six minarets, a choice so bold it reportedly caused controversy at the time.",
+      "Over 20,000 handcrafted blue İznik tiles cover the interior, giving the mosque its popular name.",
+      "It sits directly across from the Hagia Sophia, letting visitors compare Ottoman and Byzantine architecture side by side.",
+      "It remains an active place of worship, with a rhythm of daily prayers still shaping visiting hours."
+    ]
+  },
+  {
+    "id": 42835,
+    "name": "Hagia Sophia",
+    "country": "Turkey",
+    "region": "Istanbul",
+    "lat": 41.0086,
+    "lng": 28.9802,
+    "type": "landmark",
+    "description": "A Byzantine cathedral turned Ottoman mosque turned museum turned mosque again, its massive dome an engineering marvel that stood as the world's largest for nearly a thousand years.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/960px-Hagia_Sophia_Mars_2013.jpg",
+    "highlights": [
+      "Its dome was the largest in the world for almost 1,000 years after completion in 537 AD, an engineering feat for its time.",
+      "The building's layered history — Christian cathedral, Ottoman mosque, secular museum, and mosque again — is visible in its very walls, where Christian mosaics and Islamic calligraphy coexist.",
+      "Shafts of light through its 40 windows create a famously luminous interior that inspired its name, meaning 'Holy Wisdom'.",
+      "It has stood at the crossroads of Europe and Asia for nearly 1,500 years, surviving earthquakes, sieges, and empires."
+    ]
+  },
+  {
+    "id": 42836,
+    "name": "Cappadocia",
+    "country": "Turkey",
+    "region": "Nevşehir Province",
+    "lat": 38.6431,
+    "lng": 34.8286,
+    "type": "landmark",
+    "description": "A surreal volcanic landscape of cone-shaped rock formations known as 'fairy chimneys', honeycombed with cave dwellings, churches, and underground cities carved over centuries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cappadocia_Balloon_Inflating_Wikimedia_Commons.JPG/960px-Cappadocia_Balloon_Inflating_Wikimedia_Commons.JPG",
+    "highlights": [
+      "Hundreds of hot air balloons drift over the valleys at sunrise, creating one of the most photographed skyscapes in the world.",
+      "Entire underground cities, some descending eight levels, were carved to hide thousands of people from ancient invaders.",
+      "Early Christians carved churches directly into the soft volcanic rock, many still decorated with frescoes.",
+      "The 'fairy chimney' rock formations were shaped over millions of years by wind and water eroding layered volcanic ash."
+    ]
+  },
+  {
+    "id": 42837,
+    "name": "Ephesus",
+    "country": "Turkey",
+    "region": "İzmir Province",
+    "lat": 37.941,
+    "lng": 27.3417,
+    "type": "landmark",
+    "description": "One of the best-preserved ancient cities in the Mediterranean, once a major Roman port with 250,000 residents, its marble-columned Library of Celsus still standing after 1,900 years.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ephesus_Celsus_Library_Fa%C3%A7ade.jpg/960px-Ephesus_Celsus_Library_Fa%C3%A7ade.jpg",
+    "highlights": [
+      "The Library of Celsus facade, rebuilt from original fragments, remains one of the most photographed ruins in the ancient world.",
+      "At its peak Ephesus was one of the largest cities in the Roman Empire, with a theater seating 25,000 people.",
+      "The city was once a bustling seaport, though silt has since pushed the coastline several kilometers away.",
+      "It was an early center of Christianity, mentioned in the New Testament and linked to the Apostle Paul and Virgin Mary."
+    ]
+  },
+  {
+    "id": 42838,
+    "name": "Pena Palace",
+    "country": "Portugal",
+    "region": "Sintra",
+    "lat": 38.7876,
+    "lng": -9.3906,
+    "type": "landmark",
+    "description": "A flamboyant 19th-century Romanticist palace in vivid red and yellow, perched on a hilltop above Sintra's forested hills, mixing Gothic, Moorish, and Manueline styles.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pena_Palace%2C_Sintra%2C_Portugal%2C_20250606_1037_0005.jpg/960px-Pena_Palace%2C_Sintra%2C_Portugal%2C_20250606_1037_0005.jpg",
+    "highlights": [
+      "Its clashing colors and mixed architectural styles were a deliberate romantic fantasy, unlike anything else in Portugal.",
+      "On clear days the palace and its hilltop setting offer sweeping views all the way to the Atlantic coast.",
+      "It was built on the ruins of a monastery struck by lightning, blending old religious foundations with royal whimsy.",
+      "Sintra's cool, misty microclimate has drawn Portuguese royalty and poets alike for centuries, Lord Byron among them."
+    ]
+  },
+  {
+    "id": 42839,
+    "name": "Edinburgh Castle",
+    "country": "Scotland",
+    "region": "Edinburgh",
+    "lat": 55.9486,
+    "lng": -3.1999,
+    "type": "landmark",
+    "description": "An ancient fortress atop a volcanic crag dominating the Edinburgh skyline, one of the most besieged places in Britain and home to the Scottish Crown Jewels.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Edinburgh_Castle_from_Grass_Market.jpg/960px-Edinburgh_Castle_from_Grass_Market.jpg",
+    "highlights": [
+      "It sits on the plug of an extinct volcano, giving it a naturally defensible position used for over 1,000 years.",
+      "The One O'Clock Gun still fires daily from the ramparts, a tradition dating back to 1861 for ships to set their clocks.",
+      "It has been besieged more times than almost any other castle in Britain, reflecting centuries of Scottish-English conflict.",
+      "The Crown Jewels of Scotland, among the oldest in Britain, are kept within its walls."
+    ]
+  },
+  {
+    "id": 42840,
+    "name": "Buckingham Palace",
+    "country": "England",
+    "region": "London",
+    "lat": 51.5014,
+    "lng": -0.1419,
+    "type": "landmark",
+    "description": "The official London residence of the British monarch since 1837, with 775 rooms and a ceremonial forecourt where the Changing of the Guard draws crowds daily.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Buckingham_Palace%2C_London_-_April_2009.jpg/960px-Buckingham_Palace%2C_London_-_April_2009.jpg",
+    "highlights": [
+      "It has 775 rooms, including 52 royal and guest bedrooms, making it one of the largest working palaces still in use.",
+      "The Changing of the Guard ceremony, with its bearskin hats and marching band, has become a quintessential London spectacle.",
+      "When the monarch is in residence, the Royal Standard flies above the palace instead of the Union Flag.",
+      "Its balcony has hosted historic royal moments, from wartime addresses to wedding kisses watched by millions."
+    ]
+  },
+  {
+    "id": 42841,
+    "name": "Tower Bridge",
+    "country": "England",
+    "region": "London",
+    "lat": 51.5055,
+    "lng": -0.0754,
+    "type": "landmark",
+    "description": "A Victorian bascule bridge across the Thames, its twin Gothic towers and raising roadway making it one of London's most recognizable landmarks since 1894.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tower_Bridge_London_Dusk_Feb_2006.jpg/960px-Tower_Bridge_London_Dusk_Feb_2006.jpg",
+    "highlights": [
+      "The road deck still splits and lifts to let tall ships pass, a mechanical spectacle over a century old.",
+      "Its Gothic towers were designed specifically to visually match the nearby Tower of London.",
+      "A glass-floored walkway between the towers lets visitors look straight down at traffic and the river below.",
+      "It's frequently (and mistakenly) confused with London Bridge, which sits plainly just upstream."
+    ]
+  },
+  {
+    "id": 42842,
+    "name": "Dubrovnik Old City",
+    "country": "Croatia",
+    "region": "Dubrovnik-Neretva",
+    "lat": 42.6414,
+    "lng": 18.1084,
+    "type": "landmark",
+    "description": "A walled medieval city on the Adriatic coast, its limestone streets and terracotta rooftops encircled by nearly two kilometers of intact fortifications.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dubrovnik_Old_Town_1.jpg/960px-Dubrovnik_Old_Town_1.jpg",
+    "highlights": [
+      "Walking the full loop of the city walls gives a complete aerial-level view over the entire old town and out to sea.",
+      "The city survived a devastating siege in the 1990s and has been carefully restored, its scars still visible in places.",
+      "Its dramatic walls and coastal setting made it the real-world filming location for King's Landing in Game of Thrones.",
+      "Cable cars up nearby Mount Srđ offer a sweeping panorama of the walled city and the Adriatic beyond."
+    ]
+  },
+  {
+    "id": 42843,
+    "name": "Gamla Stan",
+    "country": "Sweden",
+    "region": "Stockholm",
+    "lat": 59.3251,
+    "lng": 18.0711,
+    "type": "landmark",
+    "description": "Stockholm's medieval old town, a maze of narrow cobbled lanes, ochre and rust-colored buildings, and the Royal Palace, spread across a small island at the city's founding site.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Skeppsbrokajen_Gamla_Stan_from_Skeppsholmen_Stockholm_2016_01.jpg/960px-Skeppsbrokajen_Gamla_Stan_from_Skeppsholmen_Stockholm_2016_01.jpg",
+    "highlights": [
+      "It marks the literal founding spot of Stockholm in the 13th century, making it the historic core of the entire city.",
+      "The narrow alley Mårten Trotzigs Gränd is barely a meter wide, one of the narrowest streets in Stockholm.",
+      "The Royal Palace here is one of the largest in Europe by number of rooms, still used for official state functions.",
+      "Cafés serving fika (Sweden's coffee-and-pastry tradition) line nearly every corner of the old town's squares."
+    ]
+  },
+  {
+    "id": 42844,
+    "name": "Blue Lagoon",
+    "country": "Iceland",
+    "region": "Reykjanes Peninsula",
+    "lat": 63.8804,
+    "lng": -22.4495,
+    "type": "landmark",
+    "description": "A milky-blue geothermal spa set in a black lava field, fed by mineral-rich water at a constant 37-39°C that's become one of Iceland's most visited attractions.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Refleksjoner.jpg/960px-Refleksjoner.jpg",
+    "highlights": [
+      "The water's opaque blue color and silica content come from the same geothermal power plant process that supplies the region's heat and electricity.",
+      "Steam rising off the lagoon against black lava rock and, often, snow creates a striking, otherworldly contrast.",
+      "Visitors slather on the mineral-rich silica mud, said to benefit skin, right in the water.",
+      "It sits on the Reykjanes Peninsula, an active volcanic and geothermal zone that has produced eruptions in recent years."
+    ]
+  },
+  {
+    "id": 42845,
+    "name": "Keukenhof Gardens",
+    "country": "Netherlands",
+    "region": "Lisse, South Holland",
+    "lat": 52.2693,
+    "lng": 4.547,
+    "type": "landmark",
+    "description": "The world's largest flower garden, planting over seven million tulip, daffodil, and hyacinth bulbs each year across landscaped grounds that bloom for just a few weeks in spring.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tulips_and_tree_at_Keukenhof_gardens.jpg/960px-Tulips_and_tree_at_Keukenhof_gardens.jpg",
+    "highlights": [
+      "More than seven million bulbs are hand-planted every single year, entirely replanted for each spring season.",
+      "It's only open around eight weeks a year, timed precisely to the peak of the Dutch bulb-flowering season.",
+      "The color-block tulip fields surrounding the gardens are a Dutch agricultural industry as much as a tourist spectacle.",
+      "Windmills and canals on the grounds complete a scene that feels like the definitive image of the Netherlands."
+    ]
+  },
+  {
+    "id": 42846,
+    "name": "Amsterdam Canals",
+    "country": "Netherlands",
+    "region": "Amsterdam",
+    "lat": 52.3676,
+    "lng": 4.8952,
+    "type": "landmark",
+    "description": "A UNESCO-listed network of 17th-century canals ringing the historic center, lined with narrow gabled townhouses built during the Dutch Golden Age of trade.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg/960px-Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg",
+    "highlights": [
+      "The canal ring was engineered in the 1600s as a coordinated urban plan, remarkably advanced for its time.",
+      "Amsterdam has more canals and bridges than Venice, though it's far less associated with the comparison.",
+      "The narrow, leaning townhouses were taxed by frontage width, which is why they're tall, narrow, and often tilted.",
+      "Cycling or boating along the canals at golden hour, past houseboats and bridges strung with lights, is a quintessential Amsterdam evening."
+    ]
+  },
+  {
+    "id": 42847,
+    "name": "Terracotta Army",
+    "country": "China",
+    "region": "Xi'an, Shaanxi",
+    "lat": 34.3841,
+    "lng": 109.2785,
+    "type": "landmark",
+    "description": "Thousands of life-sized clay soldiers buried around 210 BC to guard China's first emperor in the afterlife, rediscovered by farmers digging a well in 1974.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xian_China_Terracotta-Army-Museum-01.jpg/960px-Xian_China_Terracotta-Army-Museum-01.jpg",
+    "highlights": [
+      "Each of the roughly 8,000 soldiers has individually distinct facial features, armor, and hairstyles — no two are exactly alike.",
+      "It was found completely by accident in 1974 by farmers drilling a well, one of archaeology's great modern discoveries.",
+      "The soldiers were originally painted in vivid colors that faded within minutes of exposure to air after burial, a conservation challenge still being solved.",
+      "Emperor Qin Shi Huang's actual tomb nearby remains unopened, believed to hold even greater treasures still unexcavated."
+    ]
+  },
+  {
+    "id": 42848,
+    "name": "Zhangjiajie National Forest Park",
+    "country": "China",
+    "region": "Hunan",
+    "lat": 29.3467,
+    "lng": 110.4419,
+    "type": "landmark",
+    "description": "A forest of thousands of towering sandstone pillars draped in greenery in northern Hunan, whose otherworldly peaks directly inspired the floating mountains of the film Avatar.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sandstone_spire_forest_Zhangjiajie_Hunan.jpg/960px-Sandstone_spire_forest_Zhangjiajie_Hunan.jpg",
+    "highlights": [
+      "James Cameron cited these pillars as direct inspiration for the floating Hallelujah Mountains in Avatar.",
+      "One peak was officially renamed 'Avatar Hallelujah Mountain' after the film's release, cementing the connection.",
+      "A glass-bottomed skywalk and glass bridge here let visitors walk out over sheer drops between the pillars.",
+      "The sandstone spires formed over 380 million years of erosion, creating one of the most unusual landscapes in China."
+    ]
+  },
+  {
+    "id": 42849,
+    "name": "Li River & Guilin Karsts",
+    "country": "China",
+    "region": "Guangxi",
+    "lat": 24.9165,
+    "lng": 110.4526,
+    "type": "landmark",
+    "description": "A dreamlike stretch of river winding between thousands of jagged limestone karst peaks, a landscape so iconic it appears on China's 20-yuan banknote.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1_li_jiang_guilin_yangshuo_2011.jpg/960px-1_li_jiang_guilin_yangshuo_2011.jpg",
+    "highlights": [
+      "The river-and-karst scenery here is featured directly on China's 20-yuan note, making it instantly recognizable nationwide.",
+      "Morning mist drifting between the peaks and fishermen on bamboo rafts with cormorants create scenes painted by Chinese artists for a thousand years.",
+      "The karst towers formed from ancient seabed limestone dissolved by water over tens of millions of years.",
+      "A slow boat cruise between Guilin and Yangshuo remains one of the most scenic river journeys in the world."
+    ]
+  },
+  {
+    "id": 42850,
+    "name": "Petronas Towers",
+    "country": "Malaysia",
+    "region": "Kuala Lumpur",
+    "lat": 3.1579,
+    "lng": 101.7116,
+    "type": "landmark",
+    "description": "Twin 88-story steel and glass towers linked by a skybridge, the tallest twin buildings in the world, designed with Islamic geometric motifs reflecting Malaysian culture.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Petronas_Towers_at_Night_-_from_the_base_upwards.jpg/960px-Petronas_Towers_at_Night_-_from_the_base_upwards.jpg",
+    "highlights": [
+      "They held the title of world's tallest buildings from 1998 to 2004, and remain the tallest twin towers on Earth.",
+      "The floor plan is based on an eight-pointed Islamic star pattern, blending modern engineering with cultural symbolism.",
+      "The skybridge connecting the towers on the 41st floor is one of the highest two-story bridges in the world.",
+      "At night the towers are lit in a way that makes them a defining feature of the Kuala Lumpur skyline for miles around."
+    ]
+  },
+  {
+    "id": 42851,
+    "name": "Marina Bay Sands",
+    "country": "Singapore",
+    "region": "Marina Bay",
+    "lat": 1.2834,
+    "lng": 103.8607,
+    "type": "landmark",
+    "description": "An integrated resort of three 55-story towers topped by a 340-meter rooftop 'SkyPark' with an infinity pool overlooking the entire Singapore skyline.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/960px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg",
+    "highlights": [
+      "The rooftop infinity pool, suspended nearly 200 meters up, is one of the highest and most photographed in the world.",
+      "The three-tower structure resembles a giant card deck or, as some see it, a boat balanced across the towers.",
+      "The nightly Spectra light-and-water show on the bay below draws crowds every evening.",
+      "Its silhouette has become as central to Singapore's identity as the Merlion, transforming the skyline since 2010."
+    ]
+  },
+  {
+    "id": 42852,
+    "name": "Grand Palace & Wat Phra Kaew",
+    "country": "Thailand",
+    "region": "Bangkok",
+    "lat": 13.75,
+    "lng": 100.4915,
+    "type": "landmark",
+    "description": "The former royal residence of Siamese kings, a dazzling complex of gilded spires and mosaic-tiled buildings that also houses the revered Emerald Buddha.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_-_Wat_Phra_Kaew%2C_Temple_of_Emerald_Buddha%2C_Bangkok%2C_Thailand.jpg/960px-thumbnail.jpg",
+    "highlights": [
+      "The Emerald Buddha housed here, actually carved from jade, is Thailand's most sacred Buddhist image, and only the king may change its seasonal robes.",
+      "Every surface seems to shimmer — gold leaf, colored glass mosaics, and porcelain tilework cover nearly every building.",
+      "It served as the official royal residence for 150 years and remains the ceremonial heart of the Thai monarchy.",
+      "The strict dress code (shoulders and knees covered) reflects how seriously the site's religious significance is still treated."
+    ]
+  },
+  {
+    "id": 42853,
+    "name": "Ha Long Bay",
+    "country": "Vietnam",
+    "region": "Quảng Ninh",
+    "lat": 20.9101,
+    "lng": 107.1839,
+    "type": "landmark",
+    "description": "Nearly 2,000 limestone karst islands and islets rising from emerald waters in the Gulf of Tonkin, many riddled with caves and topped with jungle.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Halong_Bay_in_Vietnam.jpg/960px-Halong_Bay_in_Vietnam.jpg",
+    "highlights": [
+      "Vietnamese legend says the islands were formed by a family of dragons spitting jewels and jade into the sea to fend off invaders, giving the bay its name ('descending dragon').",
+      "Overnight cruises among the limestone towers, anchoring in hidden coves, are one of Southeast Asia's classic travel experiences.",
+      "Some islands hide enormous caves like Sung Sot (Surprise Cave), with cathedral-sized chambers of stalactites.",
+      "The nearly 2,000 islands formed over 20 million years of limestone erosion, a rare concentration found in only a few places on Earth."
+    ]
+  },
+  {
+    "id": 42854,
+    "name": "Borobudur",
+    "country": "Indonesia",
+    "region": "Central Java",
+    "lat": -7.6079,
+    "lng": 110.2038,
+    "type": "landmark",
+    "description": "The world's largest Buddhist temple, a 9th-century stepped pyramid in Java decorated with 2,672 relief panels and hundreds of Buddha statues, many seated inside perforated stupas.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Borobudur-Nothwest-view.jpg/960px-Borobudur-Nothwest-view.jpg",
+    "highlights": [
+      "Its 2,672 relief panels form the largest and most complete collection of Buddhist reliefs anywhere, meant to be read as a walking pilgrimage.",
+      "The temple was abandoned and buried under volcanic ash and jungle for centuries before being rediscovered in the 1800s.",
+      "Watching sunrise from the upper terraces, with mist rolling over Java's volcanoes in the distance, is a bucket-list moment for many travelers.",
+      "Its design as a three-dimensional mandala guides visitors symbolically from earthly desire toward enlightenment as they climb."
+    ]
+  },
+  {
+    "id": 42855,
+    "name": "Golden Temple (Harmandir Sahib)",
+    "country": "India",
+    "region": "Amritsar, Punjab",
+    "lat": 31.62,
+    "lng": 74.8765,
+    "type": "landmark",
+    "description": "Sikhism's holiest shrine, its upper floors gilded in real gold, standing at the center of a sacred pool in Amritsar and open to visitors of every faith around the clock.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hamandir_Sahib_%28Golden_Temple%29.jpg/960px-Hamandir_Sahib_%28Golden_Temple%29.jpg",
+    "highlights": [
+      "It runs the world's largest free community kitchen (langar), serving up to 100,000 people a meal every single day, regardless of faith or background.",
+      "The temple's lower half is white marble and its upper half genuine gold leaf, producing a dazzling reflection in the surrounding sacred pool.",
+      "It remains open 24 hours a day, welcoming visitors of any religion, a core Sikh principle of equality and hospitality.",
+      "Continuous recitation of Sikh scripture inside creates a steady, meditative soundscape that fills the whole complex."
+    ]
+  },
+  {
+    "id": 42856,
+    "name": "Varanasi Ghats",
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "lat": 25.3109,
+    "lng": 83.0104,
+    "type": "landmark",
+    "description": "A string of stone steps along the sacred Ganges River in one of the world's oldest continuously inhabited cities, where pilgrims bathe and cremation rituals continue as they have for millennia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Varanasi_Munshi_Ghat3.jpg/960px-Varanasi_Munshi_Ghat3.jpg",
+    "highlights": [
+      "Hindus consider Varanasi one of the most auspicious places on Earth to die, believing it grants liberation from the cycle of rebirth.",
+      "Dawn boat rides along the ghats reveal thousands of pilgrims bathing in the river as the sun rises over the water.",
+      "The nightly Ganga Aarti fire ceremony, performed by priests with elaborate oil lamps, draws huge crowds to the riverbank.",
+      "The city is considered one of the oldest continuously inhabited places in the world, with a spiritual life that has barely paused in millennia."
+    ]
+  },
+  {
+    "id": 42857,
+    "name": "Hampi",
+    "country": "India",
+    "region": "Karnataka",
+    "lat": 15.335,
+    "lng": 76.46,
+    "type": "landmark",
+    "description": "The ruins of Vijayanagara, once one of the largest and richest cities in the medieval world, its temples and palaces scattered across a surreal boulder-strewn landscape.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Krishna_Pushkarani_-_Hampi_Ruins.jpg/960px-Krishna_Pushkarani_-_Hampi_Ruins.jpg",
+    "highlights": [
+      "At its peak in the 1500s, Vijayanagara was one of the largest cities on Earth, rivaling contemporary Rome and Beijing in population.",
+      "The ruins are scattered across a bizarre landscape of giant granite boulders, as if temples grew directly out of the rock.",
+      "The Vittala Temple's musical pillars are said to produce different musical notes when tapped.",
+      "The city was sacked and abandoned within a matter of months in 1565, leaving it remarkably preserved as a snapshot of that fall."
+    ]
+  },
+  {
+    "id": 42858,
+    "name": "Jaisalmer Fort",
+    "country": "India",
+    "region": "Rajasthan",
+    "lat": 26.9124,
+    "lng": 70.9076,
+    "type": "landmark",
+    "description": "A living sandstone fortress rising from the Thar Desert, one of the few forts in the world still inhabited, with roughly a quarter of Jaisalmer's population living within its walls.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jaisalmer_Fort%2C_India.jpg/960px-Jaisalmer_Fort%2C_India.jpg",
+    "highlights": [
+      "Unlike most ancient forts turned into museums, thousands of people still actually live, work, and run shops inside its walls today.",
+      "Its honey-colored sandstone glows gold at sunset, earning it the nickname 'the Golden Fort'.",
+      "Intricately carved havelis (merchant mansions) inside reflect the wealth once generated by Silk Road camel caravan trade.",
+      "Rising straight out of the Thar Desert, it was strategically built to dominate ancient trade routes between India and Central Asia."
+    ]
+  },
+  {
+    "id": 42859,
+    "name": "Amber Fort",
+    "country": "India",
+    "region": "Jaipur, Rajasthan",
+    "lat": 26.9855,
+    "lng": 75.8513,
+    "type": "landmark",
+    "description": "A honey-and-ochre hilltop fort palace above Jaipur, blending Hindu and Mughal architecture, famed for its Sheesh Mahal (Hall of Mirrors) that glitters with thousands of tiny mirrored tiles.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Jaipur_03-2016_02_Amber_Fort.jpg/960px-Jaipur_03-2016_02_Amber_Fort.jpg",
+    "highlights": [
+      "The Sheesh Mahal's walls are covered in thousands of tiny mirror fragments, designed so a single candle could illuminate the entire room like starlight.",
+      "Elephant rides once carried visitors up the fort's ramparts, a tradition that echoed how royalty historically arrived.",
+      "The fort's design blends Rajput Hindu and Mughal Islamic architectural styles into one seamless palace complex.",
+      "Its reflection in the artificial Maota Lake below creates one of Rajasthan's most photographed views."
+    ]
+  },
+  {
+    "id": 42860,
+    "name": "Bagan",
+    "country": "Myanmar",
+    "region": "Mandalay Region",
+    "lat": 21.1717,
+    "lng": 94.8585,
+    "type": "landmark",
+    "description": "A vast plain scattered with over 2,000 surviving Buddhist temples and pagodas built between the 11th and 13th centuries, once numbering more than 10,000 across the ancient capital.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Temples_and_hot_air_balloons._%28Unsplash%29.jpg/960px-Temples_and_hot_air_balloons._%28Unsplash%29.jpg",
+    "highlights": [
+      "At its height Bagan had over 10,000 temples and monuments; more than 2,000 still stand across the plain today.",
+      "Watching hot air balloons drift over hundreds of temple spires at sunrise is one of Southeast Asia's most iconic views.",
+      "Climbing to a quiet temple terrace at dawn or dusk, with mist and light rolling across the plain, feels like stepping into another century.",
+      "Many temples still hold original frescoes and Buddha statues, despite earthquakes that have repeatedly damaged the site over centuries."
+    ]
+  },
+  {
+    "id": 42861,
+    "name": "Fushimi Inari Shrine",
+    "country": "Japan",
+    "region": "Kyoto",
+    "lat": 34.9671,
+    "lng": 135.7727,
+    "type": "landmark",
+    "description": "A Shinto shrine at the base of Mount Inari famous for thousands of vermilion torii gates forming tunnels that wind up the mountainside, each donated by a business or individual.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/960px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg",
+    "highlights": [
+      "Over 10,000 torii gates line the mountain paths, each one donated by individuals or companies seeking the fox deity Inari's favor.",
+      "Stone fox statues throughout the shrine represent Inari's messengers, often shown holding a key or a jewel in their mouths.",
+      "The full hike to the summit and back takes 2-3 hours, passing smaller sub-shrines and teahouses most tourists never reach.",
+      "Unlike many major sites, it's free to enter and open 24 hours, so the gates are just as striking at dawn or after dark."
+    ]
+  },
+  {
+    "id": 42862,
+    "name": "Kinkaku-ji (Golden Pavilion)",
+    "country": "Japan",
+    "region": "Kyoto",
+    "lat": 35.0394,
+    "lng": 135.7292,
+    "type": "landmark",
+    "description": "A Zen Buddhist pavilion in Kyoto entirely covered in gold leaf, its shimmering reflection in the still pond before it forming one of Japan's most photographed scenes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kinkaku-ji_in_November_2016_-02.jpg/960px-Kinkaku-ji_in_November_2016_-02.jpg",
+    "highlights": [
+      "The top two floors are covered entirely in gold leaf, and its mirror-still reflection in the pond doubles the effect.",
+      "It was rebuilt in 1955 after a monk burned the original to the ground in 1950, a story that later inspired a famous Mishima novel.",
+      "Each floor was built in a different architectural style, blending aristocratic, samurai, and Zen influences in one structure.",
+      "The surrounding strolling garden was designed to frame the pavilion from carefully chosen viewpoints along the path."
+    ]
+  },
+  {
+    "id": 42863,
+    "name": "Great Buddha of Kamakura",
+    "country": "Japan",
+    "region": "Kamakura",
+    "lat": 35.3167,
+    "lng": 139.5359,
+    "type": "landmark",
+    "description": "A colossal 13th-century bronze statue of Amida Buddha seated in the open air, having survived tsunamis and earthquakes that destroyed the wooden hall that once sheltered it.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kamakura_Budda_Daibutsu_front_1885.jpg/960px-Kamakura_Budda_Daibutsu_front_1885.jpg",
+    "highlights": [
+      "It has sat in the open air since a 15th-century tsunami swept away the wooden hall that originally housed it — and it's remained standing since.",
+      "At over 11 meters tall and cast in bronze, it's one of the largest Buddha statues in Japan.",
+      "Visitors can climb inside the hollow statue to see how it was cast in separate sections and assembled.",
+      "Its calm, weathered face has watched over Kamakura for more than 750 years."
+    ]
+  },
+  {
+    "id": 42864,
+    "name": "Registan",
+    "country": "Uzbekistan",
+    "region": "Samarkand",
+    "lat": 39.6547,
+    "lng": 66.975,
+    "type": "landmark",
+    "description": "The monumental heart of ancient Samarkand, three grand Islamic madrasas covered in turquoise and blue tilework arranged around a public square that was once a Silk Road meeting point.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Registan_Samarkand_Uzbekistan.JPG/960px-Registan_Samarkand_Uzbekistan.JPG",
+    "highlights": [
+      "The three madrasas were built across three different centuries yet form a strikingly unified ensemble around the square.",
+      "Their tilework uses a distinctive turquoise-and-blue palette that became the signature of Timurid architecture across Central Asia.",
+      "This square was once the commercial and social heart of Samarkand, a major waypoint on the Silk Road linking China and Europe.",
+      "A nightly light show now illuminates the tilework, projecting color and pattern across the facades after dark."
+    ]
+  },
+  {
+    "id": 42865,
+    "name": "Dead Sea",
+    "country": "Jordan",
+    "region": "Dead Sea Basin",
+    "lat": 31.559,
+    "lng": 35.4732,
+    "type": "landmark",
+    "description": "The lowest point on Earth's land surface, a hypersaline lake so dense with minerals that swimmers float effortlessly on its surface without trying.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dead_Sea_from_Jordan.JPG/960px-Dead_Sea_from_Jordan.JPG",
+    "highlights": [
+      "At roughly 430 meters below sea level, its shore is the lowest point on land anywhere on Earth.",
+      "The water is around ten times saltier than the ocean, which is why anyone floats on the surface without effort.",
+      "Mineral-rich black mud from the lakebed is scooped up and applied by visitors, said to have therapeutic skin benefits.",
+      "The lake is shrinking by roughly a meter a year due to water diversion, making a visit feel increasingly time-limited."
+    ]
+  },
+  {
+    "id": 42866,
+    "name": "Western Wall & Old City",
+    "country": "Israel",
+    "region": "Jerusalem",
+    "lat": 31.7767,
+    "lng": 35.2345,
+    "type": "landmark",
+    "description": "The last remaining wall of the ancient Second Temple, Judaism's holiest prayer site, set within Jerusalem's Old City where three major religions' holiest sites sit within walking distance of each other.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PikiWiki_Israel_47231_Revealing_of_the_Western_Wall_.jpg/960px-PikiWiki_Israel_47231_Revealing_of_the_Western_Wall_.jpg",
+    "highlights": [
+      "It's the closest accessible point to the site of the ancient Jewish Temple, making it Judaism's most sacred place of prayer.",
+      "Visitors of all faiths tuck handwritten prayers into the cracks between its ancient stones, a tradition followed for centuries.",
+      "Within a few hundred meters, the Old City holds sites sacred to Judaism, Christianity, and Islam — a rare concentration of religious history.",
+      "Some of the wall's foundation stones weigh over 500 tons, cut and placed by Herodian engineers over 2,000 years ago."
+    ]
+  },
+  {
+    "id": 42867,
+    "name": "Palmyra",
+    "country": "Syria",
+    "region": "Homs Governorate",
+    "lat": 34.5511,
+    "lng": 38.2704,
+    "type": "landmark",
+    "description": "The evocative ruins of a wealthy Silk Road caravan city in the Syrian desert, its colonnaded streets and monumental arch once among the best-preserved Roman-era sites in the Middle East.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Temple_of_Bel%2C_Palmyra_02.jpg/960px-Temple_of_Bel%2C_Palmyra_02.jpg",
+    "highlights": [
+      "At its height Palmyra grew rich as a tax-collecting waypoint on caravan routes linking Rome, Persia, and China.",
+      "Its colonnaded main street, over a kilometer long, was one of the grandest processional avenues of the ancient world.",
+      "Queen Zenobia famously led a revolt from here against Roman rule in the 3rd century, briefly carving out her own empire.",
+      "Despite severe damage in recent conflict, ongoing preservation and documentation efforts aim to safeguard what survives of this extraordinary site."
+    ]
+  },
+  {
+    "id": 42868,
+    "name": "Persepolis",
+    "country": "Iran",
+    "region": "Fars Province",
+    "lat": 29.935,
+    "lng": 52.8916,
+    "type": "landmark",
+    "description": "The ceremonial capital of the Achaemenid Persian Empire, founded by Darius the Great around 518 BC, its monumental stone reliefs depicting delegations from across the ancient world.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ruins_of_the_Tachara%2C_Persepolis%2C_Iran.jpg/960px-Ruins_of_the_Tachara%2C_Persepolis%2C_Iran.jpg",
+    "highlights": [
+      "Its stone reliefs depict representatives from over 20 subject nations bringing tribute, an ancient snapshot of the empire's vast reach.",
+      "It was built specifically for the Persian New Year (Nowruz) ceremonies, functioning as a ceremonial rather than everyday capital.",
+      "Alexander the Great burned it in 330 BC, and scorch marks are still visible on some of the stonework today.",
+      "The precision and scale of its carved staircases and columns influenced architecture across the ancient Near East."
+    ]
+  },
+  {
+    "id": 42869,
+    "name": "Mount Kailash",
+    "country": "China",
+    "region": "Ngari, Tibet",
+    "lat": 31.0672,
+    "lng": 81.3119,
+    "type": "landmark",
+    "description": "A remote, pyramid-shaped peak in western Tibet considered sacred by four religions, believed by Hindus, Buddhists, Jains, and Bon practitioners to be the axis of the universe.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mount_Kailash%2C_Tibet.jpg/960px-Mount_Kailash%2C_Tibet.jpg",
+    "highlights": [
+      "No one has ever recorded an ascent to its summit — it's considered too sacred to climb by every faith that reveres it.",
+      "Pilgrims undertake a grueling 52-kilometer circuit around its base (kora), believed to erase lifetimes of sin.",
+      "It's held sacred simultaneously by Hinduism, Buddhism, Jainism, and the Bon religion, a rare shared reverence across faiths.",
+      "Its remote location in far western Tibet means reaching it requires a genuine, multi-day overland pilgrimage."
+    ]
+  },
+  {
+    "id": 42870,
+    "name": "Chocolate Hills",
+    "country": "Philippines",
+    "region": "Bohol",
+    "lat": 9.8207,
+    "lng": 124.1633,
+    "type": "landmark",
+    "description": "Over 1,200 near-identical grass-covered limestone mounds scattered across Bohol island, turning chocolate-brown in the dry season and giving the hills their name.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Chocolate_Hills_-_edit.jpg/960px-Chocolate_Hills_-_edit.jpg",
+    "highlights": [
+      "More than 1,200 cone-shaped hills of remarkably similar size are scattered across the island, a geological pattern still not fully explained.",
+      "In the dry season the grass covering the hills turns brown, giving them their distinctive chocolate-drop appearance.",
+      "Local legend attributes the hills to the tears of a heartbroken giant, or the dried remains of a giant's fight.",
+      "The viewpoint platform overlooking the hills offers a rare 360-degree view of the whole formation at once."
+    ]
+  },
+  {
+    "id": 42871,
+    "name": "Rainbow Mountain (Vinicunca)",
+    "country": "Peru",
+    "region": "Cusco Region",
+    "lat": -13.8964,
+    "lng": -71.3128,
+    "type": "landmark",
+    "description": "A high-altitude Andean peak striped in vivid red, gold, and turquoise bands, its mineral-rich layers only exposed to view in recent decades as glacial ice retreated.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rainbow_Mountain_Peru.jpg/960px-Rainbow_Mountain_Peru.jpg",
+    "highlights": [
+      "The stripes come from different mineral deposits — iron, sulfur, and other compounds — layered over millions of years.",
+      "It was hidden under ice and snow until relatively recently and only became known to trekkers in the last couple of decades.",
+      "At over 5,000 meters elevation, the hike here is genuinely demanding, testing visitors with serious altitude.",
+      "Its rainbow-colored slopes look almost artificially painted, drawing comparisons to nowhere else on Earth."
+    ]
+  },
+  {
+    "id": 42872,
+    "name": "Erg Chebbi Dunes",
+    "country": "Morocco",
+    "region": "Merzouga, Sahara",
+    "lat": 31.15,
+    "lng": -3.9833,
+    "type": "landmark",
+    "description": "Towering Saharan sand dunes reaching up to 150 meters high near the desert town of Merzouga, where camel caravans and Berber camps let travelers experience the desert at sunset and under a sky full of stars.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Morocco_Africa_Flickr_Rosino_December_2005_84514010_edited_by_Buchling.jpg/960px-Morocco_Africa_Flickr_Rosino_December_2005_84514010_edited_by_Buchling.jpg",
+    "highlights": [
+      "Some dunes rise up to 150 meters, among the tallest in Morocco's portion of the Sahara.",
+      "Riding a camel caravan out to a desert camp for sunset is one of the most classic Saharan travel experiences.",
+      "With almost no light pollution, the night sky here reveals a blanket of stars rarely seen from cities.",
+      "The dunes constantly shift shape with the wind, so the landscape never looks quite the same twice."
+    ]
+  },
+  {
+    "id": 42873,
+    "name": "Jemaa el-Fnaa & Marrakech Medina",
+    "country": "Morocco",
+    "region": "Marrakech",
+    "lat": 31.6258,
+    "lng": -7.9891,
+    "type": "landmark",
+    "description": "The chaotic, storied main square of Marrakech's old medina, filling each evening with food stalls, storytellers, snake charmers, and musicians in a scene largely unchanged for centuries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Drawing_a_henna%2C_Jemaa_el-Fnaa%2C_Marrakesh_%28%D9%88%D8%B4%D9%85_%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1%D8%8C_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%8C_%D9%85%D8%B1%D8%A7%D9%83%D8%B4%29.jpg/960px-Drawing_a_henna%2C_Jemaa_el-Fnaa%2C_Marrakesh_%28%D9%88%D8%B4%D9%85_%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D8%A1%D8%8C_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%8C_%D9%85%D8%B1%D8%A7%D9%83%D8%B4%29.jpg",
+    "highlights": [
+      "UNESCO specifically recognized the square for its 'intangible cultural heritage' — the oral storytelling and performance traditions that fill it nightly.",
+      "At dusk the square transforms as dozens of food stalls fire up, turning it into one of the world's great open-air night markets.",
+      "The surrounding medina's maze of souks makes it easy to get pleasantly lost among spice stalls, leather workshops, and lantern shops.",
+      "Snake charmers, henna artists, and musicians have performed in this same square for generations, a living tradition rather than a show staged for tourists."
+    ]
+  },
+  {
+    "id": 42874,
+    "name": "Fes el-Bali",
+    "country": "Morocco",
+    "region": "Fes",
+    "lat": 34.0667,
+    "lng": -4.9833,
+    "type": "landmark",
+    "description": "One of the largest car-free urban areas in the world, a labyrinth of over 9,000 narrow alleys, tanneries, and workshops that has functioned as a living medieval city for over a thousand years.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Looking_Upon_The_Medina_in_Fes%2C_Morocco.jpg/960px-Looking_Upon_The_Medina_in_Fes%2C_Morocco.jpg",
+    "highlights": [
+      "It's considered one of the largest functioning medieval cities left in the world, with over 9,000 alleys still in daily use.",
+      "The Chouara Tannery's honeycomb of stone dye vats, worked much as they were centuries ago, is one of the oldest leather tanneries on Earth.",
+      "Donkeys and handcarts are still the primary way goods move through streets too narrow and steep for any vehicle.",
+      "The University of al-Qarawiyyin here, founded in 859, is recognized as one of the oldest continuously operating universities in the world."
+    ]
+  },
+  {
+    "id": 42875,
+    "name": "Timbuktu",
+    "country": "Mali",
+    "region": "Tombouctou Region",
+    "lat": 16.7666,
+    "lng": -3.0026,
+    "type": "landmark",
+    "description": "A legendary Saharan trading city that became a center of Islamic scholarship in the 14th-16th centuries, its mudbrick mosques and ancient manuscript libraries a testament to a golden age of learning.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Turban_seller_at_Festival_au_Desert_near_Timbuktu%2C_Mali_2012_cropped.jpg/960px-Turban_seller_at_Festival_au_Desert_near_Timbuktu%2C_Mali_2012_cropped.jpg",
+    "highlights": [
+      "For centuries its name was European shorthand for the most remote place imaginable, though it was in reality a thriving center of trade and scholarship.",
+      "Its libraries once held hundreds of thousands of manuscripts on subjects from astronomy to law, some of which survive today.",
+      "The city grew wealthy as a crossroads for salt, gold, and manuscript trade across trans-Saharan caravan routes.",
+      "Its iconic mudbrick mosques require constant replastering by the community, a maintenance ritual as old as the buildings themselves."
+    ]
+  },
+  {
+    "id": 42876,
+    "name": "Great Mosque of Djenné",
+    "country": "Mali",
+    "region": "Djenné",
+    "lat": 13.9058,
+    "lng": -4.5551,
+    "type": "landmark",
+    "description": "The largest mudbrick building in the world, a Sudano-Sahelian masterpiece rebuilt in 1907 on the site of a 13th-century original, still replastered by the whole town every year.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MaliDjenn%C3%A9Mosqu%C3%A9e.JPG/960px-MaliDjenn%C3%A9Mosqu%C3%A9e.JPG",
+    "highlights": [
+      "It's widely regarded as the largest adobe (mudbrick) structure on Earth, built almost entirely from sun-dried mud.",
+      "Every year the entire community takes part in the Crepissage festival, replastering the mosque's surface by hand before the rainy season.",
+      "Wooden beams (toron) projecting from the walls aren't just decorative — they double as permanent scaffolding for the annual replastering.",
+      "It remains an active mosque at the heart of daily life in Djenné, not a preserved relic set apart from the town."
+    ]
+  },
+  {
+    "id": 42877,
+    "name": "Lalibela Rock Churches",
+    "country": "Ethiopia",
+    "region": "Amhara",
+    "lat": 12.0316,
+    "lng": 39.0473,
+    "type": "landmark",
+    "description": "Eleven medieval churches carved downward directly out of solid volcanic rock in the 12th and 13th centuries, still active places of Ethiopian Orthodox worship today.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rock-Hewn_Churches%2C_Lalibela_Ethiopia_%285%29.jpg/960px-Rock-Hewn_Churches%2C_Lalibela_Ethiopia_%285%29.jpg",
+    "highlights": [
+      "Each church was carved from the top down out of a single block of rock, rather than built up from a foundation — a completely inverted construction method.",
+      "Legend holds that angels continued the work at night, finishing in a fraction of the time the labor alone would suggest.",
+      "Hidden tunnels and trenches connect several of the churches, once used by monks and pilgrims moving between them unseen.",
+      "They remain living churches today, with priests, incense, and chanting filling spaces carved nearly 900 years ago."
+    ]
+  },
+  {
+    "id": 42878,
+    "name": "Aksum Obelisks",
+    "country": "Ethiopia",
+    "region": "Tigray",
+    "lat": 14.13,
+    "lng": 38.7167,
+    "type": "landmark",
+    "description": "Towering carved granite stelae marking the royal tombs of the ancient Kingdom of Aksum, once a major power trading with Rome, Persia, and India.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Stela_in_Main_Stelae_Field_-_Axum_%28Aksum%29_-_Ethiopia_-_01_%288701108913%29.jpg/960px-Stela_in_Main_Stelae_Field_-_Axum_%28Aksum%29_-_Ethiopia_-_01_%288701108913%29.jpg",
+    "highlights": [
+      "The tallest surviving obelisk stands over 24 meters, carved from a single block of granite and etched to resemble a multi-story building.",
+      "Aksum was one of the four great powers of the ancient world alongside Rome, Persia, and China, according to the 3rd-century prophet Mani.",
+      "One obelisk, looted by Italy in 1937, was returned to Ethiopia only in 2005, a decades-long point of national significance.",
+      "Ethiopian tradition holds that the Ark of the Covenant itself is kept in a chapel here, guarded by a single monk for life."
+    ]
+  },
+  {
+    "id": 42879,
+    "name": "Zanzibar Stone Town",
+    "country": "Tanzania",
+    "region": "Zanzibar",
+    "lat": -6.1659,
+    "lng": 39.1925,
+    "type": "landmark",
+    "description": "A historic Swahili trading port on Zanzibar island, its winding coral-stone streets and elaborately carved wooden doors reflecting centuries of Arab, Persian, Indian, and African influence.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Stone_Town%2C_Zanzibar%2C_2021%2C_36.jpg",
+    "highlights": [
+      "Its intricately carved wooden doors, no two exactly alike, once signaled the wealth and status of the merchant families behind them.",
+      "The town was a major hub of the 19th-century spice and, tragically, slave trade, with historic sites now preserving that difficult history.",
+      "Narrow alleys deliberately built to stay shaded and cool make wandering the old town an experience in itself.",
+      "The blend of Arab, Persian, Indian, and African architecture and cuisine reflects centuries as a Swahili Coast trading crossroads."
+    ]
+  },
+  {
+    "id": 42880,
+    "name": "Mount Kilimanjaro",
+    "country": "Tanzania",
+    "region": "Kilimanjaro Region",
+    "lat": -3.0674,
+    "lng": 37.3556,
+    "type": "landmark",
+    "description": "Africa's tallest mountain and the world's highest free-standing peak, rising from savanna plains through five distinct climate zones to a summit crowned by retreating glaciers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mount_Kilimanjaro.jpg/960px-Mount_Kilimanjaro.jpg",
+    "highlights": [
+      "It's the tallest free-standing mountain in the world, rising almost directly from the plains rather than as part of a mountain range.",
+      "Climbers pass through five completely different ecosystems on the way up, from tropical farmland to arctic summit conditions, in a matter of days.",
+      "No technical climbing gear is required to reach the summit, making it one of the most accessible major peaks in the world despite the altitude challenge.",
+      "Its famous snowcap has retreated dramatically over the past century, and scientists expect it may disappear entirely within decades."
+    ]
+  },
+  {
+    "id": 42881,
+    "name": "Cape of Good Hope",
+    "country": "South Africa",
+    "region": "Western Cape",
+    "lat": -34.3568,
+    "lng": 18.474,
+    "type": "landmark",
+    "description": "A rugged, windswept headland at the southwestern tip of Africa, long mythologized by sailors as the turning point between the Atlantic and Indian Oceans.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_Cape_Of_Good_Hope_pub_in_Oxford._UK.jpg/960px-The_Cape_Of_Good_Hope_pub_in_Oxford._UK.jpg",
+    "highlights": [
+      "Early European sailors considered rounding this cape one of the most dangerous parts of the sea route to Asia, giving it a fearsome reputation.",
+      "Despite popular belief, it isn't actually the southernmost point of Africa (that's Cape Agulhas nearby), but it remains the more famous symbolic point.",
+      "Wild ostriches, baboons, and antelope roam the surrounding nature reserve right down to the cliffs.",
+      "The dramatic meeting of cold Atlantic and warmer Indian Ocean currents nearby creates unusually rich marine life."
+    ]
+  },
+  {
+    "id": 42882,
+    "name": "Robben Island",
+    "country": "South Africa",
+    "region": "Table Bay",
+    "lat": -33.8065,
+    "lng": 18.3667,
+    "type": "landmark",
+    "description": "A former political prison in Table Bay where Nelson Mandela was held for 18 of his 27 years of imprisonment, now a museum and UNESCO World Heritage Site run partly by former inmates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Maximum_Security_Prison%2C_Robben_Island_%2802%29.jpg/960px-Maximum_Security_Prison%2C_Robben_Island_%2802%29.jpg",
+    "highlights": [
+      "Former political prisoners, some of whom served time here themselves, now lead the guided tours, offering firsthand testimony.",
+      "Nelson Mandela spent 18 years in a small cell here before eventually becoming South Africa's first democratically elected president.",
+      "The island was used as a place of banishment and imprisonment for over 300 years, long before apartheid, going back to the 17th century.",
+      "The short ferry ride across Table Bay, with Table Mountain receding behind you, adds real weight to arriving at the island."
+    ]
+  },
+  {
+    "id": 42883,
+    "name": "Table Mountain",
+    "country": "South Africa",
+    "region": "Cape Town",
+    "lat": -33.9628,
+    "lng": 18.4098,
+    "type": "landmark",
+    "description": "A flat-topped mountain overlooking Cape Town, often capped by a rolling cloud locals call the 'tablecloth', home to an extraordinarily rich and unique plant kingdom.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cape_Town_%28ZA%29%2C_Table_Mountain_--_2024_--_2825.jpg/960px-Cape_Town_%28ZA%29%2C_Table_Mountain_--_2024_--_2825.jpg",
+    "highlights": [
+      "Its flat summit plateau, roughly 3 kilometers long, gives the mountain its distinctive tabletop silhouette visible from across the city.",
+      "It hosts more plant species than the entire United Kingdom, part of the smallest but richest of the world's six floral kingdoms.",
+      "A rotating cable car carries visitors to the summit in under five minutes, spinning slowly for a 360-degree view on the way up.",
+      "The 'tablecloth' cloud that spills over the edge in strong southeasterly winds is a distinct local weather phenomenon."
+    ]
+  },
+  {
+    "id": 42884,
+    "name": "Grand Canyon",
+    "country": "USA",
+    "region": "Arizona",
+    "lat": 36.1069,
+    "lng": -112.1129,
+    "type": "landmark",
+    "description": "A mile-deep gorge carved by the Colorado River over some 6 million years, exposing nearly 2 billion years of Earth's geological history in its layered rock walls.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg/960px-Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg",
+    "highlights": [
+      "Its rock layers expose roughly 2 billion years of Earth's history, nearly half the age of the planet, visible in a single glance.",
+      "At its widest the canyon spans 29 kilometers rim to rim, a scale that photographs consistently fail to capture.",
+      "Watching the canyon walls shift color through reds, oranges, and purples at sunrise and sunset is a ritual for every visitor.",
+      "Rafting the Colorado River through the canyon floor offers a completely different, ground-level perspective on its scale."
+    ]
+  },
+  {
+    "id": 42885,
+    "name": "Antelope Canyon",
+    "country": "USA",
+    "region": "Arizona",
+    "lat": 36.8619,
+    "lng": -111.3743,
+    "type": "landmark",
+    "description": "A narrow, wave-like slot canyon on Navajo land carved by flash-flood erosion, its smooth sandstone curves famous for the shafts of light that beam down through narrow openings at midday.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/USA_Antelope-Canyon.jpg/960px-USA_Antelope-Canyon.jpg",
+    "highlights": [
+      "Flash floods carved its flowing, wave-like walls over thousands of years, and the same floods still reshape it today.",
+      "Sunbeams piercing the narrow openings at midday create dramatic shafts of light through the swirling sandstone, a favorite subject for photographers.",
+      "It sits on Navajo Nation land and can only be visited with a Navajo guide, who shares the canyon's cultural significance.",
+      "The canyon is prone to sudden flash flooding, a real danger that has shaped both its beauty and strict visiting rules."
+    ]
+  },
+  {
+    "id": 42886,
+    "name": "Hollywood Sign",
+    "country": "USA",
+    "region": "Los Angeles, California",
+    "lat": 34.1341,
+    "lng": -118.3215,
+    "type": "landmark",
+    "description": "Nine white letters spanning Mount Lee above Los Angeles, originally a 1923 real estate advertisement that outlived its purpose to become the global symbol of the film industry.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hollywood_Sign.jpg/960px-Hollywood_Sign.jpg",
+    "highlights": [
+      "It was originally built as a temporary advertisement for a housing development, reading 'HOLLYWOODLAND', before the last four letters were removed in 1949.",
+      "Each letter stands about 14 meters tall, roughly the height of a four-story building.",
+      "It's become such a universal shorthand for the movie industry that the sign itself rarely appears in the films made in its shadow.",
+      "Hiking trails around Griffith Park offer close-up views, since the sign itself is fenced off and not directly accessible."
+    ]
+  },
+  {
+    "id": 42887,
+    "name": "Times Square",
+    "country": "USA",
+    "region": "New York City",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "type": "landmark",
+    "description": "A perpetually lit intersection in Midtown Manhattan, wrapped in massive digital billboards, best known as the site of the annual New Year's Eve ball drop watched by a global TV audience.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Brooklyn_Diner%2C_New_York_City_%282024%29-L1006207.jpg/960px-Brooklyn_Diner%2C_New_York_City_%282024%29-L1006207.jpg",
+    "highlights": [
+      "Advertisers pay some of the highest billboard rates in the world for a spot in the square's blaze of screens.",
+      "On New Year's Eve, roughly a million people pack the square to watch the ball drop, broadcast to hundreds of millions more worldwide.",
+      "It's one of the few places on Earth where it's genuinely difficult to tell what time of day it is just from the light.",
+      "Broadway's theater district sits right alongside it, so the square doubles as the gateway to New York's live theater scene."
+    ]
+  },
+  {
+    "id": 42888,
+    "name": "Space Needle",
+    "country": "USA",
+    "region": "Seattle, Washington",
+    "lat": 47.6205,
+    "lng": -122.3493,
+    "type": "landmark",
+    "description": "A futuristic 184-meter observation tower built for the 1962 World's Fair, its flying-saucer silhouette still defining the Seattle skyline over 60 years later.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Seattle_from_Space_Needle_June_2018_003.jpg/960px-Seattle_from_Space_Needle_June_2018_003.jpg",
+    "highlights": [
+      "It was built in under a year for the 1962 World's Fair, on a bet that Seattle needed a landmark to rival other world expo cities.",
+      "The rotating glass floor on its observation deck lets visitors look straight down while slowly circling the view.",
+      "Its retro-futuristic design has aged into a beloved icon rather than a dated relic, unusual for '60s-era 'future' architecture.",
+      "On clear days the view stretches to Mount Rainier, the Olympic Mountains, and Puget Sound all at once."
+    ]
+  },
+  {
+    "id": 42889,
+    "name": "Gateway Arch",
+    "country": "USA",
+    "region": "St. Louis, Missouri",
+    "lat": 38.6247,
+    "lng": -90.1848,
+    "type": "landmark",
+    "description": "A gleaming 192-meter stainless steel catenary arch on the Mississippi riverfront, built as a monument to westward expansion and America's 19th-century pioneers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/St_Louis_night_expblend.jpg/960px-St_Louis_night_expblend.jpg",
+    "highlights": [
+      "At 192 meters it's the tallest arch and tallest man-made monument in the Western Hemisphere.",
+      "A unique tram system of small egg-shaped capsules carries visitors up through the arch's curved interior to the observation deck.",
+      "Its precise catenary curve — the natural shape of a hanging chain — makes it both structurally efficient and visually striking.",
+      "It stands directly on the site from which many 19th-century pioneers set off west, giving the monument's theme real historical grounding."
+    ]
+  },
+  {
+    "id": 42890,
+    "name": "Las Vegas Strip",
+    "country": "USA",
+    "region": "Nevada",
+    "lat": 36.1147,
+    "lng": -115.1728,
+    "type": "landmark",
+    "description": "A 6-kilometer stretch of themed mega-resorts and casinos in the Nevada desert, each competing to outdo the last with replica landmarks, fountains, and neon spectacle.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6232.jpg/960px-Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6232.jpg",
+    "highlights": [
+      "Resorts here have built their own scaled versions of the Eiffel Tower, Venice's canals, and New York's skyline, all within walking distance of each other.",
+      "The Bellagio's choreographed fountains, set to music in front of the hotel, perform for free every half hour into the night.",
+      "It transformed from a small desert railroad stop into one of the most visited entertainment destinations on Earth within a few decades.",
+      "The sheer density of neon and LED signage here has made it a genuine influence on global lighting and signage design."
+    ]
+  },
+  {
+    "id": 42891,
+    "name": "Teotihuacan",
+    "country": "Mexico",
+    "region": "State of Mexico",
+    "lat": 19.6925,
+    "lng": -98.8438,
+    "type": "landmark",
+    "description": "The ruins of one of the ancient world's largest cities, home to the massive Pyramid of the Sun and Pyramid of the Moon, built by a civilization whose very name is unknown to us.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wiki_Loves_Pyramids_-_Teotihuacan_-_Avenue_of_the_Dead_-_5.JPG/960px-Wiki_Loves_Pyramids_-_Teotihuacan_-_Avenue_of_the_Dead_-_5.JPG",
+    "highlights": [
+      "At its peak, around 400 AD, it may have been one of the largest cities on Earth, with over 100,000 residents.",
+      "We still don't know what its builders called themselves — 'Teotihuacan', meaning 'the place where the gods were created', is an Aztec name given centuries later.",
+      "The Pyramid of the Sun is one of the largest pyramids ever built in the pre-Columbian Americas, rivaling Egyptian pyramids in base size.",
+      "Walking the Avenue of the Dead between the two great pyramids gives a real sense of the city's deliberate, monumental urban planning."
+    ]
+  },
+  {
+    "id": 42892,
+    "name": "Tulum Ruins",
+    "country": "Mexico",
+    "region": "Quintana Roo",
+    "lat": 20.2145,
+    "lng": -87.4291,
+    "type": "landmark",
+    "description": "A walled Maya city perched directly on Caribbean cliffs, one of the last cities built and inhabited by the Maya before Spanish contact, with turquoise water lapping below its ruins.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tulum_-_01.jpg/960px-Tulum_-_01.jpg",
+    "highlights": [
+      "It's one of the few major Maya sites built right on the coast, with El Castillo temple overlooking cliffs and a beach used for swimming.",
+      "It was still inhabited and functioning as a port when the Spanish arrived, unlike many Maya cities abandoned centuries earlier.",
+      "Its defensive walls, unusual for Maya cities, suggest it needed genuine protection as a wealthy coastal trading hub.",
+      "Visitors can combine the ruins with a swim at the beach directly below them, a rare pairing of archaeology and beach day."
+    ]
+  },
+  {
+    "id": 42893,
+    "name": "CN Tower",
+    "country": "Canada",
+    "region": "Toronto, Ontario",
+    "lat": 43.6426,
+    "lng": -79.3871,
+    "type": "landmark",
+    "description": "A 553-meter concrete communications tower that was the tallest free-standing structure in the world for over 30 years, still dominating the Toronto skyline.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg/960px-Toronto_-_ON_-_Toronto_Harbourfront7.jpg",
+    "highlights": [
+      "It held the record for tallest free-standing structure on Earth from 1975 until 2007, an extraordinary three-decade run.",
+      "Its glass floor, 342 meters up, lets visitors look straight down and is a rite of passage for nervous first-timers.",
+      "The EdgeWalk lets thrill-seekers walk (harnessed) around the outside of the tower's main pod, hands-free, high above the city.",
+      "It was originally built by a railway company testing signal transmission, only later becoming a tourist icon in its own right."
+    ]
+  },
+  {
+    "id": 42894,
+    "name": "Panama Canal",
+    "country": "Panama",
+    "region": "Panama Canal Zone",
+    "lat": 9.08,
+    "lng": -79.68,
+    "type": "landmark",
+    "description": "An 82-kilometer engineered waterway connecting the Atlantic and Pacific through a system of locks, one of the greatest feats of early 20th-century engineering.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Miraflores_Locks_Panama_1914.JPG/960px-Miraflores_Locks_Panama_1914.JPG",
+    "highlights": [
+      "It cuts a journey around the entire tip of South America down to a matter of hours, reshaping global shipping when it opened in 1914.",
+      "Watching massive cargo ships rise and fall through the Miraflores or Gatun locks, sometimes with mere centimeters of clearance, is genuinely mesmerizing.",
+      "Its construction cost tens of thousands of workers' lives to disease and accidents, a sobering history behind the engineering marvel.",
+      "An ongoing expansion completed in 2016 lets today's largest 'New Panamax' container ships pass through as well."
+    ]
+  },
+  {
+    "id": 42895,
+    "name": "Arenal Volcano",
+    "country": "Costa Rica",
+    "region": "Alajuela Province",
+    "lat": 10.4629,
+    "lng": -84.7033,
+    "type": "landmark",
+    "description": "A near-perfect conical volcano in Costa Rica's rainforest, active for over four decades until it quieted in 2010, now surrounded by hot springs and cloud-forest hiking trails.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Arenal_volcano_%2870785p%29.jpg/960px-Arenal_volcano_%2870785p%29.jpg",
+    "highlights": [
+      "From 1968 to 2010 it erupted almost continuously, at times sending glowing lava flows visible from nearby towns at night.",
+      "Natural hot springs heated by the volcano's remaining geothermal activity have become a relaxing counterpoint to hikes on its slopes.",
+      "Its symmetrical cone shape, rising sharply from otherwise flat rainforest, makes it one of the most photogenic volcanoes in Central America.",
+      "The surrounding national park protects cloud forest habitat for monkeys, toucans, and an enormous diversity of birdlife."
+    ]
+  },
+  {
+    "id": 42896,
+    "name": "Iguazu Falls",
+    "country": "Argentina",
+    "region": "Misiones / Paraná border with Brazil",
+    "lat": -25.6953,
+    "lng": -54.4367,
+    "type": "landmark",
+    "description": "A vast system of roughly 275 individual waterfalls spanning nearly 3 kilometers along the Argentina-Brazil border, larger than either Niagara or Victoria Falls.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Cataratas027.jpg",
+    "highlights": [
+      "At nearly 3 kilometers wide with about 275 separate falls, it's substantially larger than both Niagara and Victoria Falls.",
+      "The 'Devil's Throat', a U-shaped chasm where the most powerful falls converge, produces a constant deafening roar and rising mist.",
+      "Walkways let visitors get remarkably close to the base of several falls, often within reach of the spray itself.",
+      "The surrounding subtropical rainforest is home to coatis, toucans, and even jaguars, adding wildlife to the spectacle."
+    ]
+  },
+  {
+    "id": 42897,
+    "name": "Salar de Uyuni",
+    "country": "Bolivia",
+    "region": "Potosí Department",
+    "lat": -20.1338,
+    "lng": -67.4891,
+    "type": "landmark",
+    "description": "The world's largest salt flat, a blindingly white expanse of over 10,000 square kilometers that, after rain, becomes a mirror stretching to the horizon.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg/960px-Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg",
+    "highlights": [
+      "It holds an estimated 10 billion tons of salt and is the largest salt flat on Earth by a wide margin.",
+      "After a thin layer of rainwater settles on the surface, it turns into a vast natural mirror reflecting the sky, blurring the line between ground and horizon.",
+      "It sits atop one of the world's largest lithium reserves, a resource now central to batteries worldwide.",
+      "The flat's extreme, perfectly level surface makes it useful for calibrating satellites orbiting Earth."
+    ]
+  },
+  {
+    "id": 42898,
+    "name": "Perito Moreno Glacier",
+    "country": "Argentina",
+    "region": "Santa Cruz Province",
+    "lat": -50.4967,
+    "lng": -73.0503,
+    "type": "landmark",
+    "description": "One of the few glaciers in the world still advancing rather than retreating, a 5-kilometer wall of blue ice in Patagonia that periodically calves massive chunks into the lake below.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/960px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+    "highlights": [
+      "Unlike most glaciers worldwide, it remains in rough equilibrium, still advancing even as many others retreat due to climate change.",
+      "Its face rises up to 74 meters above the lake, and calving events send building-sized chunks of ice crashing into the water with a thunderous crack.",
+      "Boardwalks positioned directly across from the ice wall let visitors watch (and hear) the glacier fracture and calve in real time.",
+      "Periodically the glacier advances far enough to dam the lake entirely, building pressure until it eventually bursts through in a dramatic rupture."
+    ]
+  },
+  {
+    "id": 42899,
+    "name": "Copacabana Beach",
+    "country": "Brazil",
+    "region": "Rio de Janeiro",
+    "lat": -22.9711,
+    "lng": -43.1822,
+    "type": "landmark",
+    "description": "A sweeping 4-kilometer crescent of white sand in Rio de Janeiro, its wave-patterned black-and-white boardwalk one of the most recognizable stretches of urban coastline in the world.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Copacabana%2C_Rio_de_Janeiro.jpg/960px-Copacabana%2C_Rio_de_Janeiro.jpg",
+    "highlights": [
+      "Its iconic wave-patterned Portuguese-stone sidewalk, designed in the 1970s, has become as recognizable as the beach itself.",
+      "On New Year's Eve, millions gather here dressed in white for Réveillon, one of the largest beach celebrations on Earth.",
+      "The beach sits within view of Sugarloaf Mountain and the hills leading up to Christ the Redeemer, tying together Rio's most famous sights.",
+      "Beach culture here runs all day, with footvolley, kiosks, and vendors turning the sand into a genuine extension of city life."
+    ]
+  },
+  {
+    "id": 42900,
+    "name": "Cartagena Old City",
+    "country": "Colombia",
+    "region": "Bolívar",
+    "lat": 10.4236,
+    "lng": -75.5518,
+    "type": "landmark",
+    "description": "A walled Caribbean colonial city founded in 1533, its pastel balconies, bougainvillea-draped plazas, and stone fortifications built to defend Spanish treasure fleets from pirates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sector_Antiguo_de_Cartagena%2C_Colombia_01.jpg/960px-Sector_Antiguo_de_Cartagena%2C_Colombia_01.jpg",
+    "highlights": [
+      "Its massive stone walls and forts were built specifically to repel pirate attacks on Spanish gold and silver shipments passing through.",
+      "The old town's brightly painted colonial buildings, with overflowing balconies, have made it a magnet for photographers and filmmakers alike.",
+      "Horse-drawn carriages still clatter through streets barely wide enough for them, largely unchanged in layout since the 1500s.",
+      "Live music spills out of plazas most evenings, giving the historic center a lived-in, celebratory feel rather than a museum atmosphere."
+    ]
+  },
+  {
+    "id": 42901,
+    "name": "San Pedro de Atacama",
+    "country": "Chile",
+    "region": "Antofagasta Region",
+    "lat": -22.9087,
+    "lng": -68.1997,
+    "type": "landmark",
+    "description": "An oasis town gateway to the Atacama, the driest non-polar desert on Earth, surrounded by geysers, salt flats, flamingo lagoons, and skies rated among the clearest for stargazing anywhere.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Miscanti_Lagoon_near_San_Pedro_de_Atacama_Chile_Luca_Galuzzi_2006.jpg/960px-Miscanti_Lagoon_near_San_Pedro_de_Atacama_Chile_Luca_Galuzzi_2006.jpg",
+    "highlights": [
+      "Parts of the Atacama have gone decades without recorded rainfall, making it the driest non-polar desert on the planet.",
+      "The region's extremely dry, clear air has made it one of the best astronomical observing sites on Earth, home to major international telescope arrays.",
+      "Nearby lagoons attract three flamingo species feeding on the same mineral-rich waters that make the salt flats otherworldly.",
+      "The Valley of the Moon nearby has a landscape so barren and cratered that NASA has used it to test Mars rover equipment."
+    ]
+  },
+  {
+    "id": 42902,
+    "name": "Milford Sound",
+    "country": "New Zealand",
+    "region": "Fiordland, South Island",
+    "lat": -44.6414,
+    "lng": 167.8974,
+    "type": "landmark",
+    "description": "A dramatic fiord in New Zealand's South Island where sheer rock walls and waterfalls plunge straight into dark water, often shrouded in rain and mist that only deepen its atmosphere.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Milford_Sound_in_Fiordland_National_Park_01.jpg/960px-Milford_Sound_in_Fiordland_National_Park_01.jpg",
+    "highlights": [
+      "Mitre Peak rises over 1,600 meters almost directly from the water's edge, one of the most dramatic sightlines in New Zealand.",
+      "It's among the wettest inhabited places on Earth, and the frequent rain actually adds hundreds of temporary waterfalls cascading down the cliffs.",
+      "Rudyard Kipling once called it the eighth wonder of the world after visiting in the 1890s.",
+      "Boat cruises through the fiord regularly encounter fur seals, dolphins, and penguins in the same dramatic waters."
+    ]
+  },
+  {
+    "id": 42903,
+    "name": "Hobbiton",
+    "country": "New Zealand",
+    "region": "Matamata, Waikato",
+    "lat": -37.8722,
+    "lng": 175.682,
+    "type": "landmark",
+    "description": "The permanent film set built for The Lord of the Rings and The Hobbit trilogies on a working sheep farm, its round hobbit-hole doors and rolling green hills preserved as a walkable movie location.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Overview_of_the_Shire%2C_Hobbiton_Movie_Set%2C_Matamata%2C_New_Zealand_2016_%2850797226211%29.jpg/960px-Overview_of_the_Shire%2C_Hobbiton_Movie_Set%2C_Matamata%2C_New_Zealand_2016_%2850797226211%29.jpg",
+    "highlights": [
+      "It was built on a real working sheep farm, chosen specifically for its rolling hills that matched Tolkien's descriptions of the Shire.",
+      "Unlike most film sets, it was rebuilt permanently in durable materials after the films wrapped, rather than dismantled.",
+      "Details like smoke rising from chimneys and washing on lines were added to make each of the 44 hobbit holes feel genuinely lived-in.",
+      "The tour ends at the Green Dragon Inn, where visitors can have a drink in the same building used in the films."
+    ]
+  },
+  {
+    "id": 42904,
+    "name": "Twelve Apostles",
+    "country": "Australia",
+    "region": "Victoria",
+    "lat": -38.6662,
+    "lng": 143.1044,
+    "type": "landmark",
+    "description": "A row of towering limestone sea stacks rising from the Southern Ocean along Victoria's Great Ocean Road, sculpted by relentless waves eroding the coastal cliffs over millions of years.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Princetown_%28AU%29%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0969.jpg/960px-Princetown_%28AU%29%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0969.jpg",
+    "highlights": [
+      "Despite the name, only about eight stacks remain today — erosion has already claimed several since they were first named.",
+      "The same wave action that created them continues to erode them, meaning the formation is slowly and visibly disappearing.",
+      "Sunrise and sunset light turns the limestone a deep gold-orange, drawing photographers to the clifftop viewing platforms at both ends of the day.",
+      "They sit along the Great Ocean Road, one of the world's great coastal drives, so the stacks are usually one stop among many dramatic viewpoints."
+    ]
+  },
+  {
+    "id": 42905,
+    "name": "Sydney Harbour Bridge",
+    "country": "Australia",
+    "region": "Sydney, New South Wales",
+    "lat": -33.8523,
+    "lng": 151.2108,
+    "type": "landmark",
+    "description": "A massive steel arch bridge across Sydney Harbour, completed in 1932 and nicknamed 'the Coathanger', that visitors can climb all the way to its summit high above the water.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sydney_Harbour_Bridge_from_Circular_Quay.jpg/960px-Sydney_Harbour_Bridge_from_Circular_Quay.jpg",
+    "highlights": [
+      "The BridgeClimb tour takes visitors right up to the very top of the arch, roughly 134 meters above the harbour.",
+      "It was nicknamed 'the Coathanger' by locals almost as soon as it opened, and the name has stuck for nearly a century.",
+      "It anchors one of the world's great New Year's Eve fireworks displays, launched from the bridge itself alongside the Opera House.",
+      "At the time of construction it was the widest long-span bridge in the world, an engineering point of pride for 1930s Australia."
+    ]
+  },
+  {
+    "id": 42906,
+    "name": "Bora Bora",
+    "country": "French Polynesia",
+    "region": "Society Islands",
+    "lat": -16.5004,
+    "lng": -151.7415,
+    "type": "landmark",
+    "description": "A volcanic island ringed by a turquoise lagoon and coral reef in French Polynesia, famous for pioneering the overwater bungalow and widely considered one of the most beautiful islands on Earth.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Four_Seasons_Resort_Bora_Bora.jpg",
+    "highlights": [
+      "The overwater bungalow, now found in resorts worldwide, was essentially invented here in the 1960s.",
+      "Its lagoon's gradient of turquoise and blue, framed by a jagged extinct volcanic peak, is often cited as one of the most beautiful views in the world.",
+      "The surrounding barrier reef creates exceptionally calm, clear water, ideal for snorkeling directly with reef sharks and rays.",
+      "Mount Otemanu, the island's volcanic core, dominates every view and gives Bora Bora its distinctive silhouette from the water."
+    ]
+  },
+  {
+    "id": 42907,
+    "name": "Tromsø & the Northern Lights",
+    "country": "Norway",
+    "region": "Troms",
+    "lat": 69.6492,
+    "lng": 18.9553,
+    "type": "landmark",
+    "description": "An Arctic Circle city in Norway considered one of the best places on Earth to see the Aurora Borealis, with a lively urban base for chasing the lights across the surrounding fjords and mountains.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Northern_lights_in_Tromso.jpg/960px-Northern_lights_in_Tromso.jpg",
+    "highlights": [
+      "Its position directly under the 'auroral oval' gives it some of the most reliable Northern Lights viewing odds of any city in the world.",
+      "Unlike remote Arctic outposts, it offers a genuinely lively small city — restaurants, a cathedral, a cable car — to return to after a night chasing lights.",
+      "The cable car up Mount Storsteinen gives an elevated, panoramic vantage for watching the aurora over the surrounding fjords.",
+      "In winter the sun doesn't rise at all for weeks (polar night), while in summer it never sets, giving the city two completely different personalities."
+    ]
+  },
+  {
+    "id": 42908,
+    "name": "Jeju Island",
+    "country": "South Korea",
+    "region": "Jeju",
+    "lat": 33.4586,
+    "lng": 126.941,
+    "type": "landmark",
+    "description": "A volcanic island off South Korea's south coast, dotted with hundreds of small volcanic cones (oreum), lava tube caves, and the dramatic tuff cone of Seongsan Ilchulbong rising from the sea.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg/960px-Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg",
+    "highlights": [
+      "The island holds roughly 360 smaller volcanic cones called oreum, scattered across the landscape alongside its central shield volcano, Hallasan.",
+      "Seongsan Ilchulbong, a tuff cone rising straight from the ocean, is best climbed before dawn for a crater-rim sunrise.",
+      "Manjanggul lava tube, one of the longest in the world, lets visitors walk through a cave carved entirely by flowing lava.",
+      "Haenyeo, Jeju's traditional female free-divers who harvest seafood without oxygen tanks, represent a unique living culture found almost nowhere else."
+    ]
+  },
+  {
+    "id": 42909,
+    "name": "Great Blue Hole",
+    "country": "Belize",
+    "region": "Lighthouse Reef",
+    "lat": 17.3161,
+    "lng": -87.535,
+    "type": "landmark",
+    "description": "A near-perfectly circular submarine sinkhole over 300 meters across and 124 meters deep off the coast of Belize, formed as a limestone cave system that collapsed when sea levels rose.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_Great_Blue_Hole_in_Belize_%28Copernicus_2024-04-14%29.jpg/960px-The_Great_Blue_Hole_in_Belize_%28Copernicus_2024-04-14%29.jpg",
+    "highlights": [
+      "Jacques Cousteau famously declared it one of the top diving sites in the world after exploring it in 1971.",
+      "Its perfectly circular shape and deep indigo color make it instantly recognizable from the air, a striking contrast against the surrounding turquoise reef.",
+      "Divers descending into it pass ancient stalactites, proof the hole was once a dry cave system before rising seas flooded it.",
+      "It sits within Belize's larger barrier reef system, the second largest in the world after Australia's Great Barrier Reef."
+    ]
+  },
+  {
+    "id": 42910,
+    "name": "Blue Grotto",
+    "country": "Italy",
+    "region": "Capri, Campania",
+    "lat": 40.5497,
+    "lng": 14.2181,
+    "type": "landmark",
+    "description": "A sea cave on the island of Capri where sunlight passing through an underwater cavity bathes the entire interior in an intense electric-blue glow, reachable only by rowboat through a narrow entrance.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Blue_Grotto_Capri_Inside.jpg/960px-Blue_Grotto_Capri_Inside.jpg",
+    "highlights": [
+      "Sunlight refracting through the submerged part of the cave entrance creates a glow so vivid it looks almost artificially lit.",
+      "Visitors have to lie flat in a small rowboat to duck through the low, narrow entrance at just the right tide.",
+      "Roman-era remains found on ledges inside suggest it may once have been used as a private grotto by Emperor Tiberius.",
+      "The best light and clearest blue color appear only within a narrow window around midday, adding an element of timing to the visit."
+    ]
+  },
+  {
+    "id": 42911,
+    "name": "Loch Ness",
+    "country": "Scotland",
+    "region": "Scottish Highlands",
+    "lat": 57.3229,
+    "lng": -4.4244,
+    "type": "landmark",
+    "description": "A vast, deep freshwater loch in the Scottish Highlands, famous the world over for reported sightings of the Loch Ness Monster and framed by the ruins of Urquhart Castle on its shore.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_Loch_Ness_and_Urquhart_castle.jpg/960px-The_Loch_Ness_and_Urquhart_castle.jpg",
+    "highlights": [
+      "It holds more freshwater than all the lakes in England and Wales combined, despite its relatively narrow shape.",
+      "Its water is so peat-stained and murky that visibility drops to almost nothing just a few meters down, fueling centuries of monster speculation.",
+      "The ruined Urquhart Castle on its banks has witnessed centuries of conflict and gives the loch one of Scotland's most photographed views.",
+      "Whatever the truth behind 'Nessie', the legend alone draws visitors from around the world to scan the water's surface."
+    ]
+  },
+  {
+    "id": 42912,
+    "name": "Kilauea Volcano",
+    "country": "USA",
+    "region": "Hawaii",
+    "lat": 19.4069,
+    "lng": -155.2834,
+    "type": "landmark",
+    "description": "One of the most active volcanoes on Earth, its summit caldera on Hawaii's Big Island frequently glowing with lava lakes and periodically erupting in dramatic fissure flows.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sulfur_dioxide_emissions_from_the_Halemaumau_vent_04-08-1_1.jpg/960px-Sulfur_dioxide_emissions_from_the_Halemaumau_vent_04-08-1_1.jpg",
+    "highlights": [
+      "It's been in near-continuous activity for decades, making it one of the most closely studied volcanoes on the planet.",
+      "At night, glowing lava within the summit caldera can light up the surrounding clouds in an eerie red-orange reflection.",
+      "Hawaiian tradition holds it as the sacred home of Pele, goddess of fire and volcanoes, still honored with offerings today.",
+      "Its eruptions have both destroyed communities and, over millennia, built the very land that makes up the Big Island."
+    ]
+  },
+  {
+    "id": 42913,
+    "name": "Aït Benhaddou",
+    "country": "Morocco",
+    "region": "Ouarzazate Province",
+    "lat": 31.0472,
+    "lng": -7.1317,
+    "type": "landmark",
+    "description": "A fortified clay-and-straw ksar (village) rising from the pre-Saharan landscape along the old caravan route between the Sahara and Marrakech, its earthen towers still lived in by a handful of families.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg/960px-Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg",
+    "highlights": [
+      "Its earthen architecture, built from little more than clay, straw, and wood, has survived largely unchanged for centuries.",
+      "It has served as a filming backdrop for countless productions, including Gladiator, Lawrence of Arabia, and Game of Thrones.",
+      "A handful of families still live within its walls, even as most residents moved to a new village across the river.",
+      "It sits on the historic caravan route once used to move goods, and enslaved people, between the Sahara and Marrakech, a history now being reckoned with by Moroccan historians."
+    ]
+  },
+  {
+    "id": 42914,
+    "name": "St. Peter's Basilica & Vatican City",
+    "country": "Vatican City",
+    "region": "Rome",
+    "lat": 41.9022,
+    "lng": 12.4539,
+    "type": "landmark",
+    "description": "The largest church in Christendom, built over the traditional tomb of St. Peter and crowned by Michelangelo's soaring dome, at the heart of the world's smallest sovereign state.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/960px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+    "highlights": [
+      "Michelangelo designed the dome but died before its completion, meaning he never saw his own masterpiece finished.",
+      "The basilica can hold over 60,000 worshippers, making its scale almost impossible to grasp from outside.",
+      "St. Peter's Square, wrapped in Bernini's colonnade, was designed so pilgrims feel embraced 'like the arms of the Church'.",
+      "Climbing to the top of the dome rewards visitors with a sweeping view over Rome and the whole of Vatican City below."
+    ]
+  },
+  {
+    "id": 42915,
+    "name": "Duomo di Milano",
+    "country": "Italy",
+    "region": "Milan",
+    "lat": 45.4641,
+    "lng": 9.1919,
+    "type": "landmark",
+    "description": "A vast Gothic cathedral in the heart of Milan, its marble facade bristling with 3,400 statues and 135 spires, built and refined over nearly six centuries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/View_west_along_Duomo_roof%2C_Milan.jpg/960px-View_west_along_Duomo_roof%2C_Milan.jpg",
+    "highlights": [
+      "It has more statues than any other building on Earth, over 3,400 carved figures covering every surface.",
+      "Construction dragged on for almost 600 years, giving rise to the Italian phrase 'fabbrica del Duomo' for any never-ending project.",
+      "The rooftop terraces let visitors walk among the spires and gargoyles at close range, with the Alps visible on clear days.",
+      "A golden statue of the Madonna atop the tallest spire is traditionally the highest point allowed on any building in central Milan."
+    ]
+  },
+  {
+    "id": 42916,
+    "name": "Florence Cathedral (Il Duomo)",
+    "country": "Italy",
+    "region": "Florence",
+    "lat": 43.7731,
+    "lng": 11.256,
+    "type": "landmark",
+    "description": "A Renaissance icon crowned by Brunelleschi's revolutionary self-supporting brick dome, completed in 1436 without the wooden scaffolding engineers of the time thought impossible.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cupola_di_santa_maria_del_fiore_dal_campanile_di_giotto%2C_01.JPG/960px-Cupola_di_santa_maria_del_fiore_dal_campanile_di_giotto%2C_01.JPG",
+    "highlights": [
+      "Brunelleschi invented new construction machinery and a herringbone brick pattern just to build the dome without traditional scaffolding.",
+      "At the time of completion it was the largest dome in the world, and remains the largest brick dome ever built.",
+      "Its pink, white, and green marble facade makes it one of the most photographed exteriors in Italy.",
+      "Climbing the 463 steps between the two shells of the dome reveals Brunelleschi's ingenious double-dome engineering up close."
+    ]
+  },
+  {
+    "id": 42917,
+    "name": "Cinque Terre",
+    "country": "Italy",
+    "region": "Liguria",
+    "lat": 44.1461,
+    "lng": 9.6438,
+    "type": "landmark",
+    "description": "Five pastel-colored fishing villages clinging to cliffs along the Italian Riviera, linked by centuries-old footpaths carved into the terraced coastline.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Corniglia_In_Italy_%2850063290%29.jpeg/960px-Corniglia_In_Italy_%2850063290%29.jpeg",
+    "highlights": [
+      "The five villages have no direct road access between them, so a scenic train or the coastal hiking trail remains the classic way to link them all.",
+      "Centuries-old dry-stone terraces climb the cliffsides, still used to grow the region's grapes and olives.",
+      "Each village's tightly stacked, brightly painted houses were traditionally colored so fishermen could spot their home from the sea.",
+      "The Sentiero Azzurro (Blue Trail) hiking path offers constantly changing sea views between each village."
+    ]
+  },
+  {
+    "id": 42918,
+    "name": "Lake Como",
+    "country": "Italy",
+    "region": "Lombardy",
+    "lat": 45.9847,
+    "lng": 9.2578,
+    "type": "landmark",
+    "description": "An elegant, Y-shaped glacial lake ringed by the Alps and lined with grand villas and lakeside towns, a retreat for European aristocracy and celebrities for centuries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lago_de_Como%2C_Italia%2C_2016-06-25%2C_DD_02-06_PAN.jpg/960px-Lago_de_Como%2C_Italia%2C_2016-06-25%2C_DD_02-06_PAN.jpg",
+    "highlights": [
+      "Its dramatic Y-shape was carved by glaciers, giving it depth (over 400 meters) rare for a lake its size.",
+      "Historic villas like Villa del Balbianello and Villa Carlotta open their lakeside gardens to visitors, showing off centuries of aristocratic taste.",
+      "The Alps rising directly from the water give the lake a backdrop that shifts from snow-capped in winter to green in summer.",
+      "Small ferries connecting the lakeside towns make hopping between villages part of the charm rather than an inconvenience."
+    ]
+  },
+  {
+    "id": 42919,
+    "name": "Park Güell",
+    "country": "Spain",
+    "region": "Barcelona",
+    "lat": 41.4145,
+    "lng": 2.1527,
+    "type": "landmark",
+    "description": "Antoni Gaudí's whimsical public park above Barcelona, its undulating mosaic-tiled benches, organic stone structures, and famous lizard sculpture blending architecture with nature.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Park_G%C3%BCell_02.jpg/960px-Park_G%C3%BCell_02.jpg",
+    "highlights": [
+      "The park's mosaic work, made from broken ceramic tile fragments (trencadís), turned recycled waste into some of the most photographed art in Barcelona.",
+      "Gaudí designed its stone columns and viaducts to lean and curve like tree trunks, blurring the line between architecture and forest.",
+      "The famous mosaic salamander at the entrance has become one of the most recognizable symbols of the city.",
+      "From the main terrace, the curving tiled bench doubles as a panoramic viewpoint over Barcelona all the way to the sea."
+    ]
+  },
+  {
+    "id": 42920,
+    "name": "Roman Baths",
+    "country": "England",
+    "region": "Bath, Somerset",
+    "lat": 51.3813,
+    "lng": -2.3597,
+    "type": "landmark",
+    "description": "A remarkably preserved Roman bathing complex built around a natural hot spring nearly 2,000 years ago, the namesake and centerpiece of the city of Bath.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg/960px-Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg",
+    "highlights": [
+      "The site is built around a natural hot spring that still flows at over a million liters a day, exactly as it did for Roman bathers.",
+      "Visitors can walk on the same paved edges the Romans walked on almost 2,000 years ago, remarkably intact for their age.",
+      "Curse tablets thrown into the sacred spring by Romans seeking justice against thieves have been recovered and are on display.",
+      "The Georgian city built up around the baths later gave Bath its elegant honey-colored architecture, itself now a UNESCO site."
+    ]
+  },
+  {
+    "id": 42921,
+    "name": "Windsor Castle",
+    "country": "England",
+    "region": "Windsor, Berkshire",
+    "lat": 51.4839,
+    "lng": -0.6044,
+    "type": "landmark",
+    "description": "The oldest and largest inhabited castle in the world, a working royal residence for English and British monarchs continuously for over 900 years.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg/960px-Windsor_Castle_Upper_Ward_Quadrangle_2_-_Nov_2006.jpg",
+    "highlights": [
+      "It's held the record as the longest continuously inhabited castle in the world, home to English monarchs for over 900 years.",
+      "St George's Chapel within its walls has hosted royal weddings and funerals, including several recent high-profile royal events.",
+      "A 2020 fire in 1992 destroyed over a hundred rooms; the meticulous restoration that followed became a case study in castle preservation.",
+      "The Changing of the Guard ceremony here mirrors Buckingham Palace's, but in a smaller, more intimate medieval courtyard setting."
+    ]
+  },
+  {
+    "id": 42922,
+    "name": "Sheikh Zayed Grand Mosque",
+    "country": "UAE",
+    "region": "Abu Dhabi",
+    "lat": 24.4128,
+    "lng": 54.475,
+    "type": "landmark",
+    "description": "One of the largest mosques in the world, its white marble domes and courtyard able to hold over 40,000 worshippers, built as a monument to Islamic architectural diversity.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/SZGM%2C_Abu_Dhabi_%28IMG_20230812_132052%29.jpg/960px-SZGM%2C_Abu_Dhabi_%28IMG_20230812_132052%29.jpg",
+    "highlights": [
+      "Its main prayer hall holds the world's largest hand-knotted carpet, woven by around 1,200 artisans and taking two years to complete.",
+      "The mosque's design deliberately blends Persian, Mughal, and Moorish architectural influences into one unified structure.",
+      "At night, a specially designed lighting system tracks the phases of the moon, subtly shifting the building's illumination.",
+      "Its 82 domes and reflecting pools create a striking mirror effect across the marble courtyard at sunset."
+    ]
+  },
+  {
+    "id": 42923,
+    "name": "Gardens by the Bay",
+    "country": "Singapore",
+    "region": "Marina Bay",
+    "lat": 1.2816,
+    "lng": 103.8636,
+    "type": "landmark",
+    "description": "A futuristic nature park in Marina Bay dominated by towering vertical gardens called Supertrees, some over 16 stories tall and wired to power the park's own biodomes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/960px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg",
+    "highlights": [
+      "The tallest Supertrees rise over 50 meters and are covered in more than 200 species of ferns, orchids, and vines.",
+      "Several Supertrees function as vertical gardens that generate solar power used to light the whole grove after dark.",
+      "The nightly light-and-sound show transforms the Supertree Grove into a synchronized display visible across Marina Bay.",
+      "The adjoining climate-controlled domes recreate Mediterranean and cloud-forest ecosystems inside the heart of tropical Singapore."
+    ]
+  },
+  {
+    "id": 42924,
+    "name": "Shibuya Crossing",
+    "country": "Japan",
+    "region": "Tokyo",
+    "lat": 35.6595,
+    "lng": 139.7005,
+    "type": "landmark",
+    "description": "The world's busiest pedestrian crossing, where up to 3,000 people surge across five lanes simultaneously beneath a wall of neon screens in central Tokyo.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/960px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg",
+    "highlights": [
+      "At peak times up to 3,000 pedestrians cross simultaneously in every direction, a scramble choreographed only by traffic lights.",
+      "Surrounding buildings have overhead viewing decks specifically so visitors can watch the crossing's chaos from above.",
+      "It's become a favorite backdrop in films for depicting Tokyo's energy, appearing in everything from Lost in Translation to countless anime.",
+      "Despite the sheer density of people, the crossing runs with famously orderly efficiency, a small window into Tokyo's broader rhythm."
+    ]
+  },
+  {
+    "id": 42925,
+    "name": "Himeji Castle",
+    "country": "Japan",
+    "region": "Hyōgo Prefecture",
+    "lat": 34.8394,
+    "lng": 134.6939,
+    "type": "landmark",
+    "description": "Japan's best-preserved feudal castle, its brilliant white plastered walls and soaring tiered roofs earning it the nickname 'White Heron Castle'.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ch%C3%A2teau_de_Himeji02.jpg/960px-Ch%C3%A2teau_de_Himeji02.jpg",
+    "highlights": [
+      "It's one of the few Japanese castles never destroyed by war, fire, or earthquake, surviving in near-original form since the 1600s.",
+      "Its maze-like approach path was deliberately designed to confuse and slow attacking armies before they reached the keep.",
+      "The brilliant white plaster covering every surface, reapplied during restorations, gives it its poetic nickname, the White Heron Castle.",
+      "It has served as a filming location for numerous samurai films, its intact structure impossible to replicate with modern sets."
+    ]
+  },
+  {
+    "id": 42926,
+    "name": "Mount Everest (Everest Base Camp)",
+    "country": "Nepal",
+    "region": "Khumbu, Himalayas",
+    "lat": 28.0026,
+    "lng": 86.8528,
+    "type": "landmark",
+    "description": "The world's highest mountain, its South Base Camp the starting point for climbers attempting the summit and the destination of one of the planet's most famous trekking routes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20110810_North_Face_of_Everest_Tibet_China_Panoramic.jpg/960px-20110810_North_Face_of_Everest_Tibet_China_Panoramic.jpg",
+    "highlights": [
+      "At 8,849 meters it's the highest point on Earth's surface, still slowly rising due to ongoing tectonic uplift.",
+      "Reaching Base Camp alone is a two-week trek through Sherpa villages, suspension bridges, and thinning air most trekkers have never experienced.",
+      "Tenzing Norgay and Edmund Hillary's first confirmed summit in 1953 remains one of the defining feats of 20th-century exploration.",
+      "The Khumbu Icefall just above Base Camp is one of the most dangerous stretches on the entire route to the summit, shifting constantly."
+    ]
+  },
+  {
+    "id": 42927,
+    "name": "Prambanan",
+    "country": "Indonesia",
+    "region": "Central Java",
+    "lat": -7.752,
+    "lng": 110.4915,
+    "type": "landmark",
+    "description": "The largest Hindu temple complex in Indonesia, its soaring central spire rising 47 meters, built in the 9th century as a rival to the nearby Buddhist Borobudur.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Prambanan_temple%2C_Central_Java%2C_Indonesia%2C_20220818_1311_9139.jpg/960px-Prambanan_temple%2C_Central_Java%2C_Indonesia%2C_20220818_1311_9139.jpg",
+    "highlights": [
+      "Its central tower rises 47 meters, taller than Borobudur, making it the tallest Hindu temple structure in Southeast Asia.",
+      "The temple walls are carved with a complete visual retelling of the Ramayana epic, meant to be read panel by panel while circling the shrine.",
+      "It was built at nearly the same time as Buddhist Borobudur nearby, reflecting a period when Hindu and Buddhist kingdoms coexisted in Java.",
+      "Traditional Ramayana ballet performances are still staged at night with the floodlit temple spires as a dramatic backdrop."
+    ]
+  },
+  {
+    "id": 42928,
+    "name": "Mount Bromo",
+    "country": "Indonesia",
+    "region": "East Java",
+    "lat": -7.9425,
+    "lng": 112.953,
+    "type": "landmark",
+    "description": "An active volcano rising from a vast sea of volcanic sand within the Tengger Caldera, its smoking crater and sunrise views over the surrounding peaks drawing trekkers from across Java.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mount_Bromo_at_sunrise%2C_showing_its_volcanoes_and_Mount_Semeru_%28background%29.jpg/960px-Mount_Bromo_at_sunrise%2C_showing_its_volcanoes_and_Mount_Semeru_%28background%29.jpg",
+    "highlights": [
+      "It sits within a huge ancient caldera known as the 'Sea of Sand', giving the whole landscape an otherworldly, moon-like quality.",
+      "Sunrise viewpoints on the caldera rim look out over Bromo's smoking crater with several other volcanoes lined up behind it.",
+      "The local Tenggerese people still hold an annual Yadnya Kasada ceremony, tossing offerings into the crater to honor the mountain.",
+      "It remains genuinely active, with a constant plume of steam and sulfur smoke rising from the crater rim."
+    ]
+  },
+  {
+    "id": 42929,
+    "name": "Tegallalang Rice Terraces",
+    "country": "Indonesia",
+    "region": "Ubud, Bali",
+    "lat": -8.431,
+    "lng": 115.2788,
+    "type": "landmark",
+    "description": "Steep, cascading emerald rice paddies near Ubud, farmed using the centuries-old Balinese subak irrigation system that channels water cooperatively between terraces.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rice_terraces%2C_Bali.jpg/960px-Rice_terraces%2C_Bali.jpg",
+    "highlights": [
+      "The subak irrigation system managing these terraces is so significant it's recognized by UNESCO as a distinct cultural landscape, not just farmland.",
+      "The terraces follow the natural contour of the hillside, creating the layered, sculptural look that makes them so photogenic.",
+      "Farmers still work the paddies by hand using traditional methods largely unchanged for centuries.",
+      "Small swings and cafes built along the terrace edges let visitors take in the green cascade while it's actively being farmed."
+    ]
+  },
+  {
+    "id": 42930,
+    "name": "Hassan II Mosque",
+    "country": "Morocco",
+    "region": "Casablanca",
+    "lat": 33.6084,
+    "lng": -7.6325,
+    "type": "landmark",
+    "description": "One of the largest mosques in the world, built partly over the Atlantic Ocean with the tallest minaret on Earth, completed in 1993 to a design blending traditional and modern craftsmanship.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sunshine_on_mosque_Hassan_II_in_Casablanca%2C_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg/960px-Sunshine_on_mosque_Hassan_II_in_Casablanca%2C_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg",
+    "highlights": [
+      "Its minaret stands over 200 meters tall, the tallest minaret of any mosque in the world.",
+      "Part of the mosque's foundation is built directly over the Atlantic, with a glass floor section in the prayer hall looking down onto the waves.",
+      "Thousands of Moroccan artisans hand-carved and tiled the interior, keeping traditional zellij and stucco craftsmanship alive on a massive scale.",
+      "The mosque's retractable roof can open the entire prayer hall to the sky in under five minutes."
+    ]
+  },
+  {
+    "id": 42931,
+    "name": "Karnak Temple Complex",
+    "country": "Egypt",
+    "region": "Luxor",
+    "lat": 25.7188,
+    "lng": 32.6573,
+    "type": "landmark",
+    "description": "The largest religious building complex ever constructed, built and expanded by generations of pharaohs over 2,000 years, its Hypostyle Hall filled with 134 massive stone columns.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Columns_at_Hypostyle_hall_of_Karnak_Temple_in_Luxor_Egypt.jpg/960px-Columns_at_Hypostyle_hall_of_Karnak_Temple_in_Luxor_Egypt.jpg",
+    "highlights": [
+      "It was expanded continuously by pharaohs for roughly 2,000 years, making it as much a layered historical record as a single temple.",
+      "The Great Hypostyle Hall's 134 towering columns, some over 20 meters tall, were designed to make visitors feel deliberately small before the gods.",
+      "An avenue of ram-headed sphinxes once linked Karnak directly to Luxor Temple, part of which has been restored today.",
+      "Its sheer scale — the largest religious complex ever built anywhere — dwarfs even St. Peter's Basilica and Angkor Wat by area."
+    ]
+  },
+  {
+    "id": 42932,
+    "name": "Abu Simbel",
+    "country": "Egypt",
+    "region": "Aswan",
+    "lat": 22.3372,
+    "lng": 31.6258,
+    "type": "landmark",
+    "description": "Two massive rock-cut temples built by Ramesses II in the 13th century BC, famously relocated in the 1960s piece by piece to save them from the rising waters of Lake Nasser.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_26-28_HDR.jpg/960px-Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_26-28_HDR.jpg",
+    "highlights": [
+      "In the 1960s the entire temple was cut into blocks and reassembled 65 meters higher to save it from being flooded by the Aswan Dam, one of the great feats of modern engineering.",
+      "Twice a year, on precisely calculated dates, sunlight penetrates 60 meters into the temple to illuminate statues deep in the inner sanctuary.",
+      "Four colossal 20-meter statues of Ramesses II guard the entrance, among the largest pharaonic statues ever carved.",
+      "It was built partly to intimidate Egypt's southern neighbors, a deliberate display of power at the edge of the empire."
+    ]
+  },
+  {
+    "id": 42933,
+    "name": "Empire State Building",
+    "country": "USA",
+    "region": "New York City",
+    "lat": 40.7484,
+    "lng": -73.9857,
+    "type": "landmark",
+    "description": "An Art Deco skyscraper that was the tallest building in the world for nearly 40 years after its 1931 completion, still one of the most recognizable silhouettes in New York.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/New_York_City_%28New_York%2C_USA%29%2C_Empire_State_Building_--_2012_--_6448.jpg/960px-New_York_City_%28New_York%2C_USA%29%2C_Empire_State_Building_--_2012_--_6448.jpg",
+    "highlights": [
+      "It was built in just over a year, a construction pace almost unimaginable for a supertall building today.",
+      "It held the title of world's tallest building for nearly four decades, longer than any other skyscraper in history.",
+      "Its spire was originally designed as a mooring mast for airships, a plan abandoned after proving impractical and dangerous.",
+      "The building is lit in different colors for holidays and events, turning its top floors into a rotating civic billboard visible across the city."
+    ]
+  },
+  {
+    "id": 42934,
+    "name": "Alcatraz Island",
+    "country": "USA",
+    "region": "San Francisco Bay, California",
+    "lat": 37.8267,
+    "lng": -122.423,
+    "type": "landmark",
+    "description": "A former federal maximum-security prison on a rocky island in San Francisco Bay, once holding Al Capone, now a museum reachable only by ferry.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Main_Prison_--_2022_--_3149.jpg/960px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Main_Prison_--_2022_--_3149.jpg",
+    "highlights": [
+      "No inmate is officially confirmed to have successfully escaped and survived, despite several famous, still-debated attempts.",
+      "Al Capone served part of his sentence here, one of many notorious inmates held on the island.",
+      "Its cold, current-swept waters were considered a natural extra layer of security, discouraging escape attempts by water.",
+      "The audio tour, narrated partly by former guards and inmates, is consistently rated among the best prison-museum experiences anywhere."
+    ]
+  },
+  {
+    "id": 42935,
+    "name": "The White House",
+    "country": "USA",
+    "region": "Washington, D.C.",
+    "lat": 38.8977,
+    "lng": -77.0365,
+    "type": "landmark",
+    "description": "The official residence and workplace of the President of the United States, standing since 1800 and rebuilt after being burned by British forces in the War of 1812.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Latrobe_White_House_cropa2.jpg/960px-Latrobe_White_House_cropa2.jpg",
+    "highlights": [
+      "It was set ablaze by British troops in 1814, and the white paint applied afterward to cover the scorch marks reportedly gave the building its name.",
+      "Every U.S. president except George Washington has lived and worked here, making it a continuous thread through American political history.",
+      "It contains 132 rooms, including the Oval Office, and sits on 18 acres of grounds in the middle of the capital.",
+      "Its North Lawn view is one of the most broadcast backdrops in the world, appearing constantly in global news coverage."
+    ]
+  },
+  {
+    "id": 42936,
+    "name": "Lincoln Memorial",
+    "country": "USA",
+    "region": "Washington, D.C.",
+    "lat": 38.8893,
+    "lng": -77.0502,
+    "type": "landmark",
+    "description": "A neoclassical monument honoring Abraham Lincoln at the west end of the National Mall, its 19-foot seated statue overlooking the Reflecting Pool toward the Washington Monument.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lincoln_Memorial_east_side.JPG/960px-Lincoln_Memorial_east_side.JPG",
+    "highlights": [
+      "Martin Luther King Jr. delivered his 'I Have a Dream' speech from its steps in 1963, cementing the memorial as a stage for civil rights history.",
+      "The 36 columns surrounding it represent the 36 states in the Union at the time of Lincoln's death.",
+      "Lincoln's Gettysburg Address and second inaugural address are carved in full into the chamber's interior walls.",
+      "The view down the Reflecting Pool toward the Washington Monument is one of the most recognizable sightlines in American civic architecture."
+    ]
+  },
+  {
+    "id": 42937,
+    "name": "Bryce Canyon",
+    "country": "USA",
+    "region": "Utah",
+    "lat": 37.593,
+    "lng": -112.1871,
+    "type": "landmark",
+    "description": "A natural amphitheater packed with thousands of thin, colorful rock spires called hoodoos, carved by frost-wedging erosion into the largest concentration of hoodoos on Earth.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bryce_Canyon_Amphitheater_Hoodoos_Panorama.jpg/960px-Bryce_Canyon_Amphitheater_Hoodoos_Panorama.jpg",
+    "highlights": [
+      "It holds the largest concentration of hoodoos anywhere in the world, thousands of spires packed into a single amphitheater.",
+      "The hoodoos form through frost-wedging, where water freezes and thaws in rock cracks roughly 200 nights a year, slowly carving the stone.",
+      "At sunrise the orange, pink, and white banded rock glows in a way that shifts dramatically minute to minute.",
+      "Its high elevation gives it some of the darkest night skies of any national park, making it a renowned stargazing destination too."
+    ]
+  },
+  {
+    "id": 42938,
+    "name": "Monument Valley",
+    "country": "USA",
+    "region": "Navajo Nation, Arizona/Utah",
+    "lat": 36.9989,
+    "lng": -110.0985,
+    "type": "landmark",
+    "description": "Towering red sandstone buttes rising from the desert floor on Navajo Nation land, a landscape so definitive of the American West it's shaped how the world pictures it.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/John_Ford%27s_Point_Monument_Valley_Luca_Galuzzi_2007.jpg/960px-John_Ford%27s_Point_Monument_Valley_Luca_Galuzzi_2007.jpg",
+    "highlights": [
+      "Director John Ford filmed multiple classic Westerns here, and its buttes became the visual shorthand for the entire American West.",
+      "The valley is entirely within the Navajo Nation, and Navajo guides lead tours sharing the land's cultural and geological significance.",
+      "The buttes are the eroded remains of a once much higher sandstone plateau, isolated survivors of millions of years of erosion.",
+      "Sunrise and sunset light turns the buttes a deep red-orange, a lighting effect photographers plan entire trips around."
+    ]
+  },
+  {
+    "id": 42939,
+    "name": "Horseshoe Bend",
+    "country": "USA",
+    "region": "Arizona",
+    "lat": 36.8791,
+    "lng": -111.5104,
+    "type": "landmark",
+    "description": "A dramatic horseshoe-shaped meander of the Colorado River, cut nearly 300 meters straight down through layered sandstone near Page, Arizona.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/USA_10187_Horseshoe_Bend_Luca_Galuzzi_2007.jpg/960px-USA_10187_Horseshoe_Bend_Luca_Galuzzi_2007.jpg",
+    "highlights": [
+      "The river drops nearly 300 meters straight down at this bend, with only a low railing between the overlook and the sheer cliff edge.",
+      "The meander's near-perfect horseshoe shape formed as the river slowly cut down through rock over millions of years while still snaking side to side.",
+      "It only became a major tourist stop in the last couple of decades, after photographs of the bend went viral online.",
+      "The short walk from the parking area to the rim crosses open desert, an easy hike for a view most people call jaw-dropping."
+    ]
+  },
+  {
+    "id": 42940,
+    "name": "Sugarloaf Mountain",
+    "country": "Brazil",
+    "region": "Rio de Janeiro",
+    "lat": -22.9492,
+    "lng": -43.1546,
+    "type": "landmark",
+    "description": "A distinctive granite peak rising straight from Rio de Janeiro's harbor, reached by a cable car strung between two mountains that has carried visitors since 1912.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rio_de_Janeiro_from_Sugarloaf_mountain%2C_May_2004.jpg/960px-Rio_de_Janeiro_from_Sugarloaf_mountain%2C_May_2004.jpg",
+    "highlights": [
+      "The cable car system linking the two peaks has operated since 1912, one of the oldest of its kind still running anywhere in the world.",
+      "Its smooth granite dome formed from a single mass of rock resistant to the erosion that wore down the surrounding landscape.",
+      "The summit view takes in Christ the Redeemer, Copacabana Beach, and Rio's harbor all in one panorama.",
+      "Its distinctive rounded shape supposedly reminded Portuguese settlers of the refined sugar loaves exported from Brazil, giving it its name."
+    ]
+  },
+  {
+    "id": 42941,
+    "name": "Gullfoss",
+    "country": "Iceland",
+    "region": "Golden Circle",
+    "lat": 64.3271,
+    "lng": -20.1199,
+    "type": "landmark",
+    "description": "A powerful two-tiered waterfall on the Hvítá River that appears to plunge into a hidden crevasse, one of the anchor stops on Iceland's popular Golden Circle route.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gullfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_119.JPG/960px-Gullfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_119.JPG",
+    "highlights": [
+      "The river drops in two dramatic stages before disappearing into a narrow crevasse, making the falls look like they vanish into the earth from certain angles.",
+      "In the early 20th century, local farmer's daughter Sigríður Tómasdóttir fought to stop the falls from being sold for hydropower, and is credited with helping preserve it.",
+      "On sunny days, rising spray regularly produces rainbows across the gorge.",
+      "It anchors Iceland's Golden Circle route alongside Þingvellir National Park and the Geysir geothermal area."
+    ]
+  },
+  {
+    "id": 42942,
+    "name": "Jökulsárlón Glacier Lagoon",
+    "country": "Iceland",
+    "region": "Vatnajökull",
+    "lat": 64.0784,
+    "lng": -16.23,
+    "type": "landmark",
+    "description": "A glacial lagoon filled with luminous blue icebergs calved from the Breiðamerkurjökull glacier, drifting slowly out to sea past a beach scattered with stranded ice chunks.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/021_Wild_smiling_harbor_seal_at_J%C3%B6kuls%C3%A1rl%C3%B3n_%28Iceland%29_Photo_by_Giles_Laurent.jpg/960px-021_Wild_smiling_harbor_seal_at_J%C3%B6kuls%C3%A1rl%C3%B3n_%28Iceland%29_Photo_by_Giles_Laurent.jpg",
+    "highlights": [
+      "Icebergs calved from the glacier drift for months across the lagoon before finally washing out to a nearby beach nicknamed 'Diamond Beach' for the ice shards scattered on black sand.",
+      "The lagoon has grown dramatically over the last century as the glacier feeding it retreats, a visible marker of climate change.",
+      "Its deep blue ice color comes from densely compressed glacial ice that absorbs every color of light except blue.",
+      "Seals are frequently seen resting on the floating icebergs or swimming through the lagoon's calm water."
+    ]
+  },
+  {
+    "id": 42943,
+    "name": "Múlafossur Waterfall",
+    "country": "Faroe Islands",
+    "region": "Vágar",
+    "lat": 62.0996,
+    "lng": -7.573,
+    "type": "landmark",
+    "description": "A dramatic waterfall plunging directly into the North Atlantic beside the tiny village of Gásadalur, long isolated from the rest of the Faroe Islands by sheer cliffs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Waterfall_at_Gasadalur%2C_Faroe_Islands.jpg/960px-Waterfall_at_Gasadalur%2C_Faroe_Islands.jpg",
+    "highlights": [
+      "Gásadalur, the village beside it, was accessible only by a steep mountain footpath or boat until a tunnel finally connected it to the rest of Vágar in 2004.",
+      "The waterfall drops directly into the ocean, a rare pairing of waterfall and sea cliff in one frame.",
+      "Its dramatic, moody setting — grass-roofed houses, sheer cliffs, crashing surf — has made it one of the most photographed spots in the Faroe Islands.",
+      "The surrounding cliffs are frequently wrapped in fast-moving Atlantic fog, changing the scene from moment to moment."
+    ]
+  },
+  {
+    "id": 42944,
+    "name": "Meteor Crater",
+    "country": "USA",
+    "region": "Arizona",
+    "lat": 35.0275,
+    "lng": -111.0219,
+    "type": "landmark",
+    "description": "A 1.2-kilometer-wide impact crater formed some 50,000 years ago when an iron-nickel meteorite slammed into the Arizona desert, among the best-preserved impact craters on Earth.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Meteor_Crater_-_Arizona.jpg/960px-Meteor_Crater_-_Arizona.jpg",
+    "highlights": [
+      "It's one of the best-preserved meteorite impact craters on Earth, despite being tens of thousands of years old.",
+      "NASA astronauts trained here in the 1960s and '70s, since its terrain closely resembles the lunar surface.",
+      "The impact that created it released energy roughly equivalent to a large nuclear detonation, vaporizing most of the meteorite instantly.",
+      "Its scale is deceptive from the rim — the crater is large enough that 20 football fields could fit inside it."
+    ]
+  },
+  {
+    "id": 42945,
+    "name": "Sossusvlei & Deadvlei",
+    "country": "Namibia",
+    "region": "Namib-Naukluft",
+    "lat": -24.7591,
+    "lng": 15.2936,
+    "type": "landmark",
+    "description": "A surreal salt-and-clay pan in the heart of the Namib Desert, ringed by some of the tallest sand dunes on Earth, where centuries-dead camel thorn trees stand blackened against white clay and orange sand.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dead_vlei_-_Flickr_-_yaaaay.jpg/960px-Dead_vlei_-_Flickr_-_yaaaay.jpg",
+    "highlights": [
+      "The skeletal black trees in Deadvlei are believed to be over 900 years old, so dried out by the desert climate that they never decompose.",
+      "'Big Daddy' and other nearby dunes rise over 300 meters, among the tallest sand dunes in the world.",
+      "The stark color contrast — white clay pan, black dead trees, deep orange dunes, blue sky — makes it one of the most photographed landscapes in Africa.",
+      "The pan itself only floods a handful of times a century, when rare rains reach it before evaporating and sealing the clay."
+    ]
+  },
+  {
+    "id": 42946,
+    "name": "Fish River Canyon",
+    "country": "Namibia",
+    "region": "ǁKaras Region",
+    "lat": -27.5825,
+    "lng": 17.6031,
+    "type": "landmark",
+    "description": "The second-largest canyon in the world, a 160-kilometer gorge carved by the Fish River into the southern Namibian plateau, with cliffs plunging up to 550 meters.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fish_River_Canyon_Namibia.jpg/960px-Fish_River_Canyon_Namibia.jpg",
+    "highlights": [
+      "At roughly 160 kilometers long and up to 27 kilometers wide, it's considered the second-largest canyon on Earth after the Grand Canyon.",
+      "A demanding 5-day, 85-kilometer hiking trail through the canyon floor is one of the classic multi-day treks in southern Africa.",
+      "The river itself is mostly dry above ground for parts of the year, flowing instead through underground channels beneath the sand.",
+      "Sunset viewpoints along the rim turn the layered rock walls deep red and gold, drawing photographers just for that hour."
+    ]
+  },
+  {
+    "id": 42947,
+    "name": "Spitzkoppe",
+    "country": "Namibia",
+    "region": "Erongo Region",
+    "lat": -21.8333,
+    "lng": 15.1833,
+    "type": "landmark",
+    "description": "A cluster of bald granite peaks rising dramatically some 700 meters from the flat Namib plains, nicknamed the 'Matterhorn of Namibia' for its sharp silhouette.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Spitzkoppe_Rock_Arch_Panorama_with_even_sky.jpg/960px-Spitzkoppe_Rock_Arch_Panorama_with_even_sky.jpg",
+    "highlights": [
+      "Its granite dome formed roughly 120 million years ago and has been sculpted since by wind and temperature extremes into smooth, rounded forms.",
+      "A natural rock arch near the base perfectly frames the peak behind it, one of the most photographed rock formations in Namibia.",
+      "San rock paintings, some thousands of years old, are preserved in shelters around the base of the peaks.",
+      "With almost no light pollution for hundreds of kilometers, it's become a favorite spot for night-sky and star-trail photography."
+    ]
+  },
+  {
+    "id": 42948,
+    "name": "Meroë Pyramids",
+    "country": "Sudan",
+    "region": "River Nile State",
+    "lat": 16.9333,
+    "lng": 33.75,
+    "type": "landmark",
+    "description": "Nearly 200 steep-sided pyramids built by the ancient Kingdom of Kush as royal tombs, rising from the Sudanese desert in far greater numbers than Egypt's — yet visited by a fraction of the people.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sudan_Meroe_Pyramids_2001.JPG",
+    "highlights": [
+      "Sudan holds nearly twice as many pyramids as Egypt, almost 200 in total, despite receiving only a tiny fraction of the visitors.",
+      "Their steep, narrow profile is architecturally distinct from Egypt's pyramids, reflecting the independent Kushite civilization that built them.",
+      "Most were deliberately decapitated in the 1830s by a treasure hunter searching for gold, and many still show the damage today.",
+      "Visitors can often have the entire site to themselves, walking freely among the pyramids without crowds or barriers."
+    ]
+  },
+  {
+    "id": 42949,
+    "name": "Avenue of the Baobabs",
+    "country": "Madagascar",
+    "region": "Menabe",
+    "lat": -20.2411,
+    "lng": 44.4192,
+    "type": "landmark",
+    "description": "A dirt road lined with towering, centuries-old baobab trees near Morondava, their bulbous trunks and sparse crowns forming one of Madagascar's most iconic sights, especially at sunset.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adansonia_grandidieri04.jpg/960px-Adansonia_grandidieri04.jpg",
+    "highlights": [
+      "Some of the baobabs here are estimated to be over 800 years old, remnants of dense forest that has since been cleared around them.",
+      "Madagascar is home to six of the world's nine baobab species, most found nowhere else on Earth.",
+      "At sunset the trees' silhouettes against the orange sky have made this one of the most photographed roads in Africa.",
+      "The avenue was granted temporary protected status after public campaigning, though it remains vulnerable to surrounding land clearance."
+    ]
+  },
+  {
+    "id": 42950,
+    "name": "Tsingy de Bemaraha",
+    "country": "Madagascar",
+    "region": "Melaky",
+    "lat": -18.7667,
+    "lng": 44.7333,
+    "type": "landmark",
+    "description": "A vast 'stone forest' of razor-sharp limestone pinnacles in western Madagascar, so serrated and treacherous that its name means 'walking on tiptoes' in Malagasy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tsingy_de_Bemaraha.jpg",
+    "highlights": [
+      "The name Tsingy translates roughly to 'where one cannot walk barefoot', describing just how sharp the limestone spires are underfoot.",
+      "Rope bridges and via ferrata routes let visitors cross between pinnacles high above the forest floor, one of Madagascar's most adventurous hikes.",
+      "The maze of spires and canyons shelters lemurs and rare birds found nowhere outside this specific limestone habitat.",
+      "It formed over millions of years as rainwater dissolved a limestone plateau, leaving only the hardest rock standing as blades and towers."
+    ]
+  },
+  {
+    "id": 42951,
+    "name": "Gorée Island",
+    "country": "Senegal",
+    "region": "Dakar",
+    "lat": 14.6672,
+    "lng": -17.3983,
+    "type": "landmark",
+    "description": "A small island off Dakar that served as a major hub of the Atlantic slave trade for centuries, its House of Slaves and 'Door of No Return' now a solemn memorial and UNESCO World Heritage Site.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%C3%8Ele_de_Gor%C3%A9e_vue_de_la_chaloupe_15.jpg/960px-%C3%8Ele_de_Gor%C3%A9e_vue_de_la_chaloupe_15.jpg",
+    "highlights": [
+      "The House of Slaves' 'Door of No Return' looks directly out onto the Atlantic, marking where captives were forced onto ships bound for the Americas.",
+      "Despite historians debating the exact numbers processed through this specific building, the island stands as a powerful global memorial to the transatlantic slave trade.",
+      "Its pastel colonial buildings and car-free, cobbled streets give the island a deceptively tranquil, almost idyllic appearance today.",
+      "World leaders including Nelson Mandela, Barack Obama, and Pope John Paul II have visited to pay respects at the site."
+    ]
+  },
+  {
+    "id": 42952,
+    "name": "Cape Coast Castle",
+    "country": "Ghana",
+    "region": "Cape Coast, Central Region",
+    "lat": 5.1053,
+    "lng": -1.2466,
+    "type": "landmark",
+    "description": "A whitewashed fortress on Ghana's Gulf of Guinea coast, built by European traders and later used as a major holding point in the transatlantic slave trade, now preserved as a museum and memorial.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Castle%2C_Cape_Coast_%28P1100221%29.jpg/960px-Castle%2C_Cape_Coast_%28P1100221%29.jpg",
+    "highlights": [
+      "Its dungeons, built to hold hundreds of enslaved people at a time in total darkness, remain preserved almost exactly as they were.",
+      "The castle changed hands between Swedish, Dutch, and British traders before becoming one of the largest slave-trading posts on the West African coast.",
+      "Its 'Door of No Return' mirrors Gorée Island's, marking the final passage from Africa for those forced aboard slave ships.",
+      "Guided tours here are led with a directness meant to confront visitors with the history rather than soften it."
+    ]
+  },
+  {
+    "id": 42953,
+    "name": "El Djem Amphitheatre",
+    "country": "Tunisia",
+    "region": "Mahdia Governorate",
+    "lat": 35.2967,
+    "lng": 10.705,
+    "type": "landmark",
+    "description": "One of the best-preserved Roman amphitheaters in the world, built in the 3rd century AD to hold 35,000 spectators in what was then a small provincial Tunisian town.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_38-40_HDR.jpg/960px-Anfiteatro%2C_El_Jem%2C_T%C3%BAnez%2C_2016-09-04%2C_DD_38-40_HDR.jpg",
+    "highlights": [
+      "It could seat roughly 35,000 people despite being built in a relatively minor Roman town, reflecting the region's wealth from olive oil exports.",
+      "Its preservation rivals the Colosseum in Rome, with underground passages and animal pens still largely intact beneath the arena floor.",
+      "It was used as a filming location for Gladiator, standing in for ancient Rome itself.",
+      "Locals reportedly used it as a fortress refuge during regional uprisings in the 17th century, which ironically helped preserve its structure."
+    ]
+  },
+  {
+    "id": 42954,
+    "name": "Chefchaouen",
+    "country": "Morocco",
+    "region": "Rif Mountains",
+    "lat": 35.1688,
+    "lng": -5.2636,
+    "type": "landmark",
+    "description": "A mountain town in northern Morocco where nearly every building, alley, and stairway is washed in varying shades of blue, drawing photographers into its medina at every turn.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2018_01_%28Blue%29_-_Chaouen.jpg/960px-2018_01_%28Blue%29_-_Chaouen.jpg",
+    "highlights": [
+      "No one fully agrees why the town is blue — theories range from Jewish refugees introducing the tradition in the 1930s to it simply repelling mosquitoes and heat.",
+      "Every shade from pale sky blue to deep indigo appears across the same street, since individual residents choose and repaint their own doorways and walls.",
+      "Its setting in the Rif Mountains gives the town cooler air and green backdrops rare in much of Morocco.",
+      "Wandering its steep, narrow lanes without a fixed route is part of the point — nearly every turn reveals another photogenic blue corner."
+    ]
+  },
+  {
+    "id": 42955,
+    "name": "Great Zimbabwe",
+    "country": "Zimbabwe",
+    "region": "Masvingo Province",
+    "lat": -20.2674,
+    "lng": 30.9337,
+    "type": "landmark",
+    "description": "The stone ruins of a medieval African city and trading empire, its massive dry-stone walls built without mortar between the 11th and 15th centuries, giving modern Zimbabwe its name.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/960px-Great-zim-aerial-looking-West.JPG",
+    "highlights": [
+      "Its walls were built entirely from stacked granite blocks without any mortar, an engineering feat that has stood for over 600 years.",
+      "At its peak the city was home to an estimated 18,000 people, part of a trading empire linked to gold routes reaching as far as China and Persia.",
+      "Colonial authorities long refused to credit African builders for the site, falsely attributing it to outside civilizations — a distortion only fully corrected after independence.",
+      "The country of Zimbabwe took its name directly from these ruins, meaning 'houses of stone' in Shona."
+    ]
+  },
+  {
+    "id": 42956,
+    "name": "Mount Nyiragongo",
+    "country": "DR Congo",
+    "region": "North Kivu",
+    "lat": -1.5197,
+    "lng": 29.25,
+    "type": "landmark",
+    "description": "An active stratovolcano holding the largest lava lake on Earth, its crater glowing red at night above the war-scarred forests of the Virunga region.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lava_Lake_Nyiragongo_2.jpg/960px-Lava_Lake_Nyiragongo_2.jpg",
+    "highlights": [
+      "Its crater holds the largest and most active lava lake on the planet, at times over 250 meters across.",
+      "Reaching the summit requires a demanding overnight hike, rewarded by camping literally on the crater rim above the glowing lake.",
+      "A catastrophic 2002 eruption sent lava flowing directly through the city of Goma, destroying part of it in hours.",
+      "It sits within Virunga National Park, Africa's oldest national park, adding rare volcanic drama to a region already known for mountain gorillas."
+    ]
+  },
+  {
+    "id": 42957,
+    "name": "Richat Structure (Eye of the Sahara)",
+    "country": "Mauritania",
+    "region": "Adrar Plateau",
+    "lat": 21.1247,
+    "lng": -11.3993,
+    "type": "landmark",
+    "description": "A massive, near-perfectly circular geological formation nearly 50 kilometers across in the Mauritanian desert, so distinct and symmetrical it was initially mistaken for a meteorite impact crater.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Richat_Structure_-_SRTM.jpg/960px-Richat_Structure_-_SRTM.jpg",
+    "highlights": [
+      "It's so large and geometrically distinct that it's one of the most recognizable natural landmarks visible to astronauts from orbit.",
+      "Geologists now believe it's an eroded dome of uplifted rock, not an impact crater as originally suspected.",
+      "Its concentric rock rings, exposed by different rates of erosion, create a bullseye pattern unlike almost any other landscape on Earth.",
+      "Despite its scale, it's invisible and disorienting from ground level — its true form only became apparent once viewed from space."
+    ]
+  },
+  {
+    "id": 42958,
+    "name": "Blue Nile Falls (Tis Issat)",
+    "country": "Ethiopia",
+    "region": "Amhara Region",
+    "lat": 11.4897,
+    "lng": 37.5928,
+    "type": "landmark",
+    "description": "A dramatic waterfall on the Blue Nile near Lake Tana, its Amharic name meaning 'smoking water' for the thick mist that rises off the plunging river.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ET_Bahir_Dar_asv2018-02_img17_Tis_Issat.jpg/960px-ET_Bahir_Dar_asv2018-02_img17_Tis_Issat.jpg",
+    "highlights": [
+      "Locals call it Tis Issat, 'smoking water', for the dense curtain of mist and spray that rises visibly above the falls.",
+      "It marks one of the Blue Nile's dramatic early drops on its long journey to eventually join the White Nile in Sudan.",
+      "A stone bridge nearby, built in the 17th century on Portuguese-influenced design, is one of the oldest in Ethiopia.",
+      "A hydroelectric dam upstream has reduced its flow at times, making the rainy season (roughly June to September) the best time to see it at full force."
+    ]
+  },
+  {
+    "id": 42959,
+    "name": "Siwa Oasis",
+    "country": "Egypt",
+    "region": "Western Desert",
+    "lat": 29.2032,
+    "lng": 25.5196,
+    "type": "landmark",
+    "description": "A remote desert oasis near the Libyan border, its palm groves and salt lakes built around freshwater springs, once home to the oracle temple where Alexander the Great was declared a son of a god.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Palm_trees_in_Siwa_oasis.jpg/960px-Palm_trees_in_Siwa_oasis.jpg",
+    "highlights": [
+      "Alexander the Great made a grueling detour deep into the desert specifically to consult the oracle here, which reportedly confirmed his divine parentage.",
+      "Its distinct Siwi Berber culture and language differ from the rest of Egypt, shaped by centuries of geographic isolation.",
+      "Natural salt lakes around the oasis are dense enough that swimmers float easily on the surface, similar to the Dead Sea.",
+      "Mud-brick ruins of the ancient fortress town of Shali, abandoned after a rare heavy rainstorm dissolved its walls, still rise above the modern town."
+    ]
+  },
+  {
+    "id": 42960,
+    "name": "White Desert",
+    "country": "Egypt",
+    "region": "Farafra, Western Desert",
+    "lat": 27.3667,
+    "lng": 28.0833,
+    "type": "landmark",
+    "description": "A surreal desert landscape of wind-carved white chalk rock formations resembling mushrooms, icebergs, and animals, rising from cream-colored sand in Egypt's Western Desert.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/White_Desert%2C_Rock_formations_in_desert_landscape%2C_Egypt.jpg/960px-White_Desert%2C_Rock_formations_in_desert_landscape%2C_Egypt.jpg",
+    "highlights": [
+      "The chalk formations were carved by sandstorms over millennia into shapes so unusual that features have been nicknamed 'the Mushroom' and 'the Chicken'.",
+      "At sunset and sunrise the white rock takes on pink and orange hues against the surrounding desert, a favorite reason to camp overnight among the formations.",
+      "The chalk itself formed from an ancient seabed, meaning fossilized marine life is still sometimes found scattered across the desert floor.",
+      "Its otherworldly, almost lunar landscape has made it a popular stand-in location for science-fiction and desert film productions."
+    ]
+  },
+  {
+    "id": 42961,
+    "name": "Sidi Bou Said",
+    "country": "Tunisia",
+    "region": "Tunis Governorate",
+    "lat": 36.8703,
+    "lng": 10.3414,
+    "type": "landmark",
+    "description": "A clifftop village overlooking the Gulf of Tunis, its white-and-blue buildings, bougainvillea, and cobblestone lanes making it one of the most photographed towns on the Mediterranean's southern coast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sidi_Bou_Said_Roundabout_Fountain_2010.jpg/960px-Sidi_Bou_Said_Roundabout_Fountain_2010.jpg",
+    "highlights": [
+      "A 1912 decree by a French baron settled in the town required every building to keep the white-and-blue color scheme, preserving its now-iconic look.",
+      "Its clifftop cafés overlooking the Gulf of Tunis have drawn writers and artists, including Paul Klee and August Macke, for over a century.",
+      "Intricately patterned wrought-iron window grilles and doors, painted deep blue, are found on nearly every building in town.",
+      "The nearby ruins of ancient Carthage sit just a short distance away, letting visitors pair the village with one of the ancient world's great cities in a single day."
+    ]
   }
 ]

@@ -125,6 +125,26 @@
   border-color: var(--accent);
 }
 
+.cat-toggle-wonder.cat-on {
+  background: #a855f7;
+  border-color: #6b21a8;
+}
+
+.cat-toggle-landmark.cat-on {
+  background: #eab308;
+  border-color: #a16207;
+}
+
+.cat-toggle-dive.cat-on {
+  background: #1aa6c9;
+  border-color: #0a6e8c;
+}
+
+.cat-toggle-park.cat-on {
+  background: #2aaa50;
+  border-color: #1a7a3a;
+}
+
 .cat-toggle.cat-on::after {
   content: '';
   position: absolute;
@@ -369,6 +389,55 @@
   font-size: 11.5px;
   margin: 6px 0 0;
   line-height: 1.5;
+}
+
+/* ── Landmark popup ──────────────────────────────────────────── */
+.landmark-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #f1f5f9;
+}
+
+.landmark-body {
+  padding: 14px 16px 16px;
+}
+
+.landmark-why-title {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #a16207;
+  margin: 14px 0 8px;
+}
+
+.landmark-highlights {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.landmark-highlights li {
+  position: relative;
+  padding-left: 16px;
+  font-size: 12.5px;
+  color: #475569;
+  line-height: 1.55;
+}
+
+.landmark-highlights li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 6px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #eab308;
 }
 
 /* ── Place labels (map overlay) ──────────────────────────────── */

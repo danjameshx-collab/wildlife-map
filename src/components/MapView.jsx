@@ -17,8 +17,11 @@ const MAX_BOUNDS = [
 const DIVE_OPTIONS = { color: '#0a6e8c', fillColor: '#1aa6c9', fillOpacity: 0.85, weight: 2 };
 const PARK_OPTIONS = { color: '#1a7a3a', fillColor: '#2aaa50', fillOpacity: 0.85, weight: 2 };
 const ENDEMIC_OPTIONS = { color: '#7f1d1d', fillColor: '#dc2626', fillOpacity: 0.85, weight: 2 };
+const WONDER_OPTIONS = { color: '#6b21a8', fillColor: '#a855f7', fillOpacity: 0.9, weight: 2 };
+const LANDMARK_OPTIONS = { color: '#a16207', fillColor: '#eab308', fillOpacity: 0.9, weight: 2 };
 
 const markerOptions = (loc) => {
+  if (loc.type === 'landmark') return loc.wonder ? WONDER_OPTIONS : LANDMARK_OPTIONS;
   if (loc.sightings.some((s) => s.endemic)) return ENDEMIC_OPTIONS;
   return loc.type === 'park' ? PARK_OPTIONS : DIVE_OPTIONS;
 };

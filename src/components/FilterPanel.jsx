@@ -1,7 +1,12 @@
 export default function FilterPanel({
-  categories,
-  selectedCategories,
-  onToggleCategory,
+  showWonders,
+  onToggleWonders,
+  showLandmarks,
+  onToggleLandmarks,
+  showDiveSites,
+  onToggleDiveSites,
+  showParks,
+  onToggleParks,
   resultCount,
   isOpen,
 }) {
@@ -20,19 +25,28 @@ export default function FilterPanel({
 
       <div className="panel-body">
         <section>
-          <h2>Species Type</h2>
+          <h2>Map Layers</h2>
           <div className="category-list">
-            {categories.map((cat) => (
-              <label key={cat} className="category-item">
-                <span className={`cat-toggle${selectedCategories.includes(cat) ? ' cat-on' : ''}`} />
-                <input
-                  type="checkbox"
-                  checked={selectedCategories.includes(cat)}
-                  onChange={() => onToggleCategory(cat)}
-                />
-                {cat}
-              </label>
-            ))}
+            <label className="category-item">
+              <span className={`cat-toggle cat-toggle-wonder${showWonders ? ' cat-on' : ''}`} />
+              <input type="checkbox" checked={showWonders} onChange={onToggleWonders} />
+              Wonders of the World
+            </label>
+            <label className="category-item">
+              <span className={`cat-toggle cat-toggle-landmark${showLandmarks ? ' cat-on' : ''}`} />
+              <input type="checkbox" checked={showLandmarks} onChange={onToggleLandmarks} />
+              Landmarks
+            </label>
+            <label className="category-item">
+              <span className={`cat-toggle cat-toggle-dive${showDiveSites ? ' cat-on' : ''}`} />
+              <input type="checkbox" checked={showDiveSites} onChange={onToggleDiveSites} />
+              Dive Sites
+            </label>
+            <label className="category-item">
+              <span className={`cat-toggle cat-toggle-park${showParks ? ' cat-on' : ''}`} />
+              <input type="checkbox" checked={showParks} onChange={onToggleParks} />
+              National Parks
+            </label>
           </div>
         </section>
       </div>

@@ -1,6 +1,44 @@
 import { formatMonthRange } from '../utils/months';
 
+function LandmarkPopup({ location }) {
+  return (
+    <div className="popup-content">
+      <div className="popup-header">
+        <h3>{location.name}</h3>
+        <p className="popup-region">
+          {location.region ? `${location.region}, ` : ''}{location.country}
+        </p>
+      </div>
+      {location.image_url && (
+        <img
+          className="landmark-photo"
+          src={location.image_url}
+          alt={location.name}
+          loading="lazy"
+        />
+      )}
+      <div className="landmark-body">
+        {location.description && <p className="popup-desc">{location.description}</p>}
+        {location.highlights && location.highlights.length > 0 && (
+          <>
+            <h4 className="landmark-why-title">Why people love it</h4>
+            <ul className="landmark-highlights">
+              {location.highlights.map((h, i) => (
+                <li key={i}>{h}</li>
+              ))}
+            </ul>
+          </>
+        )}
+      </div>
+    </div>
+  );
+}
+
 export default function LocationPopup({ location }) {
+  if (location.type === 'landmark') {
+    return <LandmarkPopup location={location} />;
+  }
+
   return (
     <div className="popup-content">
       <div className="popup-header">

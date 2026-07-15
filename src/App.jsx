@@ -4,26 +4,21 @@ import MapView from './components/MapView';
 import locationsData from './data/locations.json';
 import './App.css';
 
-const ALL_CATEGORIES = [...new Set(locationsData.flatMap((l) => l.sightings.map((s) => s.category)))];
-
 export default function App() {
-  const [selectedCategories, setSelectedCategories] = useState(ALL_CATEGORIES);
+  const [showWonders, setShowWonders] = useState(true);
+  const [showLandmarks, setShowLandmarks] = useState(true);
+  const [showDiveSites, setShowDiveSites] = useState(true);
+  const [showParks, setShowParks] = useState(true);
   const [isMenuOpen, setIsMenuOpen] = useState(true);
 
-  const toggleCategory = (cat) => {
-    setSelectedCategories((prev) =>
-      prev.includes(cat) ? prev.filter((c) => c !== cat) : [...prev, cat]
-    );
-  };
-
   const filteredLocations = useMemo(() => {
-    return locationsData
-      .map((loc) => {
-        const matchingSightings = loc.sightings.filter((s) => selectedCategories.includes(s.category));
-        return { ...loc, sightings: matchingSightings };
-      })
-      .filter((loc) => loc.sightings.length > 0);
-  }, [selectedCategories]);
+    return locationsData.filter((loc) => {
+      if (loc.type === 'landmark') return loc.wonder ? showWonders : showLandmarks;
+      if (loc.type === 'dive') return showDiveSites;
+      if (loc.type === 'park') return showParks;
+      return true;
+    });
+  }, [showWonders, showLandmarks, showDiveSites, showParks]);
 
   return (
     <div className="app-layout">
@@ -37,9 +32,14 @@ export default function App() {
         <span className="menu-toggle-icon" />
       </button>
       <FilterPanel
-        categories={ALL_CATEGORIES}
-        selectedCategories={selectedCategories}
-        onToggleCategory={toggleCategory}
+        showWonders={showWonders}
+        onToggleWonders={() => setShowWonders((prev) => !prev)}
+        showLandmarks={showLandmarks}
+        onToggleLandmarks={() => setShowLandmarks((prev) => !prev)}
+        showDiveSites={showDiveSites}
+        onToggleDiveSites={() => setShowDiveSites((prev) => !prev)}
+        showParks={showParks}
+        onToggleParks={() => setShowParks((prev) => !prev)}
         resultCount={filteredLocations.length}
         isOpen={isMenuOpen}
       />
