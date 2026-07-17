@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef } from 'react';
 import { canonicalCountry } from '../utils/countryGroups';
 
 const SECTION_DEFS = [
@@ -58,7 +58,6 @@ export default function CountryModal({
   onClose,
   onSelectLocation,
   onHoverLocation,
-  hoveredLocation,
   peekOnHover,
   onTogglePeekOnHover,
 }) {
@@ -128,25 +127,11 @@ export default function CountryModal({
     sectionRefs.current[key]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   };
 
-  // Debounced separately from `hoveredLocation` itself: sweeping the mouse
-  // across a grid briefly clears hover as it crosses the gap between two
-  // cards, and reacting to that instantly made the modal snap back to full
-  // size and immediately shrink again for every card - a "flicker" between
-  // hovered cards. Entering peek mode is instant; leaving it waits a beat
-  // to see whether another card picks the hover straight back up.
-  const [isPeeking, setIsPeeking] = useState(false);
-  useEffect(() => {
-    if (!peekOnHover) {
-      setIsPeeking(false);
-      return undefined;
-    }
-    if (hoveredLocation) {
-      setIsPeeking(true);
-      return undefined;
-    }
-    const timer = setTimeout(() => setIsPeeking(false), 260);
-    return () => clearTimeout(timer);
-  }, [hoveredLocation, peekOnHover]);
+  // Tied directly to the toggle, not to individual hover events: shrinking
+  // and growing per-card as the mouse swept across the grid made the modal
+  // resize constantly. Now the modal shrinks once when peek mode is turned
+  // on and stays that size until it's turned off again.
+  const isPeeking = peekOnHover;
 
   return (
     <div className={`country-modal-backdrop${isPeeking ? ' is-peeking' : ''}`} onClick={onClose}>
@@ -191,7 +176,7 @@ export default function CountryModal({
             type="button"
             className={`country-modal-peek-toggle${peekOnHover ? ' is-on' : ''}`}
             onClick={onTogglePeekOnHover}
-            title="When on, hovering a card shrinks the modal and clears the map so you can see the highlighted pin"
+            title="When on, the modal docks small so you can see hovered pins on the map; turn off to return to full size"
           >
             <span className="country-modal-peek-toggle-dot" />
             Peek on hover

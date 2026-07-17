@@ -68,7 +68,6 @@ export default function App() {
           onClose={() => setSelectedCountry(null)}
           onSelectLocation={handleSelectLocation}
           onHoverLocation={setHoveredLocation}
-          hoveredLocation={hoveredLocation}
           peekOnHover={peekOnHover}
           onTogglePeekOnHover={() => setPeekOnHover((prev) => !prev)}
         />
