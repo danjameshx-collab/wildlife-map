@@ -74,8 +74,13 @@ function MapController({ onMapReady }) {
 // The CountryModal covers most (or all) of the screen, so a highlight
 // marker sitting behind it is invisible. When a card is hovered, nudge the
 // map (pan only, no zoom change) so that point lands in whichever strip of
-// map is actually visible beside the modal - debounced so sweeping the
-// mouse across a whole grid of cards doesn't fire a pan per card.
+// map is actually visible beside the modal - but only if it isn't already
+// visible there. Re-centering on every single hover (even when the pin was
+// already on screen) is what reads as the map "jumping around" as you move
+// between cards; skipping the redundant moves is most of the fix. Debounced
+// so sweeping the mouse across a grid of cards doesn't fire a pan per card,
+// and uses flyTo (not panTo) so the one that does happen is guaranteed to
+// ease smoothly rather than risk Leaflet snapping instantly for long hops.
 function HoverRevealController({ hoveredLocation }) {
   const map = useMap();
 
@@ -85,7 +90,10 @@ function HoverRevealController({ hoveredLocation }) {
     const timer = setTimeout(() => {
       const modalEl = document.querySelector('.country-modal');
       const mapRect = map.getContainer().getBoundingClientRect();
+      const margin = 32;
       let targetPoint;
+      let visibleMin;
+      let visibleMax;
 
       if (modalEl) {
         const modalRect = modalEl.getBoundingClientRect();
@@ -94,20 +102,36 @@ function HoverRevealController({ hoveredLocation }) {
         // Modal is genuinely edge-to-edge (e.g. narrow/mobile viewport) -
         // there's no sliver of map anywhere to reveal a marker in.
         if (freeRight < 8 && freeLeft < 8) return;
-        const margin = 24;
-        targetPoint =
-          freeRight >= freeLeft
-            ? L.point(mapRect.width - Math.max(freeRight / 2, margin), mapRect.height * 0.5)
-            : L.point(Math.max(freeLeft / 2, margin), mapRect.height * 0.5);
+        if (freeRight >= freeLeft) {
+          targetPoint = L.point(mapRect.width - Math.max(freeRight / 2, margin), mapRect.height * 0.5);
+          visibleMin = modalRect.right - mapRect.left;
+          visibleMax = mapRect.width;
+        } else {
+          targetPoint = L.point(Math.max(freeLeft / 2, margin), mapRect.height * 0.5);
+          visibleMin = 0;
+          visibleMax = modalRect.left - mapRect.left;
+        }
       } else {
         targetPoint = L.point(mapRect.width / 2, mapRect.height / 2);
+        visibleMin = 0;
+        visibleMax = mapRect.width;
       }
 
       const latlng = L.latLng(hoveredLocation.lat, hoveredLocation.lng + nearestOffset(map, hoveredLocation.lng));
       const currentPoint = map.latLngToContainerPoint(latlng);
+
+      // Already comfortably inside the visible strip (and not too close to
+      // the top/bottom edge either) - leave the view exactly where it is.
+      const alreadyVisible =
+        currentPoint.x > visibleMin + margin &&
+        currentPoint.x < visibleMax - margin &&
+        currentPoint.y > margin &&
+        currentPoint.y < mapRect.height - margin;
+      if (alreadyVisible) return;
+
       const centerPoint = map.latLngToContainerPoint(map.getCenter());
       const newCenterPoint = centerPoint.subtract(targetPoint.subtract(currentPoint));
-      map.panTo(map.containerPointToLatLng(newCenterPoint), { animate: true, duration: 0.4 });
+      map.flyTo(map.containerPointToLatLng(newCenterPoint), map.getZoom(), { duration: 0.6, easeLinearity: 0.25 });
       // 340ms: long enough for the modal's shrink-and-dock CSS transition
       // (320ms) to have essentially finished, so this measures its final
       // size/position rather than a mid-animation frame.
