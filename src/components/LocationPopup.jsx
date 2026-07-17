@@ -1,12 +1,26 @@
 import { formatMonthRange } from '../utils/months';
+import { canonicalCountry } from '../utils/countryGroups';
 
-function LandmarkPopup({ location }) {
+function CountryLink({ location, onSelectCountry }) {
+  return (
+    <button
+      type="button"
+      className="popup-country-link"
+      onClick={() => onSelectCountry(canonicalCountry(location.country))}
+    >
+      {location.country}
+    </button>
+  );
+}
+
+function LandmarkPopup({ location, onSelectCountry }) {
   return (
     <div className="popup-content">
       <div className="popup-header">
         <h3>{location.name}</h3>
         <p className="popup-region">
-          {location.region ? `${location.region}, ` : ''}{location.country}
+          {location.region ? `${location.region}, ` : ''}
+          <CountryLink location={location} onSelectCountry={onSelectCountry} />
         </p>
       </div>
       {location.image_url && (
@@ -34,9 +48,9 @@ function LandmarkPopup({ location }) {
   );
 }
 
-export default function LocationPopup({ location }) {
+export default function LocationPopup({ location, onSelectCountry }) {
   if (location.type === 'landmark') {
-    return <LandmarkPopup location={location} />;
+    return <LandmarkPopup location={location} onSelectCountry={onSelectCountry} />;
   }
 
   return (
@@ -44,7 +58,8 @@ export default function LocationPopup({ location }) {
       <div className="popup-header">
         <h3>{location.name}</h3>
         <p className="popup-region">
-          {location.region ? `${location.region}, ` : ''}{location.country}
+          {location.region ? `${location.region}, ` : ''}
+          <CountryLink location={location} onSelectCountry={onSelectCountry} />
         </p>
         {location.description && <p className="popup-desc">{location.description}</p>}
       </div>

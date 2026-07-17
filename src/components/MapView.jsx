@@ -1,5 +1,8 @@
 import 'leaflet/dist/leaflet.css';
-import { MapContainer, TileLayer, CircleMarker, Popup, ZoomControl } from 'react-leaflet';
+import L from 'leaflet';
+import { MapContainer, TileLayer, CircleMarker, Popup, ZoomControl, useMap } from 'react-leaflet';
+import { useEffect, useState } from 'react';
+import { createPortal } from 'react-dom';
 import PlaceLabels from './PlaceLabels';
 import LocationPopup from './LocationPopup';
 
@@ -39,7 +42,124 @@ const markerOptions = (loc) => {
 // whichever copy is currently in view.
 const WORLD_COPY_OFFSETS = [-1080, -720, -360, 0, 360, 720, 1080];
 
-export default function MapView({ locations }) {
+// Leaflet's panes sit inside a transformed ancestor (.leaflet-map-pane),
+// which per the CSS spec creates its own stacking context - so no z-index
+// on a marker inside it can ever paint above the CountryModal's backdrop,
+// which lives outside that subtree entirely. Picks whichever rendered
+// world-copy of `lng` sits nearest the current view.
+function nearestOffset(map, lng) {
+  const centerLng = map.getCenter().lng;
+  let best = 0;
+  let bestDist = Infinity;
+  for (const offset of WORLD_COPY_OFFSETS) {
+    const dist = Math.abs(lng + offset - centerLng);
+    if (dist < bestDist) {
+      bestDist = dist;
+      best = offset;
+    }
+  }
+  return best;
+}
+
+// Hands the underlying Leaflet map instance up to App so it can flyTo a
+// location chosen from the CountryModal.
+function MapController({ onMapReady }) {
+  const map = useMap();
+  useEffect(() => {
+    onMapReady?.(map);
+  }, [map, onMapReady]);
+  return null;
+}
+
+// The CountryModal covers most (or all) of the screen, so a highlight
+// marker sitting behind it is invisible. When a card is hovered, nudge the
+// map (pan only, no zoom change) so that point lands in whichever strip of
+// map is actually visible beside the modal - debounced so sweeping the
+// mouse across a whole grid of cards doesn't fire a pan per card.
+function HoverRevealController({ hoveredLocation }) {
+  const map = useMap();
+
+  useEffect(() => {
+    if (!hoveredLocation) return undefined;
+
+    const timer = setTimeout(() => {
+      const modalEl = document.querySelector('.country-modal');
+      const mapRect = map.getContainer().getBoundingClientRect();
+      let targetPoint;
+
+      if (modalEl) {
+        const modalRect = modalEl.getBoundingClientRect();
+        const freeRight = mapRect.right - modalRect.right;
+        const freeLeft = modalRect.left - mapRect.left;
+        // Modal is genuinely edge-to-edge (e.g. narrow/mobile viewport) -
+        // there's no sliver of map anywhere to reveal a marker in.
+        if (freeRight < 8 && freeLeft < 8) return;
+        const margin = 24;
+        targetPoint =
+          freeRight >= freeLeft
+            ? L.point(mapRect.width - Math.max(freeRight / 2, margin), mapRect.height * 0.5)
+            : L.point(Math.max(freeLeft / 2, margin), mapRect.height * 0.5);
+      } else {
+        targetPoint = L.point(mapRect.width / 2, mapRect.height / 2);
+      }
+
+      const latlng = L.latLng(hoveredLocation.lat, hoveredLocation.lng + nearestOffset(map, hoveredLocation.lng));
+      const currentPoint = map.latLngToContainerPoint(latlng);
+      const centerPoint = map.latLngToContainerPoint(map.getCenter());
+      const newCenterPoint = centerPoint.subtract(targetPoint.subtract(currentPoint));
+      map.panTo(map.containerPointToLatLng(newCenterPoint), { animate: true, duration: 0.4 });
+      // 340ms: long enough for the modal's shrink-and-dock CSS transition
+      // (320ms) to have essentially finished, so this measures its final
+      // size/position rather than a mid-animation frame.
+    }, 340);
+
+    return () => clearTimeout(timer);
+  }, [hoveredLocation, map]);
+
+  return null;
+}
+
+// Renders the pulsing highlight ring as a `position: fixed` element
+// portaled to <body>, rather than as a Leaflet marker - Leaflet's panes
+// live inside a transformed ancestor, which creates its own stacking
+// context and caps every descendant's effective z-index no matter what
+// value is set on the marker itself, so it can never paint above the
+// modal's backdrop. Recomputed on every map move/zoom to stay in sync.
+function HoverHighlightOverlay({ hoveredLocation }) {
+  const map = useMap();
+  const [screenPos, setScreenPos] = useState(null);
+
+  useEffect(() => {
+    if (!hoveredLocation) {
+      setScreenPos(null);
+      return undefined;
+    }
+
+    const update = () => {
+      const latlng = L.latLng(hoveredLocation.lat, hoveredLocation.lng + nearestOffset(map, hoveredLocation.lng));
+      const point = map.latLngToContainerPoint(latlng);
+      const mapRect = map.getContainer().getBoundingClientRect();
+      setScreenPos({ x: mapRect.left + point.x, y: mapRect.top + point.y });
+    };
+
+    update();
+    map.on('move zoom', update);
+    return () => map.off('move zoom', update);
+  }, [hoveredLocation, map]);
+
+  if (!screenPos) return null;
+
+  return createPortal(
+    <div className="map-highlight-overlay" style={{ left: screenPos.x, top: screenPos.y }}>
+      <span className="map-highlight-ring" />
+      <span className="map-highlight-ring map-highlight-ring-delay" />
+      <span className="map-highlight-dot" />
+    </div>,
+    document.body
+  );
+}
+
+export default function MapView({ locations, onSelectCountry, onMapReady, hoveredLocation }) {
   return (
     <MapContainer
       className="map-container"
@@ -54,6 +174,8 @@ export default function MapView({ locations }) {
       preferCanvas={true}
       zoomControl={false}
     >
+      <MapController onMapReady={onMapReady} />
+      <HoverRevealController hoveredLocation={hoveredLocation} />
       <ZoomControl position="topright" />
       <TileLayer
         url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png"
@@ -61,7 +183,7 @@ export default function MapView({ locations }) {
         subdomains="abcd"
         maxZoom={19}
       />
-      <PlaceLabels />
+      <PlaceLabels onSelectCountry={onSelectCountry} />
       {locations.map((loc) =>
         WORLD_COPY_OFFSETS.map((offset) => (
           <CircleMarker
@@ -71,11 +193,12 @@ export default function MapView({ locations }) {
             pathOptions={markerOptions(loc)}
           >
             <Popup maxWidth={420} minWidth={280} maxHeight={580}>
-              <LocationPopup location={loc} />
+              <LocationPopup location={loc} onSelectCountry={onSelectCountry} />
             </Popup>
           </CircleMarker>
         ))
       )}
+      <HoverHighlightOverlay hoveredLocation={hoveredLocation} />
     </MapContainer>
   );
 }

@@ -3,8 +3,12 @@ import { Tooltip, CircleMarker, useMap } from 'react-leaflet';
 import { COUNTRY_LABELS } from '../data/countryLabels';
 import { REGION_LABELS } from '../data/regionLabels';
 import { CITY_LABELS } from '../data/cityLabels';
+import { canonicalCountry } from '../utils/countryGroups';
+import locationsData from '../data/locations.json';
 
 const MAX_ZOOM_FOR_LABELS = 14;
+
+const DATA_COUNTRY_KEYS = new Set(locationsData.map((l) => canonicalCountry(l.country)));
 
 // Matches MapView's WORLD_COPY_OFFSETS: static copies rather than a
 // dynamically recentred offset, since asking Leaflet to reposition an
@@ -16,7 +20,7 @@ const WORLD_COPY_OFFSETS = [-1080, -720, -360, 0, 360, 720, 1080];
 // regions, then cities fill whatever room is left. Each tier has its
 // own style/class.
 const TIERS = [
-  { data: COUNTRY_LABELS, className: 'label-country', fontSize: 16 },
+  { data: COUNTRY_LABELS, className: 'label-country', fontSize: 16, isCountry: true },
   { data: REGION_LABELS, className: 'label-region', fontSize: 14 },
   { data: CITY_LABELS, className: 'label-city', fontSize: 12 },
 ];
@@ -25,7 +29,7 @@ function rectsOverlap(a, b) {
   return a.left < b.right && a.right > b.left && a.top < b.bottom && a.bottom > b.top;
 }
 
-export default function PlaceLabels() {
+export default function PlaceLabels({ onSelectCountry }) {
   const map = useMap();
   const [visible, setVisible] = useState([]);
 
@@ -61,7 +65,13 @@ export default function PlaceLabels() {
           if (placedRects.some((r) => rectsOverlap(r, rect))) continue;
 
           placedRects.push(rect);
-          result.push({ ...place, lng, offset, className: tier.className });
+          result.push({
+            ...place,
+            lng,
+            offset,
+            className: tier.className,
+            clickable: Boolean(tier.isCountry) && DATA_COUNTRY_KEYS.has(place.name),
+          });
         }
       }
     }
@@ -85,8 +95,12 @@ export default function PlaceLabels() {
           pathOptions={{ opacity: 0, fillOpacity: 0 }}
           interactive={false}
         >
-          <Tooltip permanent direction="center" className={`place-label ${p.className}`}>
-            {p.name}
+          <Tooltip permanent direction="center" className={`place-label ${p.className}${p.clickable ? ' label-clickable' : ''}`}>
+            {p.clickable ? (
+              <span onClick={() => onSelectCountry(p.name)}>{p.name}</span>
+            ) : (
+              p.name
+            )}
           </Tooltip>
         </CircleMarker>
       ))}

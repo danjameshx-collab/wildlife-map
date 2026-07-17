@@ -1,6 +1,7 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useRef, useState } from 'react';
 import FilterPanel from './components/FilterPanel';
 import MapView from './components/MapView';
+import CountryModal from './components/CountryModal';
 import locationsData from './data/locations.json';
 import './App.css';
 
@@ -10,6 +11,10 @@ export default function App() {
   const [showDiveSites, setShowDiveSites] = useState(true);
   const [showParks, setShowParks] = useState(true);
   const [isMenuOpen, setIsMenuOpen] = useState(true);
+  const [selectedCountry, setSelectedCountry] = useState(null);
+  const [hoveredLocation, setHoveredLocation] = useState(null);
+  const [peekOnHover, setPeekOnHover] = useState(true);
+  const mapRef = useRef(null);
 
   const filteredLocations = useMemo(() => {
     return locationsData.filter((loc) => {
@@ -19,6 +24,11 @@ export default function App() {
       return true;
     });
   }, [showWonders, showLandmarks, showDiveSites, showParks]);
+
+  const handleSelectLocation = (loc) => {
+    mapRef.current?.flyTo([loc.lat, loc.lng], 8, { duration: 1.2 });
+    setSelectedCountry(null);
+  };
 
   return (
     <div className="app-layout">
@@ -43,7 +53,26 @@ export default function App() {
         resultCount={filteredLocations.length}
         isOpen={isMenuOpen}
       />
-      <MapView locations={filteredLocations} />
+      <MapView
+        locations={filteredLocations}
+        onSelectCountry={setSelectedCountry}
+        onMapReady={(map) => {
+          mapRef.current = map;
+        }}
+        hoveredLocation={hoveredLocation}
+      />
+      {selectedCountry && (
+        <CountryModal
+          country={selectedCountry}
+          locationsData={locationsData}
+          onClose={() => setSelectedCountry(null)}
+          onSelectLocation={handleSelectLocation}
+          onHoverLocation={setHoveredLocation}
+          hoveredLocation={hoveredLocation}
+          peekOnHover={peekOnHover}
+          onTogglePeekOnHover={() => setPeekOnHover((prev) => !prev)}
+        />
+      )}
     </div>
   );
 }
