@@ -16,8 +16,7 @@ export default function FilterPanel({
     <aside className={`filter-panel${isOpen ? '' : ' filter-panel-collapsed'}`}>
       <div className="panel-header">
         <div className="panel-title-row">
-          <span className="panel-icon">🦈</span>
-          <h1>Wildlife Map</h1>
+          <h1>Super World Map 🌐</h1>
         </div>
         <p className="subtitle">
           <span className="result-count">{resultCount}</span>{' '}
