@@ -6,17 +6,23 @@ const SECTION_DEFS = [
   { key: 'landmarks', label: 'Landmarks', accent: '#eab308', icon: '🏛️' },
   { key: 'parks', label: 'National Parks', accent: '#2aaa50', icon: '🌳' },
   { key: 'dive', label: 'Dive Sites', accent: '#1aa6c9', icon: '🤿' },
+  { key: 'food', label: 'Food & Dishes', accent: '#4b5563', icon: '🍽️' },
 ];
 
 function thumbnailFor(loc) {
   if (loc.type === 'landmark') return loc.image_url || null;
+  if (loc.type === 'food') {
+    const withPhoto = loc.dishes.find((d) => d.image_url);
+    return withPhoto ? withPhoto.image_url : null;
+  }
   const withPhoto = loc.sightings.find((s) => s.image_url);
   return withPhoto ? withPhoto.image_url : null;
 }
 
 function LocationCard({ loc, accent, icon, onSelect, onHover }) {
   const image = thumbnailFor(loc);
-  const endemicCount = loc.type !== 'landmark' ? loc.sightings.filter((s) => s.endemic).length : 0;
+  const isSpeciesLocation = loc.type !== 'landmark' && loc.type !== 'food';
+  const endemicCount = isSpeciesLocation ? loc.sightings.filter((s) => s.endemic).length : 0;
 
   return (
     <button
@@ -38,12 +44,17 @@ function LocationCard({ loc, accent, icon, onSelect, onHover }) {
           <strong>{loc.name}</strong>
           {loc.region && <span>{loc.region}</span>}
         </div>
-        {loc.type !== 'landmark' && (
+        {isSpeciesLocation && (
           <div className="country-card-badges">
             <span className="country-card-badge">{loc.sightings.length} species</span>
             {endemicCount > 0 && (
               <span className="country-card-badge country-card-badge-endemic">{endemicCount} endemic</span>
             )}
+          </div>
+        )}
+        {loc.type === 'food' && (
+          <div className="country-card-badges">
+            <span className="country-card-badge">{loc.dishes.length} dish{loc.dishes.length === 1 ? '' : 'es'}</span>
           </div>
         )}
         {loc.wonder && <span className="country-card-wonder-tag">Wonder</span>}
@@ -70,7 +81,7 @@ export default function CountryModal({
   );
 
   const grouped = useMemo(() => {
-    const g = { wonders: [], landmarks: [], parks: [], dive: [] };
+    const g = { wonders: [], landmarks: [], parks: [], dive: [], food: [] };
     for (const loc of countryLocations) {
       if (loc.type === 'landmark') {
         (loc.wonder ? g.wonders : g.landmarks).push(loc);
@@ -78,13 +89,15 @@ export default function CountryModal({
         g.parks.push(loc);
       } else if (loc.type === 'dive') {
         g.dive.push(loc);
+      } else if (loc.type === 'food') {
+        g.food.push(loc);
       }
     }
     return g;
   }, [countryLocations]);
 
   const heroImage = useMemo(() => {
-    for (const key of ['wonders', 'landmarks', 'parks', 'dive']) {
+    for (const key of ['wonders', 'landmarks', 'parks', 'dive', 'food']) {
       const found = grouped[key].map(thumbnailFor).find(Boolean);
       if (found) return found;
     }

@@ -48,9 +48,45 @@ function LandmarkPopup({ location, onSelectCountry }) {
   );
 }
 
+function FoodPopup({ location, onSelectCountry }) {
+  return (
+    <div className="popup-content">
+      <div className="popup-header">
+        <h3>{location.name}</h3>
+        <p className="popup-region">
+          {location.region ? `${location.region}, ` : ''}
+          <CountryLink location={location} onSelectCountry={onSelectCountry} />
+        </p>
+      </div>
+      <ul className="popup-sightings">
+        {location.dishes.map((d, i) => (
+          <li key={i} className="sighting-card">
+            {d.image_url && (
+              <img className="sighting-photo" src={d.image_url} alt={d.name} loading="lazy" />
+            )}
+            <div className="sighting-body">
+              <div className="sighting-header">
+                <strong>{d.name}</strong>
+                <span className={`food-scope-badge food-scope-${d.scope}`}>
+                  {d.scope === 'national' ? 'National' : 'Regional'}
+                </span>
+                <span className="sighting-category">{d.category}</span>
+              </div>
+              {d.description && <p className="popup-notes">{d.description}</p>}
+            </div>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
 export default function LocationPopup({ location, onSelectCountry }) {
   if (location.type === 'landmark') {
     return <LandmarkPopup location={location} onSelectCountry={onSelectCountry} />;
+  }
+  if (location.type === 'food') {
+    return <FoodPopup location={location} onSelectCountry={onSelectCountry} />;
   }
 
   return (

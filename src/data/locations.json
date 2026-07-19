@@ -51282,5 +51282,1681 @@
       "The world's first atomic bomb test, Trinity, was conducted just a short distance from the dunes in July 1945.",
       "Specialized plants and animals here, including a lizard that has evolved nearly pure white coloring, are found almost nowhere else, adapted specifically to blend into the unusual sand."
     ]
+  },
+  {
+    "id": 90001,
+    "name": "Thailand",
+    "country": "Thailand",
+    "region": null,
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Pad Thai",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pad_Thai_%28Jhanjay_Vegetarian_Thai_Cuisine%2C_Ballard%2C_Seattle%29.jpg",
+        "description": "Stir-fried rice noodles with tamarind, egg, and peanuts — the country's best-known street dish."
+      },
+      {
+        "name": "Tom Yum Goong",
+        "scope": "national",
+        "category": "Soup",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Tom_yum_goong-01.jpg",
+        "description": "Hot and sour prawn soup fragrant with lemongrass, galangal, and kaffir lime leaf."
+      }
+    ]
+  },
+  {
+    "id": 90002,
+    "name": "Vietnam",
+    "country": "Vietnam",
+    "region": null,
+    "lat": 21.0278,
+    "lng": 105.8342,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Phở",
+        "scope": "national",
+        "category": "Soup",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/3_mushroom_curry_noodle_soup_with_ph%E1%BB%9F_-_Pho_2025-11-12.jpg",
+        "description": "Slow-simmered beef or chicken broth with rice noodles and fresh herbs, eaten any time of day."
+      },
+      {
+        "name": "Bánh Mì",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/B%C3%A1nh_M%C3%AC_Ph%C6%B0%E1%BB%A3ng_%282024%29_-_img_04.jpg",
+        "description": "French-influenced baguette sandwich packed with pâté, pickled vegetables, and herbs."
+      }
+    ]
+  },
+  {
+    "id": 90003,
+    "name": "Japan",
+    "country": "Japan",
+    "region": null,
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Sushi",
+        "scope": "national",
+        "category": "Seafood",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sushi_on_the_dish_and_Soy_sauce_of_Japanese_Origami_Papers.jpg",
+        "description": "Vinegared rice paired with raw fish, a refined national art form perfected over centuries."
+      },
+      {
+        "name": "Ramen",
+        "scope": "national",
+        "category": "Noodles",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ramen_and_Chahan_001.jpg",
+        "description": "Wheat noodles in a rich broth (shoyu, miso, or tonkotsu), topped with pork, egg, and scallion."
+      }
+    ]
+  },
+  {
+    "id": 90004,
+    "name": "South Korea",
+    "country": "South Korea",
+    "region": null,
+    "lat": 37.5665,
+    "lng": 126.978,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Kimchi Jjigae",
+        "scope": "national",
+        "category": "Stew",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Korean.cuisine-Kimchi_jjigae-01.jpg",
+        "description": "A spicy, fermented cabbage stew built around kimchi, tofu, and pork."
+      },
+      {
+        "name": "Bibimbap",
+        "scope": "national",
+        "category": "Rice Dish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bibimbap_at_restaurant_Korean_Kitchen.jpg",
+        "description": "A bowl of rice topped with seasoned vegetables, meat, and a fried egg, mixed with gochujang."
+      }
+    ]
+  },
+  {
+    "id": 90005,
+    "name": "China",
+    "country": "China",
+    "region": null,
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Peking Duck",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/2016-08-27_Peking_Duck_at_Great_Wall_Restaurant_Beijing_anagoria.jpg",
+        "description": "Lacquered roast duck with crisp skin, sliced tableside and wrapped in thin pancakes."
+      },
+      {
+        "name": "Dumplings (Jiaozi)",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Taipei_Taiwan_Jiaozi-Restaurant-14th-avenue-02.jpg",
+        "description": "Pleated dough parcels filled with pork or vegetables, boiled, steamed, or pan-fried."
+      }
+    ]
+  },
+  {
+    "id": 90006,
+    "name": "India",
+    "country": "India",
+    "region": null,
+    "lat": 28.6139,
+    "lng": 77.209,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Butter Chicken",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Chicken_makhani.jpg",
+        "description": "Tandoor-roasted chicken simmered in a rich, buttery tomato and cream sauce."
+      },
+      {
+        "name": "Biryani",
+        "scope": "national",
+        "category": "Rice Dish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/A_home_made_plate_of_mutton_biryani_served_with_chicken_kassa_cooked_in_the_bengali_style.jpg",
+        "description": "Layered spiced rice and marinated meat, slow-cooked under a sealed lid."
+      }
+    ]
+  },
+  {
+    "id": 90007,
+    "name": "Indonesia",
+    "country": "Indonesia",
+    "region": null,
+    "lat": -6.2088,
+    "lng": 106.8456,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Nasi Goreng",
+        "scope": "national",
+        "category": "Rice Dish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nasi_goreng_indonesia.jpg",
+        "description": "Smoky wok-fried rice with sweet soy sauce, often topped with a fried egg and crackers."
+      },
+      {
+        "name": "Rendang",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Lamb_rendang.jpg",
+        "description": "Beef slow-braised for hours in coconut milk and spices until deeply caramelized."
+      }
+    ]
+  },
+  {
+    "id": 90008,
+    "name": "Malaysia",
+    "country": "Malaysia",
+    "region": null,
+    "lat": 3.139,
+    "lng": 101.6869,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Nasi Lemak",
+        "scope": "national",
+        "category": "Rice Dish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nasi_Lemak_Ayam.jpg",
+        "description": "Coconut rice served with sambal, fried anchovies, peanuts, egg, and cucumber."
+      }
+    ]
+  },
+  {
+    "id": 90009,
+    "name": "Philippines",
+    "country": "Philippines",
+    "region": null,
+    "lat": 14.5995,
+    "lng": 120.9842,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Adobo",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Adobo_DSCF4391.jpg",
+        "description": "Chicken or pork braised in vinegar, soy sauce, garlic, and bay leaf — the de facto national dish."
+      }
+    ]
+  },
+  {
+    "id": 90010,
+    "name": "Turkey",
+    "country": "Türkiye",
+    "region": null,
+    "lat": 39.9334,
+    "lng": 32.8597,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Kebab",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kebab_Gerashi.jpg",
+        "description": "Grilled or roasted meat, from döner to şiş, central to Turkish cuisine."
+      },
+      {
+        "name": "Baklava",
+        "scope": "national",
+        "category": "Dessert",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Food_from_Turkey_%28baklava%29.jpg",
+        "description": "Layers of flaky filo pastry, chopped nuts, and honey syrup."
+      }
+    ]
+  },
+  {
+    "id": 90011,
+    "name": "Lebanon",
+    "country": "Lebanon",
+    "region": null,
+    "lat": 33.8938,
+    "lng": 35.5018,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Hummus",
+        "scope": "national",
+        "category": "Meze",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lebanon%2C_Baalbek%2C_Lebanese_Hummus.jpg",
+        "description": "Creamy blended chickpeas, tahini, lemon, and garlic, eaten with warm flatbread."
+      },
+      {
+        "name": "Tabbouleh",
+        "scope": "national",
+        "category": "Salad",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/2019-02-04_%D1%81%D0%B0%D0%BB%D0%B0%D1%82%D0%B0_%D1%82%D0%B0%D0%B1%D1%83%D0%BB%D0%B5_%D1%81_%D0%BA%D0%B8%D0%BD%D0%BE%D0%B0.jpg",
+        "description": "A parsley-forward salad with bulgur, tomato, and lemon."
+      }
+    ]
+  },
+  {
+    "id": 90012,
+    "name": "Israel",
+    "country": "Israel",
+    "region": null,
+    "lat": 31.7683,
+    "lng": 35.2137,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Falafel",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Falafel_1.JPG",
+        "description": "Deep-fried balls of spiced ground chickpeas, tucked into pita with pickles and tahini."
+      }
+    ]
+  },
+  {
+    "id": 90013,
+    "name": "Iran",
+    "country": "Iran",
+    "region": null,
+    "lat": 35.6892,
+    "lng": 51.389,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Chelow Kabab",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Kababi_alborz2.jpg",
+        "description": "Saffron-buttered steamed rice served with grilled skewered meat."
+      }
+    ]
+  },
+  {
+    "id": 90014,
+    "name": "Egypt",
+    "country": "Egypt",
+    "region": null,
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Koshari",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Egyptian_food_Koshary.jpg",
+        "description": "A hearty mix of rice, lentils, macaroni, and crispy onions, topped with spiced tomato sauce."
+      },
+      {
+        "name": "Ful Medames",
+        "scope": "national",
+        "category": "Breakfast",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ful_medames_%28arabic_meal%29.jpg",
+        "description": "Stewed fava beans mashed with olive oil, lemon, and cumin, eaten at breakfast."
+      }
+    ]
+  },
+  {
+    "id": 90015,
+    "name": "Morocco",
+    "country": "Morocco",
+    "region": null,
+    "lat": 34.0209,
+    "lng": -6.8416,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Tagine",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Chicken_Veg_Tagine_Rabat_Nov25_A7CR_08908.jpg",
+        "description": "Meat and vegetables slow-cooked with preserved lemon and olives in a conical clay pot."
+      },
+      {
+        "name": "Couscous",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg",
+        "description": "Steamed semolina served with vegetables and meat, traditionally eaten on Fridays."
+      }
+    ]
+  },
+  {
+    "id": 90016,
+    "name": "Nigeria",
+    "country": "Nigeria",
+    "region": null,
+    "lat": 9.0765,
+    "lng": 7.3986,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Jollof Rice",
+        "scope": "national",
+        "category": "Rice Dish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/A_Nigeria_Jollof_Rice_with_chicken.jpg",
+        "description": "Smoky tomato-based rice, the subject of friendly rivalry across West Africa."
+      }
+    ]
+  },
+  {
+    "id": 90017,
+    "name": "Ethiopia",
+    "country": "Ethiopia",
+    "region": null,
+    "lat": 9.025,
+    "lng": 38.7469,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Doro Wat",
+        "scope": "national",
+        "category": "Stew",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ethiopian_wat.jpg",
+        "description": "A fiery chicken stew served atop injera, the country's spongy sourdough flatbread."
+      }
+    ]
+  },
+  {
+    "id": 90018,
+    "name": "South Africa",
+    "country": "South Africa",
+    "region": null,
+    "lat": -25.7479,
+    "lng": 28.2293,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Bobotie",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bobootie_1.JPG",
+        "description": "Spiced minced meat baked under a golden egg custard, a Cape Malay classic."
+      },
+      {
+        "name": "Braai",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Braai_Parys%2C_street_vendor.jpg",
+        "description": "South Africa's communal barbecue tradition, central to social life."
+      }
+    ]
+  },
+  {
+    "id": 90019,
+    "name": "Kenya",
+    "country": "Kenya",
+    "region": null,
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Nyama Choma",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Grilled_goat_meat%2C_The_Bali_Cafe%2C_Nairobi%2C_2025_%2801%29.jpg",
+        "description": "Fire-grilled goat or beef, traditionally shared and eaten with the hands."
+      }
+    ]
+  },
+  {
+    "id": 90020,
+    "name": "Ghana",
+    "country": "Ghana",
+    "region": null,
+    "lat": 5.6037,
+    "lng": -0.187,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Jollof Rice",
+        "scope": "national",
+        "category": "Rice Dish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jollof_rice_and_tomato_stew.jpg",
+        "description": "Ghana's take on the West African classic, cooked with long-grain rice and smoky spices."
+      }
+    ]
+  },
+  {
+    "id": 90021,
+    "name": "Italy",
+    "country": "Italy",
+    "region": null,
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Pizza",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pizza_%28_Italian_Food%29.jpg",
+        "description": "Wood-fired dough topped with tomato and mozzarella, born in Naples and beloved worldwide."
+      },
+      {
+        "name": "Pasta Carbonara",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pasta_carbonara_with_French_fries.jpg",
+        "description": "Egg, pecorino, guanciale, and black pepper tossed with hot pasta — no cream involved."
+      }
+    ]
+  },
+  {
+    "id": 90022,
+    "name": "France",
+    "country": "France",
+    "region": null,
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Croissant",
+        "scope": "national",
+        "category": "Bakery",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/20231022_101836_Croissant_supr%C3%AAme.jpg",
+        "description": "A flaky, buttery laminated pastry, the anchor of the French breakfast table."
+      },
+      {
+        "name": "Coq au Vin",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Coq_au_Vin_6of7_%288735164745%29.jpg",
+        "description": "Chicken braised slowly in red wine with mushrooms, pearl onions, and lardons."
+      }
+    ]
+  },
+  {
+    "id": 90023,
+    "name": "Spain",
+    "country": "Spain",
+    "region": null,
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Paella",
+        "scope": "national",
+        "category": "Rice Dish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Paella_de_fruit_de_mer.jpg",
+        "description": "Saffron-scented rice cooked in a wide shallow pan with seafood, meat, or vegetables."
+      },
+      {
+        "name": "Jamón Ibérico",
+        "scope": "national",
+        "category": "Cured Meat",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jam%C3%B3n_ib%C3%A9rico%2C_Set%C3%BAbal%2C_Portugal%2C_2012-05-11%2C_DD_02.JPG",
+        "description": "Acorn-fed, dry-cured ham, sliced paper-thin and prized across the country."
+      }
+    ]
+  },
+  {
+    "id": 90024,
+    "name": "Portugal",
+    "country": "Portugal",
+    "region": null,
+    "lat": 38.7223,
+    "lng": -9.1393,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Pastel de Nata",
+        "scope": "national",
+        "category": "Dessert",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Funchal_%28Madeira%2C_Portugal%29%2C_Rua_Dr._Fern%C3%A3o_de_Ornelas%2C_Nata_7_-_Fern%C3%A3o_Ornelas_--_2025_--_1205.jpg",
+        "description": "A custard tart with a crisp, caramelized top, baked in flaky pastry."
+      },
+      {
+        "name": "Bacalhau",
+        "scope": "national",
+        "category": "Seafood",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/DSC_4018_%283799768917%29.jpg",
+        "description": "Salted, dried cod prepared in hundreds of traditional ways across the country."
+      }
+    ]
+  },
+  {
+    "id": 90025,
+    "name": "Greece",
+    "country": "Greece",
+    "region": null,
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Moussaka",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0_%D0%BE%D0%B4_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D1%80%D0%B8.jpg",
+        "description": "Layered eggplant, spiced minced meat, and béchamel, baked until golden."
+      },
+      {
+        "name": "Souvlaki",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Greek_chicken_souvlaki_merida.jpg",
+        "description": "Skewered grilled meat served in warm pita with tzatziki and fries."
+      }
+    ]
+  },
+  {
+    "id": 90026,
+    "name": "Germany",
+    "country": "Germany",
+    "region": null,
+    "lat": 52.52,
+    "lng": 13.405,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Currywurst",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Curryking-4612.jpg",
+        "description": "Sliced grilled sausage doused in curry-spiced ketchup, a Berlin institution."
+      },
+      {
+        "name": "Sauerbraten",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sauerbraten_with_potato_dumplings.jpg",
+        "description": "A pot roast marinated for days before slow-braising into a tangy, tender dish."
+      }
+    ]
+  },
+  {
+    "id": 90027,
+    "name": "Austria",
+    "country": "Austria",
+    "region": null,
+    "lat": 48.2082,
+    "lng": 16.3738,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Wiener Schnitzel",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Food_Wiener_schnitzel.jpg",
+        "description": "A thin, breaded and pan-fried veal cutlet, crisp and golden."
+      }
+    ]
+  },
+  {
+    "id": 90028,
+    "name": "Switzerland",
+    "country": "Switzerland",
+    "region": null,
+    "lat": 46.948,
+    "lng": 7.4474,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Fondue",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Swiss_fondue.jpg",
+        "description": "Melted cheese shared from a communal pot, eaten with bread cubes on long forks."
+      }
+    ]
+  },
+  {
+    "id": 90029,
+    "name": "United Kingdom",
+    "country": "United Kingdom",
+    "region": null,
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Fish and Chips",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fish_and_chips_at_Sainsbury%27s_Low_Hall%2C_Chingford%2C_London.jpg",
+        "description": "Battered, deep-fried fish with thick-cut chips, wrapped and eaten by the seaside."
+      },
+      {
+        "name": "Sunday Roast",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sunday_roast_vegetable_side_dish_at_The_Stag%2C_Little_Easton%2C_Essex%2C_England.jpg",
+        "description": "Roast meat, potatoes, and vegetables under a blanket of gravy, a weekly ritual."
+      }
+    ]
+  },
+  {
+    "id": 90030,
+    "name": "Ireland",
+    "country": "Ireland",
+    "region": null,
+    "lat": 53.3498,
+    "lng": -6.2603,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Irish Stew",
+        "scope": "national",
+        "category": "Stew",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/-2021-12-03_Irish_Stew%2C_Trimingham%2C_Norfolk.JPG",
+        "description": "Lamb or mutton slow-simmered with potatoes, carrots, and onion."
+      }
+    ]
+  },
+  {
+    "id": 90031,
+    "name": "Netherlands",
+    "country": "Netherlands",
+    "region": null,
+    "lat": 52.3676,
+    "lng": 4.9041,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Stroopwafel",
+        "scope": "national",
+        "category": "Dessert",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gouda%2C_Huis_van_de_stad_%28nieuwe_gemeentehuis%29_foto8_2017-04-30_08.47.jpg",
+        "description": "Two thin waffle wafers sealed around a warm caramel syrup filling."
+      }
+    ]
+  },
+  {
+    "id": 90032,
+    "name": "Belgium",
+    "country": "Belgium",
+    "region": null,
+    "lat": 50.8503,
+    "lng": 4.3517,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Moules-Frites",
+        "scope": "national",
+        "category": "Seafood",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Moules-frites_%C3%A0_la_c%C3%B4te_belge.jpg",
+        "description": "A pot of steamed mussels served with a generous side of crisp fries."
+      }
+    ]
+  },
+  {
+    "id": 90033,
+    "name": "Poland",
+    "country": "Poland",
+    "region": null,
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Pierogi",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Polish_pierogi_in_a_dish.jpg",
+        "description": "Boiled dumplings filled with potato, cheese, meat, or fruit, often pan-fried after."
+      }
+    ]
+  },
+  {
+    "id": 90034,
+    "name": "Hungary",
+    "country": "Hungary",
+    "region": null,
+    "lat": 47.4979,
+    "lng": 19.0402,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Goulash",
+        "scope": "national",
+        "category": "Stew",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Goulash_hungarian.jpg",
+        "description": "A hearty paprika-spiced beef and vegetable stew, Hungary's culinary emblem."
+      }
+    ]
+  },
+  {
+    "id": 90035,
+    "name": "Czechia",
+    "country": "Czechia",
+    "region": null,
+    "lat": 50.0755,
+    "lng": 14.4378,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Svíčková",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sv%C3%AD%C4%8Dkov%C3%A1_om%C3%A1%C4%8Dka_bez_mouky.jpg",
+        "description": "Braised beef in a creamy vegetable sauce, served with bread dumplings."
+      }
+    ]
+  },
+  {
+    "id": 90036,
+    "name": "Russia",
+    "country": "Russia",
+    "region": null,
+    "lat": 55.7558,
+    "lng": 37.6173,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Borscht",
+        "scope": "national",
+        "category": "Soup",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/%D0%9A%D0%B0%D1%84%D0%B5_%D0%B2_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B3%D0%BE%D1%84%D0%B5._%D0%91%D0%BE%D1%80%D1%89_%D0%B8_%D1%86%D1%8B%D0%BF%D0%BB%D0%B5%D0%BD%D0%BE%D0%BA_%D1%81_%D0%BE%D0%B2%D0%BE%D1%89%D0%B0%D0%BC%D0%B8.jpg",
+        "description": "A vivid beet soup, served hot or cold with a dollop of sour cream."
+      },
+      {
+        "name": "Pelmeni",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pelmeni_Russian.jpg",
+        "description": "Small meat-filled dumplings, boiled and served with butter or sour cream."
+      }
+    ]
+  },
+  {
+    "id": 90037,
+    "name": "Ukraine",
+    "country": "Ukraine",
+    "region": null,
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Varenyky",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Twelve-dish_Christmas_Eve_supper.jpg",
+        "description": "Ukraine's beloved dumplings, filled with potato, cheese, or cherries."
+      }
+    ]
+  },
+  {
+    "id": 90038,
+    "name": "Sweden",
+    "country": "Sweden",
+    "region": null,
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Swedish Meatballs",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Marcus_Samuelsson%27s_Swedish_Meatballs_%2838094408336%29.jpg",
+        "description": "Pork and beef meatballs in a creamy gravy, served with lingonberry jam."
+      }
+    ]
+  },
+  {
+    "id": 90039,
+    "name": "Norway",
+    "country": "Norway",
+    "region": null,
+    "lat": 59.9139,
+    "lng": 10.7522,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Fårikål",
+        "scope": "national",
+        "category": "Stew",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Cultural_transmission_1-_%22F%C3%A5rik%C3%A5l%22_%288576627175%29.jpg",
+        "description": "A simple, slow-cooked lamb and cabbage stew — Norway's official national dish."
+      }
+    ]
+  },
+  {
+    "id": 90040,
+    "name": "Finland",
+    "country": "Finland",
+    "region": null,
+    "lat": 60.1699,
+    "lng": 24.9384,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Karjalanpiirakka",
+        "scope": "national",
+        "category": "Bakery",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Karjalanpiirakka_in_a_supermarket.jpg",
+        "description": "Rye-crusted pastries filled with rice porridge, topped with egg butter."
+      }
+    ]
+  },
+  {
+    "id": 90041,
+    "name": "Denmark",
+    "country": "Denmark",
+    "region": null,
+    "lat": 55.6761,
+    "lng": 12.5683,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Smørrebrød",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sm%C3%B8rrebr%C3%B8d_in_Copenhagen_01.jpg",
+        "description": "Open-faced rye bread sandwiches, elaborately topped with fish, meat, or vegetables."
+      }
+    ]
+  },
+  {
+    "id": 90042,
+    "name": "Mexico",
+    "country": "Mexico",
+    "region": null,
+    "lat": 19.4326,
+    "lng": -99.1332,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Tacos al Pastor",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg",
+        "description": "Marinated pork shaved off a vertical spit, served on small corn tortillas with pineapple."
+      },
+      {
+        "name": "Mole Poblano",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Mole_Poblano_i.e_the_city_of_Puebla%27s_mole.jpg",
+        "description": "A deep, complex sauce of chiles, chocolate, and spices, simmered for hours."
+      }
+    ]
+  },
+  {
+    "id": 90043,
+    "name": "United States",
+    "country": "USA",
+    "region": null,
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Hamburger",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Big_Mac_hamburger.jpg",
+        "description": "A grilled beef patty in a bun, endlessly customizable and ubiquitous nationwide."
+      },
+      {
+        "name": "BBQ Brisket",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/KC_BBQ_Beef_Brisket_Sandwich_%283423558731%29.jpg",
+        "description": "Beef brisket smoked low and slow for hours until fork-tender."
+      }
+    ]
+  },
+  {
+    "id": 90044,
+    "name": "Canada",
+    "country": "Canada",
+    "region": null,
+    "lat": 45.4215,
+    "lng": -75.6972,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Poutine",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Poutine_from_Windsor%2C_ON.jpg",
+        "description": "French fries topped with cheese curds and hot gravy — a Québécois invention gone national."
+      }
+    ]
+  },
+  {
+    "id": 90045,
+    "name": "Brazil",
+    "country": "Brazil",
+    "region": null,
+    "lat": -15.7939,
+    "lng": -47.8828,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Feijoada",
+        "scope": "national",
+        "category": "Stew",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Feijoada_%28Brazilian_dish%29%2C_S%C3%A3o_Lu%C3%ADs%2C_Maranh%C3%A3o.jpg",
+        "description": "A rich black bean and pork stew, traditionally served with rice and orange slices."
+      },
+      {
+        "name": "Churrasco",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Traditional_Churrasco_at_South_Brazil.jpg",
+        "description": "Skewered, fire-grilled meats carved tableside, central to Brazilian barbecue culture."
+      }
+    ]
+  },
+  {
+    "id": 90046,
+    "name": "Argentina",
+    "country": "Argentina",
+    "region": null,
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Asado",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Asado_%28argentine_meat%29_2019.jpg",
+        "description": "A slow, wood-fired barbecue tradition and the centerpiece of Argentine social life."
+      },
+      {
+        "name": "Empanadas",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Empanada_%28versi%C3%B3n_argentina%29_de_carne_dulce.jpg",
+        "description": "Hand-sized pastries filled with beef, cheese, or corn, baked or fried."
+      }
+    ]
+  },
+  {
+    "id": 90047,
+    "name": "Peru",
+    "country": "Peru",
+    "region": null,
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Ceviche",
+        "scope": "national",
+        "category": "Seafood",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ceviche_peruano%2C_Mazatl%C3%A1n%2C_10_de_julio_de_2023.jpg",
+        "description": "Raw fish cured in citrus juice with chile and onion, Peru's coastal signature dish."
+      },
+      {
+        "name": "Lomo Saltado",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lomo-saltado-perudelights.jpg",
+        "description": "Stir-fried beef strips with onion, tomato, and fries — a Chinese-Peruvian fusion classic."
+      }
+    ]
+  },
+  {
+    "id": 90048,
+    "name": "Colombia",
+    "country": "Colombia",
+    "region": null,
+    "lat": 4.711,
+    "lng": -74.0721,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Bandeja Paisa",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bandeja_paisa_%285082434401%29.jpg",
+        "description": "A hearty platter of beans, rice, ground beef, chorizo, egg, plantain, and avocado."
+      }
+    ]
+  },
+  {
+    "id": 90049,
+    "name": "Chile",
+    "country": "Chile",
+    "region": null,
+    "lat": -33.4489,
+    "lng": -70.6693,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Empanada de Pino",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Empanada_de_pino.jpg",
+        "description": "A baked empanada filled with beef, onion, olive, and hard-boiled egg."
+      }
+    ]
+  },
+  {
+    "id": 90050,
+    "name": "Cuba",
+    "country": "Cuba",
+    "region": null,
+    "lat": 23.1136,
+    "lng": -82.3666,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Ropa Vieja",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ropa_vieja%2C_Cuba_%289419809373%29.jpg",
+        "description": "Shredded, slow-braised beef in a tomato and pepper sauce, Cuba's national dish."
+      }
+    ]
+  },
+  {
+    "id": 90051,
+    "name": "Jamaica",
+    "country": "Jamaica",
+    "region": null,
+    "lat": 18.0179,
+    "lng": -76.8099,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Jerk Chicken",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jerk_chicken%40The_Jamaican_Grill_%28162928762%29.jpg",
+        "description": "Chicken marinated in Scotch bonnet and allspice, smoked over pimento wood."
+      }
+    ]
+  },
+  {
+    "id": 90052,
+    "name": "Australia",
+    "country": "Australia",
+    "region": null,
+    "lat": -35.2809,
+    "lng": 149.13,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Meat Pie",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Meat_pie.jpg",
+        "description": "A hand-held pastry filled with minced meat and gravy, a stadium and roadside staple."
+      }
+    ]
+  },
+  {
+    "id": 90053,
+    "name": "New Zealand",
+    "country": "New Zealand",
+    "region": null,
+    "lat": -41.2865,
+    "lng": 174.7762,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Hāngī",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rotorua_Maori_Experience_-_Hangi_-_ceremonial_revealing_of_the_food.jpg",
+        "description": "Meat and vegetables slow-cooked in an earth oven over heated stones, a Māori tradition."
+      }
+    ]
+  },
+  {
+    "id": 90054,
+    "name": "Singapore",
+    "country": "Singapore",
+    "region": null,
+    "lat": 1.3521,
+    "lng": 103.8198,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Hainanese Chicken Rice",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Hainanese_chicken_rice_in_Singapore_-_20140213.jpg",
+        "description": "Poached chicken and fragrant rice cooked in its fat, served with chili and ginger sauce."
+      },
+      {
+        "name": "Laksa",
+        "scope": "national",
+        "category": "Soup",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Tofu_Singapore_Laksa_-_Banana_Tree_2024-12-20.jpg",
+        "description": "A spicy coconut noodle soup blending Chinese and Malay flavors."
+      }
+    ]
+  },
+  {
+    "id": 90055,
+    "name": "Sri Lanka",
+    "country": "Sri Lanka",
+    "region": null,
+    "lat": 6.9271,
+    "lng": 79.8612,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Rice and Curry",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Aapam_with_Kadala_curry_with_hot_Kattan_Chai_-_Calicut%2C_Kerala.jpg",
+        "description": "A spread of small coconut-based curries served over rice, varying by region and season."
+      }
+    ]
+  },
+  {
+    "id": 90056,
+    "name": "Nepal",
+    "country": "Nepal",
+    "region": null,
+    "lat": 27.7172,
+    "lng": 85.324,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Momo",
+        "scope": "national",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jhol_Buff_Momo_.jpg",
+        "description": "Steamed or fried dumplings filled with spiced meat or vegetables, served with tomato achar."
+      }
+    ]
+  },
+  {
+    "id": 90057,
+    "name": "Pakistan",
+    "country": "Pakistan",
+    "region": null,
+    "lat": 33.6844,
+    "lng": 73.0479,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Nihari",
+        "scope": "national",
+        "category": "Stew",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%80_%E0%A6%B9%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE.jpg",
+        "description": "A slow-cooked, richly spiced meat stew traditionally simmered overnight."
+      }
+    ]
+  },
+  {
+    "id": 90058,
+    "name": "Bangladesh",
+    "country": "Bangladesh",
+    "region": null,
+    "lat": 23.8103,
+    "lng": 90.4125,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Hilsa Curry",
+        "scope": "national",
+        "category": "Seafood",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hilsa_curry_with_aubergine_and_pumpkin.jpg",
+        "description": "The prized hilsa fish cooked in a mustard-based curry, central to Bengali cuisine."
+      }
+    ]
+  },
+  {
+    "id": 90059,
+    "name": "Myanmar",
+    "country": "Myanmar",
+    "region": null,
+    "lat": 16.8409,
+    "lng": 96.1735,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Mohinga",
+        "scope": "national",
+        "category": "Soup",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Myanmar%E2%80%99s_Traditional_Food_-_Mohinga.jpg",
+        "description": "A fish-based rice noodle soup, widely considered Myanmar's national dish."
+      }
+    ]
+  },
+  {
+    "id": 90060,
+    "name": "Cambodia",
+    "country": "Cambodia",
+    "region": null,
+    "lat": 11.5564,
+    "lng": 104.9282,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Fish Amok",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/2016_Phnom_Penh%2C_Amok_trey_%2802%29.jpg",
+        "description": "A steamed coconut curry mousse made with freshwater fish and kroeung paste."
+      }
+    ]
+  },
+  {
+    "id": 90061,
+    "name": "Laos",
+    "country": "Laos",
+    "region": null,
+    "lat": 17.9757,
+    "lng": 102.6331,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Laap",
+        "scope": "national",
+        "category": "Salad",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Day_224-_Chicken_Larb_%287947748382%29.jpg",
+        "description": "A minced meat salad with herbs, lime, and toasted rice powder — Laos's national dish."
+      }
+    ]
+  },
+  {
+    "id": 90062,
+    "name": "Mongolia",
+    "country": "Mongolia",
+    "region": null,
+    "lat": 47.8864,
+    "lng": 106.9057,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Buuz",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/MongolianBuuz.JPG",
+        "description": "Steamed mutton dumplings, traditionally eaten to celebrate the Lunar New Year."
+      }
+    ]
+  },
+  {
+    "id": 90063,
+    "name": "Georgia",
+    "country": "Georgia",
+    "region": null,
+    "lat": 41.7151,
+    "lng": 44.8271,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Khachapuri",
+        "scope": "national",
+        "category": "Bakery",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Old_Tbilisi%2C_Georgian_khachapuri%2C_Georgia.jpg",
+        "description": "Boat-shaped bread filled with molten cheese and topped with a cracked egg."
+      }
+    ]
+  },
+  {
+    "id": 90064,
+    "name": "Croatia",
+    "country": "Croatia",
+    "region": null,
+    "lat": 45.815,
+    "lng": 15.9819,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Peka",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Doma%C4%87a_peka.jpg",
+        "description": "Meat and vegetables slow-roasted under a domed lid covered in embers."
+      }
+    ]
+  },
+  {
+    "id": 90065,
+    "name": "Romania",
+    "country": "Romania",
+    "region": null,
+    "lat": 44.4268,
+    "lng": 26.1025,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Sarmale",
+        "scope": "national",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sarmale_with_polenta_and_sour_cream.jpg",
+        "description": "Cabbage rolls stuffed with spiced minced meat and rice, simmered for hours."
+      }
+    ]
+  },
+  {
+    "id": 90066,
+    "name": "Ecuador",
+    "country": "Ecuador",
+    "region": null,
+    "lat": -0.1807,
+    "lng": -78.4678,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Ceviche Ecuatoriano",
+        "scope": "national",
+        "category": "Seafood",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ceviche_ecuatoriano_de_camar%C3%B3n.jpg",
+        "description": "A tomato-broth ceviche served with popcorn or plantain chips on the side."
+      }
+    ]
+  },
+  {
+    "id": 90067,
+    "name": "Sichuan Hotpot",
+    "country": "China",
+    "region": "Sichuan",
+    "lat": 30.5728,
+    "lng": 104.0668,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Sichuan Hotpot",
+        "scope": "regional",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Vegetable_Dishes_for_Sichuan_Hotpot_%E8%8F%9C%E7%B1%BB_-_%E9%BA%BB%E8%BE%A3%E7%81%AB%E9%94%85_%281649057722%29.jpg",
+        "description": "A fiery, numbing communal broth of chili and Sichuan peppercorn for cooking meat and vegetables tableside."
+      }
+    ]
+  },
+  {
+    "id": 90068,
+    "name": "Naples Pizza",
+    "country": "Italy",
+    "region": "Naples",
+    "lat": 40.8518,
+    "lng": 14.2681,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Pizza Napoletana",
+        "scope": "regional",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Pizza_IMG_0794_%2839443271415%29.jpg",
+        "description": "The original Neapolitan pizza — thin, blistered crust from a wood-fired oven, San Marzano tomato, buffalo mozzarella."
+      }
+    ]
+  },
+  {
+    "id": 90069,
+    "name": "Louisiana Gumbo",
+    "country": "USA",
+    "region": "Louisiana",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Gumbo",
+        "scope": "regional",
+        "category": "Stew",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gumbo_-_14006896473.jpg",
+        "description": "A dark roux-based stew of Creole and Cajun heritage, layered with okra, andouille, and seafood."
+      }
+    ]
+  },
+  {
+    "id": 90070,
+    "name": "Oaxaca Mole",
+    "country": "Mexico",
+    "region": "Oaxaca",
+    "lat": 17.0732,
+    "lng": -96.7266,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Mole Negro",
+        "scope": "regional",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mole_negro_de_Oaxaca_con_arroz.jpg",
+        "description": "Oaxaca's legendary black mole, blending over twenty ingredients including chocolate and dried chiles."
+      }
+    ]
+  },
+  {
+    "id": 90071,
+    "name": "Marseille Bouillabaisse",
+    "country": "France",
+    "region": "Provence",
+    "lat": 43.2965,
+    "lng": 5.3698,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Bouillabaisse",
+        "scope": "regional",
+        "category": "Seafood",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bullabessa.jpg",
+        "description": "A saffron-scented Provençal fish stew, born from the daily catch of Marseille's fishermen."
+      }
+    ]
+  },
+  {
+    "id": 90072,
+    "name": "Bologna Ragù",
+    "country": "Italy",
+    "region": "Emilia-Romagna",
+    "lat": 44.4949,
+    "lng": 11.3426,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Tagliatelle al Ragù",
+        "scope": "regional",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tagliatelle_al_rag%C3%B9_03.jpg",
+        "description": "Slow-simmered meat sauce over fresh egg tagliatelle, the true ancestor of \"spaghetti bolognese\"."
+      }
+    ]
+  },
+  {
+    "id": 90073,
+    "name": "Osaka Takoyaki",
+    "country": "Japan",
+    "region": "Osaka",
+    "lat": 34.6937,
+    "lng": 135.5023,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Takoyaki",
+        "scope": "regional",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Takoyaki_stand_in_Ebisu.jpg",
+        "description": "Ball-shaped batter snacks filled with diced octopus, brushed with savory-sweet sauce and bonito flakes."
+      }
+    ]
+  },
+  {
+    "id": 90074,
+    "name": "Hyderabad Biryani",
+    "country": "India",
+    "region": "Hyderabad",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Hyderabadi Biryani",
+        "scope": "regional",
+        "category": "Rice Dish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hyderabadi_Chicken_biriyani.jpg",
+        "description": "Basmati rice and marinated meat layered and slow-cooked in a sealed pot (dum) — India's most famous regional biryani."
+      }
+    ]
+  },
+  {
+    "id": 90075,
+    "name": "Texas BBQ Brisket",
+    "country": "USA",
+    "region": "Texas",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Texas Brisket",
+        "scope": "regional",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Texas-style_Brisket_-smokering_%2815720631008%29.jpg",
+        "description": "Beef brisket smoked over post oak for upward of twelve hours, seasoned with just salt and pepper."
+      }
+    ]
+  },
+  {
+    "id": 90076,
+    "name": "Kobe Beef",
+    "country": "Japan",
+    "region": "Hyōgo",
+    "lat": 34.6901,
+    "lng": 135.1955,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Kobe Beef",
+        "scope": "regional",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/4_Kobe_Beef%2C_Kobe_Japan.jpg",
+        "description": "Intensely marbled wagyu from Tajima cattle raised under strict regional standards near Kobe."
+      }
+    ]
+  },
+  {
+    "id": 90077,
+    "name": "Palermo Street Food",
+    "country": "Italy",
+    "region": "Sicily",
+    "lat": 38.1157,
+    "lng": 13.3615,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Arancini",
+        "scope": "regional",
+        "category": "Street Food",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Arancini_002.jpg",
+        "description": "Fried, breaded rice balls filled with ragù, mozzarella, or pistachio, a Sicilian street-food icon."
+      }
+    ]
+  },
+  {
+    "id": 90078,
+    "name": "Lyon Bouchons",
+    "country": "France",
+    "region": "Lyon",
+    "lat": 45.764,
+    "lng": 4.8357,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Quenelle de Brochet",
+        "scope": "regional",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Quenelle_de_brochet_sauce_Nantua.jpg",
+        "description": "A delicate poached pike dumpling in creamy Nantua sauce, a specialty of Lyon's traditional bouchons."
+      }
+    ]
+  },
+  {
+    "id": 90079,
+    "name": "Xi'an Noodles",
+    "country": "China",
+    "region": "Shaanxi",
+    "lat": 34.3416,
+    "lng": 108.9398,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Biang Biang Noodles",
+        "scope": "regional",
+        "category": "Noodles",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Biang_Biang_Noodles_at_Qintangyizhan%2C_Tianzhu%2C_Beijing_%2820200412133323%29.jpg",
+        "description": "Wide, hand-pulled noodles tossed in chili oil, named for the sound made while stretching the dough."
+      }
+    ]
+  },
+  {
+    "id": 90080,
+    "name": "Punjab Tandoori",
+    "country": "India",
+    "region": "Punjab",
+    "lat": 30.7333,
+    "lng": 76.7794,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Amritsari Kulcha",
+        "scope": "regional",
+        "category": "Bakery",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Amritsari_kulcha_chana.jpg",
+        "description": "A stuffed leavened flatbread baked in a tandoor, filled with spiced potato and served with chole."
+      }
+    ]
+  },
+  {
+    "id": 90081,
+    "name": "Provence Ratatouille",
+    "country": "France",
+    "region": "Nice",
+    "lat": 43.7102,
+    "lng": 7.262,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Ratatouille",
+        "scope": "regional",
+        "category": "Main Course",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ratatouille%2C_Mazatl%C3%A1n%2C_21_de_junio_de_2023.jpg",
+        "description": "A stewed medley of eggplant, zucchini, peppers, and tomato, simmered slowly in olive oil."
+      }
+    ]
+  },
+  {
+    "id": 90082,
+    "name": "Bahia Moqueca",
+    "country": "Brazil",
+    "region": "Bahia",
+    "lat": -12.9777,
+    "lng": -38.5016,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Moqueca Baiana",
+        "scope": "regional",
+        "category": "Seafood",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Moqueca.jpg",
+        "description": "A fish stew simmered in coconut milk and dendê palm oil, rooted in Bahia's Afro-Brazilian cuisine."
+      }
+    ]
+  },
+  {
+    "id": 90083,
+    "name": "Andalusia Gazpacho",
+    "country": "Spain",
+    "region": "Andalusia",
+    "lat": 37.3891,
+    "lng": -5.9845,
+    "type": "food",
+    "dishes": [
+      {
+        "name": "Gazpacho",
+        "scope": "regional",
+        "category": "Soup",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gazpacho_adorned_with_herbs.jpg",
+        "description": "A chilled raw tomato and vegetable soup, born in Andalusia to survive the southern Spanish summer heat."
+      }
+    ]
   }
 ]

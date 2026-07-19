@@ -10,6 +10,7 @@ export default function App() {
   const [showLandmarks, setShowLandmarks] = useState(true);
   const [showDiveSites, setShowDiveSites] = useState(true);
   const [showParks, setShowParks] = useState(true);
+  const [showFood, setShowFood] = useState(true);
   const [isMenuOpen, setIsMenuOpen] = useState(true);
   const [selectedCountry, setSelectedCountry] = useState(null);
   const [hoveredLocation, setHoveredLocation] = useState(null);
@@ -21,9 +22,10 @@ export default function App() {
       if (loc.type === 'landmark') return loc.wonder ? showWonders : showLandmarks;
       if (loc.type === 'dive') return showDiveSites;
       if (loc.type === 'park') return showParks;
+      if (loc.type === 'food') return showFood;
       return true;
     });
-  }, [showWonders, showLandmarks, showDiveSites, showParks]);
+  }, [showWonders, showLandmarks, showDiveSites, showParks, showFood]);
 
   const handleSelectLocation = (loc) => {
     mapRef.current?.flyTo([loc.lat, loc.lng], 8, { duration: 1.2 });
@@ -50,6 +52,8 @@ export default function App() {
         onToggleDiveSites={() => setShowDiveSites((prev) => !prev)}
         showParks={showParks}
         onToggleParks={() => setShowParks((prev) => !prev)}
+        showFood={showFood}
+        onToggleFood={() => setShowFood((prev) => !prev)}
         resultCount={filteredLocations.length}
         isOpen={isMenuOpen}
       />

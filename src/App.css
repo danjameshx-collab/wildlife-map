@@ -145,6 +145,11 @@
   border-color: #1a7a3a;
 }
 
+.cat-toggle-food.cat-on {
+  background: #6b7280;
+  border-color: #374151;
+}
+
 .cat-toggle.cat-on::after {
   content: '';
   position: absolute;
@@ -371,6 +376,19 @@
   border-radius: 999px;
   white-space: nowrap;
 }
+
+.food-scope-badge {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #fff;
+  padding: 2px 7px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.food-scope-national { background: #1f2937; }
+.food-scope-regional { background: #4b5563; }
 
 .sighting-meta {
   display: flex;

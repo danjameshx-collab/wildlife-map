@@ -7,6 +7,8 @@ export default function FilterPanel({
   onToggleDiveSites,
   showParks,
   onToggleParks,
+  showFood,
+  onToggleFood,
   resultCount,
   isOpen,
 }) {
@@ -46,6 +48,11 @@ export default function FilterPanel({
               <span className={`cat-toggle cat-toggle-park${showParks ? ' cat-on' : ''}`} />
               <input type="checkbox" checked={showParks} onChange={onToggleParks} />
               National Parks
+            </label>
+            <label className="category-item">
+              <span className={`cat-toggle cat-toggle-food${showFood ? ' cat-on' : ''}`} />
+              <input type="checkbox" checked={showFood} onChange={onToggleFood} />
+              Food & Dishes
             </label>
           </div>
         </section>
