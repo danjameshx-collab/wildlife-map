@@ -26,7 +26,7 @@
     "category": "Ray",
     "conservation_status": "Endangered",
     "description": "Largest ray species, seen in open water and at deep cleaning/feeding stations.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Manta_birostris-Thailand4.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Manta_birostris-Thailand4.jpg/500px-Manta_birostris-Thailand4.jpg",
     "endemic": false
   },
   {
@@ -76,7 +76,7 @@
     "category": "Shark",
     "conservation_status": "Endangered",
     "description": "Shark with an extremely long whip-like tail, used to stun small fish; visits seamount cleaning stations at dawn.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Alopias_pelagicus.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alopias_pelagicus.jpg/500px-Alopias_pelagicus.jpg",
     "endemic": false
   },
   {
@@ -126,7 +126,7 @@
     "category": "Shark",
     "conservation_status": "Critically Endangered",
     "description": "The largest hammerhead species, identifiable by its tall, nearly straight-edged dorsal fin.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Great_hammerhead2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Great_hammerhead2.jpg/500px-Great_hammerhead2.jpg",
     "endemic": false
   },
   {
@@ -166,7 +166,7 @@
     "category": "Shark",
     "conservation_status": "Critically Endangered",
     "description": "Docile-looking shark with protruding teeth, often found resting in caves and gullies on reef pinnacles.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Carcharias_taurus_SI.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Carcharias_taurus_SI.jpg/500px-Carcharias_taurus_SI.jpg",
     "endemic": false
   },
   {
@@ -176,7 +176,7 @@
     "category": "Ray",
     "conservation_status": "Least Concern",
     "description": "Common sandy-bottom ray of the tropical Western Atlantic, often habituated to divers and snorkelers at feeding sites.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Dasyatis_americana_SI.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Dasyatis_americana_SI.jpg/500px-Dasyatis_americana_SI.jpg",
     "endemic": false
   },
   {
@@ -266,7 +266,7 @@
     "category": "Mollusk",
     "conservation_status": "Not Evaluated",
     "description": "Muck-dwelling octopus famous for impersonating the shape and movement of other venomous animals.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mimic_Octopus_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Mimic_Octopus_2.jpg/500px-Mimic_Octopus_2.jpg",
     "endemic": false
   },
   {
@@ -396,7 +396,7 @@
     "category": "Mammal",
     "conservation_status": "Endangered",
     "description": "Keystone kelp-forest species that keeps sea urchin populations in check; rafts often seen resting at the surface.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg/500px-Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg",
     "endemic": false
   },
   {
@@ -586,7 +586,7 @@
     "category": "Shark",
     "conservation_status": "Near Threatened",
     "description": "Deep-water shark with six gill slits (most sharks have five), occasionally found in shallower cold water.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hexanchus_griseus.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hexanchus_griseus.jpg/500px-Hexanchus_griseus.jpg",
     "endemic": false
   },
   {
@@ -776,7 +776,7 @@
     "category": "Shark",
     "conservation_status": "Vulnerable",
     "description": "Large, powerful reef shark with distinctive white-edged fins, often bolder than grey reef sharks around divers.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Carcharhinus_albimarginatus_hicks_reef.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Carcharhinus_albimarginatus_hicks_reef.jpg/500px-Carcharhinus_albimarginatus_hicks_reef.jpg",
     "endemic": false
   },
   {
@@ -836,7 +836,7 @@
     "category": "Shark",
     "conservation_status": "Data Deficient",
     "description": "Distinctive shark with seven gill slits (most sharks have five), found in cool coastal waters like Monterey Bay.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Notorynchus_cepedianus_SI4.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Notorynchus_cepedianus_SI4.jpg/500px-Notorynchus_cepedianus_SI4.jpg",
     "endemic": false
   },
   {
@@ -866,7 +866,7 @@
     "category": "Shark",
     "conservation_status": "Near Threatened",
     "description": "Flattened, camouflaged shark that lies partly buried on the seafloor, found off the California coast.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Squatina_californica.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Squatina_californica.jpg/500px-Squatina_californica.jpg",
     "endemic": false
   },
   {
@@ -946,7 +946,7 @@
     "category": "Shark",
     "conservation_status": "Least Concern",
     "description": "Small, harmless bottom-dwelling shark with a distinctive harness-like pattern, common in southern Australian waters.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Heterodontus_portusjacksoni_wilsons_promontory.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Heterodontus_portusjacksoni_wilsons_promontory.jpg/500px-Heterodontus_portusjacksoni_wilsons_promontory.jpg",
     "endemic": false
   },
   {
@@ -996,7 +996,7 @@
     "category": "Ray",
     "conservation_status": "Endangered",
     "description": "Small, shorthorned ray related to mantas, found in tropical Indo-Pacific waters.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Mobula_kuhlii.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mobula_kuhlii.jpg/500px-Mobula_kuhlii.jpg",
     "endemic": false
   },
   {
@@ -1106,7 +1106,7 @@
     "category": "Shark",
     "conservation_status": "Least Concern",
     "description": "Large, harmless requiem shark found around oceanic islands worldwide, growing up to 3 meters.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Carcharinus_galapagensis_1.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Carcharinus_galapagensis_1.jpg/500px-Carcharinus_galapagensis_1.jpg",
     "endemic": false
   },
   {
@@ -1266,7 +1266,7 @@
     "category": "Bird",
     "conservation_status": "Near Threatened",
     "description": "Large black-and-white cormorant that nests in enormous colonies on Peruvian and Chilean islands, historically the world's primary source of guano.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Leucocarbo_bougainvillii%2C_Islas_Ballestas_5.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Leucocarbo_bougainvillii%2C_Islas_Ballestas_5.jpg/500px-Leucocarbo_bougainvillii%2C_Islas_Ballestas_5.jpg",
     "endemic": false
   },
   {
@@ -1306,7 +1306,7 @@
     "category": "Mammal",
     "conservation_status": "Least Concern",
     "description": "Striking black-and-white dolphin endemic to Patagonian and Falkland Island waters, highly acrobatic in pods.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Tonina1_%282731842634%29.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tonina1_%282731842634%29.jpg/500px-Tonina1_%282731842634%29.jpg",
     "endemic": true
   },
   {
@@ -1336,7 +1336,7 @@
     "category": "Mammal",
     "conservation_status": "Least Concern",
     "description": "Stocky, heavily scarred dolphin recognisable by its blunt head and grey-white body, favouring deep offshore canyons and oceanic islands.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Grampo.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grampo.jpg/500px-Grampo.jpg",
     "endemic": false
   },
   {
@@ -1366,7 +1366,7 @@
     "category": "Mammal",
     "conservation_status": "Endangered",
     "description": "Round-headed, beakless dolphin found in coastal and estuarine waters of South and Southeast Asia, capable of spitting water to herd fish.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg/500px-Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg",
     "endemic": false
   },
   {
@@ -1776,7 +1776,7 @@
     "category": "Mammal",
     "conservation_status": "Least Concern",
     "description": "North America's fastest land animal and the second-fastest in the world, reaching 88 km/h on open prairies.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Antilocapra_americana.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Antilocapra_americana.jpg/500px-Antilocapra_americana.jpg",
     "endemic": false
   },
   {
@@ -1806,7 +1806,7 @@
     "category": "Mammal",
     "conservation_status": "Least Concern",
     "description": "Highly adaptable North American canid that has expanded its range dramatically as wolves declined.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2009-Coyote-Yosemite.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2009-Coyote-Yosemite.jpg/500px-2009-Coyote-Yosemite.jpg",
     "endemic": false
   },
   {
@@ -1816,7 +1816,7 @@
     "category": "Mammal",
     "conservation_status": "Near Threatened",
     "description": "Americas' only big cat; the largest in the Western Hemisphere, a powerful swimmer that hunts caimans and capybaras.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Standing_jaguar.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/500px-Standing_jaguar.jpg",
     "endemic": false
   },
   {
@@ -1836,7 +1836,7 @@
     "category": "Mammal",
     "conservation_status": "Vulnerable",
     "description": "Iconic South American insectivore with a 60 cm tongue, consuming 35,000 ants and termites daily.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Myresluger2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Myresluger2.jpg/500px-Myresluger2.jpg",
     "endemic": false
   },
   {
@@ -2136,7 +2136,7 @@
     "category": "Bird",
     "conservation_status": "Vulnerable",
     "description": "Largest and most powerful eagle in the Americas, hunting monkeys and sloths in the Amazon rainforest canopy.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Harpia_harpyja_001_800.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Harpia_harpyja_001_800.jpg/500px-Harpia_harpyja_001_800.jpg",
     "endemic": false
   },
   {
@@ -2296,7 +2296,7 @@
     "category": "Mammal",
     "conservation_status": "Near Threatened",
     "description": "Zambian near-endemic antelope found in floodplain grasslands; closely related to the kob; a speciality of South Luangwa and Kafue.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Puku_male.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Puku_male.jpg/500px-Puku_male.jpg",
     "endemic": true
   },
   {
@@ -2326,7 +2326,7 @@
     "category": "Mammal",
     "conservation_status": "Critically Endangered",
     "description": "Most endangered large mammal on Earth; fewer than 80 survive exclusively in Ujung Kulon NP, Java — the last population anywhere.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhinoceros_sondaicus_in_London_Zoo.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rhinoceros_sondaicus_in_London_Zoo.jpg/500px-Rhinoceros_sondaicus_in_London_Zoo.jpg",
     "endemic": true
   },
   {
@@ -2376,7 +2376,7 @@
     "category": "Mammal",
     "conservation_status": "Vulnerable",
     "description": "Indian swamp deer or hard-ground barasingha; endemic to India; the Kanha subspecies was brought back from near-extinction by conservation efforts.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Swamp_deer_%28Indian_Barahshinga%29.gif",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/The_Swamp_deer_%28Indian_Barahshinga%29.gif/500px-The_Swamp_deer_%28Indian_Barahshinga%29.gif",
     "endemic": true
   },
   {
@@ -2416,7 +2416,7 @@
     "category": "Bird",
     "conservation_status": "Least Concern",
     "description": "Dazzling orange bird of Guiana highland rainforest; males gather at leks on mossy boulders to perform extraordinary dancing displays.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Guianan_Cock-of-the-rock_%28Rupicola_rupicola%29.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Guianan_Cock-of-the-rock_%28Rupicola_rupicola%29.jpg/500px-Guianan_Cock-of-the-rock_%28Rupicola_rupicola%29.jpg",
     "endemic": false
   },
   {
@@ -2506,7 +2506,7 @@
     "category": "Mammal",
     "conservation_status": "Vulnerable",
     "description": "Small wallaby native to south-west Australia; famous as \"the world's happiest animal\" due to its upturned mouth; stronghold on Rottnest Island.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Quokka_at_rottnest_%28cropped%29.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Quokka_at_rottnest_%28cropped%29.jpg/500px-Quokka_at_rottnest_%28cropped%29.jpg",
     "endemic": true
   },
   {
@@ -2706,7 +2706,7 @@
     "category": "Mammal",
     "conservation_status": "Endangered",
     "description": "World's largest wild equid; narrowly-striped and donkey-eared; endangered and restricted to northern Kenya and Ethiopia — distinct from the common Plains Zebra.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Grevy%27s_Zebra_Stallion.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grevy%27s_Zebra_Stallion.jpg/500px-Grevy%27s_Zebra_Stallion.jpg",
     "endemic": true
   },
   {
@@ -2756,7 +2756,7 @@
     "category": "Mammal",
     "conservation_status": "Critically Endangered",
     "description": "Pure-white dancing lemur of southern Madagascar; crosses open ground in sideways bounding leaps on its hind legs — one of nature's most spectacular locomotion displays.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Verreauxs_Sifika_Kirindy_Madagascar.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Verreauxs_Sifika_Kirindy_Madagascar.jpg/500px-Verreauxs_Sifika_Kirindy_Madagascar.jpg",
     "endemic": true
   },
   {
@@ -2836,7 +2836,7 @@
     "category": "Mammal",
     "conservation_status": "Near Threatened",
     "description": "Also known as the chiru; endemic to the Tibetan Plateau, migrating in their thousands to calve in summer; their fine underfur (shahtoosh) is one of the finest animal fibres.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/The_book_of_antelopes_%281894%29_Pantholops_hodgsoni.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_book_of_antelopes_%281894%29_Pantholops_hodgsoni.png/500px-The_book_of_antelopes_%281894%29_Pantholops_hodgsoni.png",
     "endemic": true
   },
   {
@@ -2866,7 +2866,7 @@
     "category": "Mammal",
     "conservation_status": "Vulnerable",
     "description": "Semi-aquatic wildcat of South and Southeast Asian wetlands; swims readily and scoops fish with its slightly webbed front paws; found in mangroves and riverine forest.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Prionailurus_viverrinus_01.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Prionailurus_viverrinus_01.jpg/500px-Prionailurus_viverrinus_01.jpg",
     "endemic": false
   },
   {
@@ -2876,7 +2876,7 @@
     "category": "Mammal",
     "conservation_status": "Endangered",
     "description": "North America's most endangered mammal; declared extinct in the wild in 1987 but reintroduced from captive breeding; hunts prairie dogs in their own burrows.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mustela_nigripes_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mustela_nigripes_2.jpg/500px-Mustela_nigripes_2.jpg",
     "endemic": false
   },
   {
@@ -2896,7 +2896,7 @@
     "category": "Mammal",
     "conservation_status": "Critically Endangered",
     "description": "One of the world's most endangered large cats; fewer than 200 survive in southern Florida's swamps; a subspecies of mountain lion genetically isolated for millennia.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Everglades_National_Park_Florida_Panther.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Everglades_National_Park_Florida_Panther.jpg/500px-Everglades_National_Park_Florida_Panther.jpg",
     "endemic": true
   },
   {
@@ -3046,7 +3046,7 @@
     "category": "Mammal",
     "conservation_status": "Endangered",
     "description": "China-endemic primate with a vivid blue face and golden-orange coat; lives in cold, high-altitude conifer forest across several isolated Sichuan, Shaanxi, Gansu, and Hubei mountain populations.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Golden_Snub-nosed_Monkeys%2C_Qinling_Mountains_-_China.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Golden_Snub-nosed_Monkeys%2C_Qinling_Mountains_-_China.jpg/500px-Golden_Snub-nosed_Monkeys%2C_Qinling_Mountains_-_China.jpg",
     "endemic": true
   },
   {
@@ -3256,7 +3256,7 @@
     "category": "Bird",
     "conservation_status": "Endangered",
     "description": "Rare black-and-white stork of East Asian wetlands, nesting in tall trees and pylons near shallow lakes and floodplains.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kounotori_06f4471sv.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kounotori_06f4471sv.jpg/500px-Kounotori_06f4471sv.jpg",
     "endemic": false
   },
   {
@@ -3286,7 +3286,7 @@
     "category": "Mammal",
     "conservation_status": "Vulnerable",
     "description": "Small, sure-footed goat-antelope of steep forested slopes in the Russian Far East, northeast China, and Korea.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Nemorhaedus_caudatus.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nemorhaedus_caudatus.jpg/500px-Nemorhaedus_caudatus.jpg",
     "endemic": false
   },
   {
@@ -3376,7 +3376,7 @@
     "category": "Mammal",
     "conservation_status": "Least Concern",
     "description": "Goat-antelope of the high Himalaya and Tibetan Plateau; its grey-blue coat provides camouflage on rocky slopes, and it is the principal prey of the snow leopard.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Bharal_-_Shreeram_M_V_-_Kibber%2C_Spiti_Valley%2C_Himachal_Pradesh%2C_India.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bharal_-_Shreeram_M_V_-_Kibber%2C_Spiti_Valley%2C_Himachal_Pradesh%2C_India.jpg/500px-Bharal_-_Shreeram_M_V_-_Kibber%2C_Spiti_Valley%2C_Himachal_Pradesh%2C_India.jpg",
     "endemic": false
   },
   {
@@ -3386,7 +3386,7 @@
     "category": "Mammal",
     "conservation_status": "Endangered",
     "description": "Small, brightly-coloured marmot endemic to the Western Tian Shan of Uzbekistan and Kazakhstan, living colonially on steep alpine slopes.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Stamps_of_Uzbekistan%2C_2012-64.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Stamps_of_Uzbekistan%2C_2012-64.jpg/500px-Stamps_of_Uzbekistan%2C_2012-64.jpg",
     "endemic": true
   },
   {
@@ -3486,7 +3486,7 @@
     "category": "Mammal",
     "conservation_status": "Endangered",
     "description": "The world's last truly wild horse species, extinct in the wild by 1969 and rebuilt entirely from zoo-bred stock; now free-ranging again across several Mongolian reserves.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Przewalskis_horse_02.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Przewalskis_horse_02.jpg/500px-Przewalskis_horse_02.jpg",
     "endemic": true
   },
   {
@@ -3546,7 +3546,7 @@
     "category": "Bird",
     "conservation_status": "Vulnerable",
     "description": "Large eagle of open steppe and woodland edge from Central Europe to Central Asia, nesting in isolated trees overlooking grassland hunting grounds.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Eastern_Imperial_Eagle_cr.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eastern_Imperial_Eagle_cr.jpg/500px-Eastern_Imperial_Eagle_cr.jpg",
     "endemic": false
   },
   {
@@ -3626,7 +3626,7 @@
     "category": "Mammal",
     "conservation_status": "Vulnerable",
     "description": "Small mountain gazelle of the Arabian Peninsula, reintroduced to several protected areas after near-disappearance from unregulated hunting.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_book_of_antelopes_%281894%29_Gazella_arabica.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_book_of_antelopes_%281894%29_Gazella_arabica.png/500px-The_book_of_antelopes_%281894%29_Gazella_arabica.png",
     "endemic": false
   },
   {
@@ -3666,7 +3666,7 @@
     "category": "Mammal",
     "conservation_status": "Near Threatened",
     "description": "Small, wide-eared desert cat able to survive without drinking free water, ranging from the Sahara through Arabia to Central Asia.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Persian_sand_CAT.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Persian_sand_CAT.jpg/500px-Persian_sand_CAT.jpg",
     "endemic": false
   },
   {
@@ -3696,7 +3696,7 @@
     "category": "Mammal",
     "conservation_status": "Least Concern",
     "description": "Small, long-eared fox of rocky mountain terrain from the Middle East to Central Asia, an agile climber able to scale near-vertical rock faces.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Blandford%27s_fox_1.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blandford%27s_fox_1.jpg/500px-Blandford%27s_fox_1.jpg",
     "endemic": false
   },
   {
@@ -3796,7 +3796,7 @@
     "category": "Bird",
     "conservation_status": "Least Concern",
     "description": "Small, drab warbler endemic to Socotra's scrubland and semi-desert, one of the island's ten endemic bird species.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Incana_incana_336780399%2C_crop.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Incana_incana_336780399%2C_crop.jpg/500px-Incana_incana_336780399%2C_crop.jpg",
     "endemic": true
   },
   {
@@ -3876,7 +3876,7 @@
     "category": "Bird",
     "conservation_status": "Endangered",
     "description": "Large, powerful falcon of Central Asian and Eastern European steppe, prized in falconry and declining sharply from illegal trapping.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Falco_cherrug_%28Marek_Szczepanek%29.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Falco_cherrug_%28Marek_Szczepanek%29.jpg/500px-Falco_cherrug_%28Marek_Szczepanek%29.jpg",
     "endemic": false
   },
   {
@@ -3916,7 +3916,7 @@
     "category": "Reptile",
     "conservation_status": "Not Evaluated",
     "description": "Venomous cobra of Central Asian deserts, semi-desert, and foothills, distinguished from its South Asian relatives by its lack of a hood pattern.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Naja_oxiana_Caspian_cobra_in_a_defensive_posture.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Naja_oxiana_Caspian_cobra_in_a_defensive_posture.jpg/500px-Naja_oxiana_Caspian_cobra_in_a_defensive_posture.jpg",
     "endemic": false
   },
   {
@@ -3976,7 +3976,7 @@
     "category": "Mammal",
     "conservation_status": "Critically Endangered",
     "description": "Pale, desert-adapted cheetah subspecies scattered thinly across the central Sahara; with perhaps 250 individuals left, it is one of the rarest large cats on Earth.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Acinonyx_jubatus_ssp._hecki_in_Idl%C3%A8s_1.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Acinonyx_jubatus_ssp._hecki_in_Idl%C3%A8s_1.jpg/500px-Acinonyx_jubatus_ssp._hecki_in_Idl%C3%A8s_1.jpg",
     "endemic": true
   },
   {
@@ -4116,7 +4116,7 @@
     "category": "Bird",
     "conservation_status": "Vulnerable",
     "description": "Large, ground-dwelling bird of the Sahara's southern fringe and Sahel, declining sharply from hunting and habitat degradation.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Outarde_20240731.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Outarde_20240731.jpg/500px-Outarde_20240731.jpg",
     "endemic": false
   },
   {

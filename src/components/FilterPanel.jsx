@@ -1,3 +1,5 @@
+import SearchBar from './SearchBar';
+
 export default function FilterPanel({
   showWonders,
   onToggleWonders,
@@ -11,6 +13,8 @@ export default function FilterPanel({
   onToggleFood,
   resultCount,
   isOpen,
+  allLocations,
+  onSelectLocation,
 }) {
   return (
     <aside className={`filter-panel${isOpen ? '' : ' filter-panel-collapsed'}`}>
@@ -22,6 +26,7 @@ export default function FilterPanel({
           <span className="result-count">{resultCount}</span>{' '}
           location{resultCount === 1 ? '' : 's'} found
         </p>
+        <SearchBar locationsData={allLocations} onSelectLocation={onSelectLocation} />
       </div>
 
       <div className="panel-body">

@@ -28,6 +28,15 @@ export default function App() {
   }, [showWonders, showLandmarks, showDiveSites, showParks, showFood]);
 
   const handleSelectLocation = (loc) => {
+    // Selecting a location (from search or the country modal) should reveal
+    // its marker even if that category is currently filtered off.
+    if (loc.type === 'landmark') {
+      if (loc.wonder) setShowWonders(true);
+      else setShowLandmarks(true);
+    } else if (loc.type === 'dive') setShowDiveSites(true);
+    else if (loc.type === 'park') setShowParks(true);
+    else if (loc.type === 'food') setShowFood(true);
+
     mapRef.current?.flyTo([loc.lat, loc.lng], 8, { duration: 1.2 });
     setSelectedCountry(null);
   };
@@ -56,6 +65,8 @@ export default function App() {
         onToggleFood={() => setShowFood((prev) => !prev)}
         resultCount={filteredLocations.length}
         isOpen={isMenuOpen}
+        allLocations={locationsData}
+        onSelectLocation={handleSelectLocation}
       />
       <MapView
         locations={filteredLocations}
