@@ -8288,5 +8288,35 @@
     "description": "The world's most venomous snake by toxicity, sheltering in the cracked clay-pan burrows of Australia's remote outback.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fierce_Snake-Oxyuranus_microlepidotus.jpg/960px-Fierce_Snake-Oxyuranus_microlepidotus.jpg",
     "endemic": false
+  },
+  {
+    "id": 17153,
+    "common_name": "Yellow Anaconda",
+    "scientific_name": "Eunectes notaeus",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Smaller relative of the green anaconda, patterned in yellow-brown with black blotches, common in the marshes and rivers of the Pantanal and Chaco.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Anaconda_jaune_34.JPG",
+    "endemic": false
+  },
+  {
+    "id": 17154,
+    "common_name": "Dark-spotted Anaconda",
+    "scientific_name": "Eunectes deschauenseei",
+    "category": "Reptile",
+    "conservation_status": "Vulnerable",
+    "description": "One of the rarest and least-known anacondas, restricted to the coastal marshes of Marajó Island and Amapá in northern Brazil.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eunectes_deschauenseei.png/960px-Eunectes_deschauenseei.png",
+    "endemic": true
+  },
+  {
+    "id": 17155,
+    "common_name": "Bolivian Anaconda",
+    "scientific_name": "Eunectes beniensis",
+    "category": "Reptile",
+    "conservation_status": "Data Deficient",
+    "description": "Described as a distinct species only in 2002, known from the seasonally flooded savannas of Bolivia's Beni department.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Eunectes_beniensis%2C_Rio_Beni%2C_Puerto_Salinas%2C_El_Beni%2C_Bolivia.jpg/960px-Eunectes_beniensis%2C_Rio_Beni%2C_Puerto_Salinas%2C_El_Beni%2C_Bolivia.jpg",
+    "endemic": false
   }
 ]

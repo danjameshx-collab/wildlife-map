@@ -31802,6 +31802,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Unlike most small cats, this slender hunter is often active during the day."
+      },
+      {
+        "species_id": 17153,
+        "common_name": "Yellow Anaconda",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Anaconda_jaune_34.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Common in the Pantanal’s seasonally flooded marshes, smaller and more numerous here than the green anaconda."
       }
     ]
   },
@@ -49642,7 +49653,19 @@
     "lng": -65.9,
     "description": "Vast Amazon-Andes transition park protecting jaguars, giant otters, and Andean-Amazonian ecological gradients across indigenous Yuracaré, Chimane, and Moxeño territory.",
     "type": "park",
-    "sightings": []
+    "sightings": [
+      {
+        "species_id": 17155,
+        "common_name": "Bolivian Anaconda",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Eunectes_beniensis%2C_Rio_Beni%2C_Puerto_Salinas%2C_El_Beni%2C_Bolivia.jpg/960px-Eunectes_beniensis%2C_Rio_Beni%2C_Puerto_Salinas%2C_El_Beni%2C_Bolivia.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Known from the seasonally flooded Beni savanna and forest within and around the park."
+      }
+    ]
   },
   {
     "id": 43389,
@@ -59288,6 +59311,29 @@
         "end_month": 12,
         "likelihood": "rare",
         "notes": "The world's most venomous snake shelters in cracked clay-pan burrows across this remote outback park."
+      }
+    ]
+  },
+  {
+    "id": 100338,
+    "name": "Cabo Orange NP",
+    "country": "Brazil",
+    "region": "Amapá",
+    "lat": 4,
+    "lng": -51.2,
+    "description": "Remote coastal marsh and mangrove wilderness on the Amapá coast, one of the only known strongholds of the rare, range-restricted dark-spotted anaconda.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 17154,
+        "common_name": "Dark-spotted Anaconda",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eunectes_deschauenseei.png/960px-Eunectes_deschauenseei.png",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "rare",
+        "notes": "One of the rarest, least-known anacondas, restricted to coastal marshes here and on nearby Marajó Island."
       }
     ]
   }
