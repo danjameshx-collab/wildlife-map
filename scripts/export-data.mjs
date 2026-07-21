@@ -144,6 +144,17 @@ const species = db.prepare('SELECT * FROM species').all().map((sp) => ({
 const locations = db.prepare('SELECT * FROM locations').all();
 const sightings = db.prepare('SELECT * FROM sightings').all();
 
+// Landmark/wonder and food-spot entries are hand-authored directly in
+// locations.json and never stored in the sqlite db, so they aren't part of
+// the `locations` query above. Preserve whatever is already in the output
+// file for those types instead of clobbering them on every export.
+const existingLocationsPath = path.join(outDir, 'locations.json');
+const preservedLocations = fs.existsSync(existingLocationsPath)
+  ? JSON.parse(fs.readFileSync(existingLocationsPath, 'utf8')).filter(
+      (loc) => loc.type === 'landmark' || loc.type === 'food'
+    )
+  : [];
+
 const locationsWithSightings = locations.map((loc) => ({
   ...loc,
   sightings: sightings
@@ -164,9 +175,14 @@ const locationsWithSightings = locations.map((loc) => ({
     }),
 }));
 
+const allLocations = [...locationsWithSightings, ...preservedLocations];
+
 fs.mkdirSync(outDir, { recursive: true });
 fs.writeFileSync(path.join(outDir, 'species.json'), JSON.stringify(species, null, 2));
-fs.writeFileSync(path.join(outDir, 'locations.json'), JSON.stringify(locationsWithSightings, null, 2));
+fs.writeFileSync(path.join(outDir, 'locations.json'), JSON.stringify(allLocations, null, 2));
 
-console.log('Exported', species.length, 'species and', locations.length, 'locations to src/data/');
+console.log(
+  'Exported', species.length, 'species and', allLocations.length, 'locations to src/data/',
+  '(' + locations.length, 'from db +', preservedLocations.length, 'preserved landmark/food)'
+);
 db.close();
