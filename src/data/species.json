@@ -7698,5 +7698,445 @@
     "description": "Rainforest hornbill found only on Panay and Negros, among the world's rarest hornbills.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Writhed-billed_Hornbill_%28Bentley%29.jpg",
     "endemic": true
+  },
+  {
+    "id": 17094,
+    "common_name": "Dhole",
+    "scientific_name": "Cuon alpinus",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Highly social Asian wild dog that hunts in large packs, communicating with a distinctive whistling call.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dhole_%28Asiatic_wild_dog%29_cropped.jpg/960px-Dhole_%28Asiatic_wild_dog%29_cropped.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17095,
+    "common_name": "Nilgiri Tahr",
+    "scientific_name": "Nilgiritragus hylocrius",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Stocky wild goat found only on the rolling grassland cliffs of South India’s Western Ghats.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nilgiri_Tahr_at_Eravikulam_National_Park.jpg/960px-Nilgiri_Tahr_at_Eravikulam_National_Park.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17096,
+    "common_name": "Topi",
+    "scientific_name": "Damaliscus lunatus jimela",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Fast, purple-sheened antelope known for standing sentry atop termite mounds to scan the savanna.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Topi_%28Damaliscus_lunatus_jimela%29_female.jpg/960px-Topi_%28Damaliscus_lunatus_jimela%29_female.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17097,
+    "common_name": "Peregrine Falcon",
+    "scientific_name": "Falco peregrinus",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "The fastest animal on Earth, stooping on prey in dives exceeding 300 km/h from granite cliff eyries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg/960px-Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17098,
+    "common_name": "Great Horned Owl",
+    "scientific_name": "Bubo virginianus",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Powerful, ear-tufted owl found across the Americas, capable of taking prey as large as skunks and hawks.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bubo_virginianus_06.jpg/960px-Bubo_virginianus_06.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17099,
+    "common_name": "Eurasian Eagle-Owl",
+    "scientific_name": "Bubo bubo",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "One of the largest owl species in the world, hunting from cliff and forest perches across Iberia and Eurasia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bubo_bubo_3_%28Martin_Mecnarowski%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17100,
+    "common_name": "Blue-and-yellow Macaw",
+    "scientific_name": "Ara ararauna",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Large, vividly colored Amazonian macaw often seen gathering in noisy flocks at riverside clay licks.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ara_ararauna_Luc_Viatour.jpg/960px-Ara_ararauna_Luc_Viatour.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17101,
+    "common_name": "African Grey Parrot",
+    "scientific_name": "Psittacus erithacus",
+    "category": "Bird",
+    "conservation_status": "Endangered",
+    "description": "Renowned for its exceptional intelligence and mimicry, ranging through Central Africa's lowland rainforest canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Perroquet_%C3%A0_Yampopo_Beach_-_Douala.jpg/960px-Perroquet_%C3%A0_Yampopo_Beach_-_Douala.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17102,
+    "common_name": "Rainbow Lorikeet",
+    "scientific_name": "Trichoglossus moluccanus",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Brilliantly colored nectar-feeding parrot common in flowering trees along the eastern Australian coast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rainbow_lorikeet_%28Trichoglossus_moluccanus_moluccanus%29_Sydney.jpg/960px-Rainbow_lorikeet_%28Trichoglossus_moluccanus_moluccanus%29_Sydney.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17103,
+    "common_name": "Mute Swan",
+    "scientific_name": "Cygnus olor",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Large, orange-billed swan gliding through European wetlands, wings raised in an arching threat display.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/CygneVaires.jpg/960px-CygneVaires.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17104,
+    "common_name": "King Cobra",
+    "scientific_name": "Ophiophagus hannah",
+    "category": "Reptile",
+    "conservation_status": "Vulnerable",
+    "description": "The world's longest venomous snake, a specialist hunter of other snakes across South and Southeast Asian forests.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg/960px-12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17105,
+    "common_name": "Reticulated Python",
+    "scientific_name": "Malayopython reticulatus",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "One of the world's longest snakes, an ambush constrictor found in Southeast Asian forests and wetlands.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Python_reticulatus_%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-2.jpg/960px-Python_reticulatus_%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-2.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17106,
+    "common_name": "Burmese Python",
+    "scientific_name": "Python bivittatus",
+    "category": "Reptile",
+    "conservation_status": "Vulnerable",
+    "description": "Massive constrictor native to Southeast Asian grasslands and forests, and notorious as an invasive species in the Florida Everglades.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Brooding_female_Python_molurus_bivittatus.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17107,
+    "common_name": "Black Mamba",
+    "scientific_name": "Dendroaspis polylepis",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Africa's longest venomous snake, capable of moving at high speed across savanna and bushveld.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dendroaspis_polylepis_%2814%29.jpg/960px-Dendroaspis_polylepis_%2814%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17108,
+    "common_name": "Gaboon Viper",
+    "scientific_name": "Bitis gabonensis",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Heavy-bodied viper with the longest fangs of any snake, camouflaged perfectly against West African rainforest leaf litter.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bitis_gabonica.jpg/960px-Bitis_gabonica.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17109,
+    "common_name": "Boomslang",
+    "scientific_name": "Dispholidus typus",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Highly venomous rear-fanged snake that hunts chameleons and birds through the canopy of southern African bushveld.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dispholidus_typus_333317716.jpg/960px-Dispholidus_typus_333317716.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17110,
+    "common_name": "American Crocodile",
+    "scientific_name": "Crocodylus acutus",
+    "category": "Reptile",
+    "conservation_status": "Vulnerable",
+    "description": "Wide-ranging crocodile of brackish coasts and mangroves from Florida through Central America and the Caribbean.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Crocodylus_acutus_mexico_02-edit1.jpg/960px-Crocodylus_acutus_mexico_02-edit1.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17111,
+    "common_name": "Cuban Crocodile",
+    "scientific_name": "Crocodylus rhombifer",
+    "category": "Reptile",
+    "conservation_status": "Critically Endangered",
+    "description": "One of the most restricted-range crocodiles alive, surviving only in Cuba's Zapata Swamp and Isle of Youth.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Crocodylus_Rhombifer.JPG/960px-Crocodylus_Rhombifer.JPG",
+    "endemic": true
+  },
+  {
+    "id": 17112,
+    "common_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "category": "Amphibian",
+    "conservation_status": "Least Concern",
+    "description": "Iconic rainforest frog with vivid red eyes and orange feet, flashing bright colors to startle predators when disturbed.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png/960px-Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png",
+    "endemic": false
+  },
+  {
+    "id": 17113,
+    "common_name": "Japanese Giant Salamander",
+    "scientific_name": "Andrias japonicus",
+    "category": "Amphibian",
+    "conservation_status": "Near Threatened",
+    "description": "One of the largest amphibians on Earth, a living fossil sheltering under rocks in Japan's cool mountain streams.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Japanese_giant_salamander_in_Tottori_Prefecture%2C_Japan.jpg/960px-Japanese_giant_salamander_in_Tottori_Prefecture%2C_Japan.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17114,
+    "common_name": "Tomato Frog",
+    "scientific_name": "Dyscophus antongilii",
+    "category": "Amphibian",
+    "conservation_status": "Near Threatened",
+    "description": "Round, brilliant orange-red Madagascar frog that inflates its body and oozes a sticky irritant when threatened.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dyscophus_antongilii02.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17115,
+    "common_name": "Greenland Shark",
+    "scientific_name": "Somniosus microcephalus",
+    "category": "Shark",
+    "conservation_status": "Vulnerable",
+    "description": "Enormous, extremely slow-moving deep-cold-water shark believed to live for centuries, among the longest-lived vertebrates known.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Somniosus_microcephalus_okeanos.jpg/960px-Somniosus_microcephalus_okeanos.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17116,
+    "common_name": "Horn Shark",
+    "scientific_name": "Heterodontus francisci",
+    "category": "Shark",
+    "conservation_status": "Least Concern",
+    "description": "Small, spine-finned bottom shark that wedges itself into rocky crevices in California kelp forests by day.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hornhai_%28Heterodontus_francisci%29.JPG/960px-Hornhai_%28Heterodontus_francisci%29.JPG",
+    "endemic": false
+  },
+  {
+    "id": 17117,
+    "common_name": "Giant Australian Cuttlefish",
+    "scientific_name": "Sepia apama",
+    "category": "Cephalopod",
+    "conservation_status": "Least Concern",
+    "description": "The world's largest cuttlefish species, famous for a massive annual mating aggregation in shallow South Australian waters.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sepia_apama_2.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17118,
+    "common_name": "Sydney Funnel-web Spider",
+    "scientific_name": "Atrax robustus",
+    "category": "Arachnid",
+    "conservation_status": "Least Concern",
+    "description": "One of the most venomous spiders in the world, sheltering in burrows in forests and gardens around Sydney.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Atrax_Robustus.jpg/960px-Atrax_Robustus.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17119,
+    "common_name": "Emperor Scorpion",
+    "scientific_name": "Pandinus imperator",
+    "category": "Arachnid",
+    "conservation_status": "Near Threatened",
+    "description": "One of the largest scorpion species on Earth, hunting across the floor of West African rainforest at night.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Female_Emperor_Scorpion.jpg/960px-Female_Emperor_Scorpion.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17120,
+    "common_name": "Deathstalker Scorpion",
+    "scientific_name": "Leiurus quinquestriatus",
+    "category": "Arachnid",
+    "conservation_status": "Least Concern",
+    "description": "One of the world's most dangerous scorpion species, sheltering by day beneath desert rocks across North Africa and the Middle East.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Deathstalker_ST_07.JPG/960px-Deathstalker_ST_07.JPG",
+    "endemic": false
+  },
+  {
+    "id": 17121,
+    "common_name": "Goliath Birdeater",
+    "scientific_name": "Theraphosa blondi",
+    "category": "Arachnid",
+    "conservation_status": "Least Concern",
+    "description": "The largest spider on Earth by mass, an ambush predator of the Amazon rainforest floor.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Theraphosa_blondi_MHNT.jpg/960px-Theraphosa_blondi_MHNT.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17122,
+    "common_name": "Atlas Moth",
+    "scientific_name": "Attacus atlas",
+    "category": "Insect",
+    "conservation_status": "Least Concern",
+    "description": "One of the largest moths in the world, its wingtips patterned to mimic a snake’s head against Southeast Asian forest predators.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Attacus_atlas_qtl3.jpg/960px-Attacus_atlas_qtl3.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17123,
+    "common_name": "Luna Moth",
+    "scientific_name": "Actias luna",
+    "category": "Insect",
+    "conservation_status": "Least Concern",
+    "description": "Pale green silk moth of eastern North American forests, its long trailing tails confusing bat sonar in flight.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Actias_luna-male.jpg/960px-Actias_luna-male.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17124,
+    "common_name": "Ocellaris Clownfish",
+    "scientific_name": "Amphiprion ocellaris",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Small orange-and-white reef fish that lives safely among the stinging tentacles of host sea anemones.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Clown_fish_in_the_Andaman_Coral_Reef.jpg/960px-Clown_fish_in_the_Andaman_Coral_Reef.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17125,
+    "common_name": "Blue Tang",
+    "scientific_name": "Paracanthurus hepatus",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Vivid blue surgeonfish with a scalpel-like spine at the base of its tail, grazing algae on Indo-Pacific reefs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Paletten-Doktorfisch_M%C3%BCnster.JPG/960px-Paletten-Doktorfisch_M%C3%BCnster.JPG",
+    "endemic": false
+  },
+  {
+    "id": 17126,
+    "common_name": "Red Lionfish",
+    "scientific_name": "Pterois volitans",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Ornate, venomous-spined reef predator native to the Indo-Pacific, ambushing small fish with fan-like pectoral fins.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pterois_volitans_Manado-e_edit.jpg/960px-Pterois_volitans_Manado-e_edit.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17127,
+    "common_name": "Titan Triggerfish",
+    "scientific_name": "Balistoides viridescens",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Large, territorial reef fish notorious among divers for fiercely guarding its seabed nest during breeding season.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Titan_Triggerfish_imported_from_iNaturalist_photo_324702096_on_3_November_2024_%28edit%29.jpg/960px-Titan_Triggerfish_imported_from_iNaturalist_photo_324702096_on_3_November_2024_%28edit%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17128,
+    "common_name": "Reef Stonefish",
+    "scientific_name": "Synanceia verrucosa",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "The world's most venomous fish, lying motionless and perfectly camouflaged as a stone on the reef floor.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Synanceia_verrucosa_Prague_2011_2.jpg/960px-Synanceia_verrucosa_Prague_2011_2.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17129,
+    "common_name": "Giant Trevally",
+    "scientific_name": "Caranx ignobilis",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Powerful, apex predatory reef fish known to hunt in packs and even ambush seabirds at the surface.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Caranx_ignobilis.jpg/960px-Caranx_ignobilis.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17130,
+    "common_name": "Bonobo",
+    "scientific_name": "Pan paniscus",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Humanity's most peaceable great ape relative, living in matriarchal, cooperative societies south of the Congo River.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Apeldoorn_Apenheul_zoo_Bonobo.jpg/960px-Apeldoorn_Apenheul_zoo_Bonobo.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17131,
+    "common_name": "Electric Eel",
+    "scientific_name": "Electrophorus electricus",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Amazonian fish capable of generating shocks over 600 volts, used to stun prey and deter predators.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Electric-eel.jpg/960px-Electric-eel.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17132,
+    "common_name": "Red-bellied Piranha",
+    "scientific_name": "Pygocentrus nattereri",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Amazon basin fish with powerful interlocking teeth, most often scavenging in shoals rather than the feeding frenzies of legend.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/960px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17133,
+    "common_name": "Sockeye Salmon",
+    "scientific_name": "Oncorhynchus nerka",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Pacific salmon that turns brilliant red on its spawning run upriver, fueling one of the world’s great predator gatherings.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sockeye_salmon_swimming_right.jpg/960px-Sockeye_salmon_swimming_right.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17134,
+    "common_name": "Emperor Penguin",
+    "scientific_name": "Aptenodytes forsteri",
+    "category": "Bird",
+    "conservation_status": "Near Threatened",
+    "description": "The largest penguin species, breeding through the Antarctic winter's total darkness on sea ice far from open water.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17135,
+    "common_name": "Adelie Penguin",
+    "scientific_name": "Pygoscelis adeliae",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Small, distinctive white-eye-ringed penguin nesting in vast colonies on ice-free Antarctic coastal rock.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_%28Pygoscelis_adeliae%29_04.jpg/960px-Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_%28Pygoscelis_adeliae%29_04.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17136,
+    "common_name": "King Penguin",
+    "scientific_name": "Aptenodytes patagonicus",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Second-largest penguin species, forming immense breeding colonies on sub-Antarctic islands.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SGI-2016-South_Georgia_%28Fortuna_Bay%29%E2%80%93King_penguin_%28Aptenodytes_patagonicus%29_04.jpg/960px-SGI-2016-South_Georgia_%28Fortuna_Bay%29%E2%80%93King_penguin_%28Aptenodytes_patagonicus%29_04.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17137,
+    "common_name": "Gila Monster",
+    "scientific_name": "Heloderma suspectum",
+    "category": "Reptile",
+    "conservation_status": "Near Threatened",
+    "description": "One of the few venomous lizards on Earth, spending most of its life in burrows beneath the Sonoran Desert.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gila_monster2.JPG/960px-Gila_monster2.JPG",
+    "endemic": false
   }
 ]

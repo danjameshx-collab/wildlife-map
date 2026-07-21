@@ -4226,6 +4226,61 @@
         "end_month": 2,
         "likelihood": "common",
         "notes": "Large turtles come ashore to nest Nov-Feb."
+      },
+      {
+        "species_id": 17124,
+        "common_name": "Ocellaris Clownfish",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Clown_fish_in_the_Andaman_Coral_Reef.jpg/960px-Clown_fish_in_the_Andaman_Coral_Reef.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Pairs shelter among the tentacles of anemones dotted across the island’s coral bommies."
+      },
+      {
+        "species_id": 17125,
+        "common_name": "Blue Tang",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Paletten-Doktorfisch_M%C3%BCnster.JPG/960px-Paletten-Doktorfisch_M%C3%BCnster.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Grazes algae on the reef flat alongside schools of other surgeonfish."
+      },
+      {
+        "species_id": 17126,
+        "common_name": "Red Lionfish",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pterois_volitans_Manado-e_edit.jpg/960px-Pterois_volitans_Manado-e_edit.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Ambushes small fish from coral overhangs, its fan-like fins spread wide."
+      },
+      {
+        "species_id": 17127,
+        "common_name": "Titan Triggerfish",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Titan_Triggerfish_imported_from_iNaturalist_photo_324702096_on_3_November_2024_%28edit%29.jpg/960px-Titan_Triggerfish_imported_from_iNaturalist_photo_324702096_on_3_November_2024_%28edit%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Divers give a wide berth to this territorial fish while it guards its nest each breeding season."
+      },
+      {
+        "species_id": 17128,
+        "common_name": "Reef Stonefish",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Synanceia_verrucosa_Prague_2011_2.jpg/960px-Synanceia_verrucosa_Prague_2011_2.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Perfectly camouflaged against the reef floor, one of the most venomous fish in the world."
       }
     ]
   },
@@ -6734,6 +6789,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Occasionally seen alongside the whale pods."
+      },
+      {
+        "species_id": 17115,
+        "common_name": "Greenland Shark",
+        "category": "Shark",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Somniosus_microcephalus_okeanos.jpg/960px-Somniosus_microcephalus_okeanos.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "These slow-moving, immensely long-lived sharks are occasionally encountered in the cold fjord depths."
       }
     ]
   },
@@ -7080,6 +7146,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Found hiding in cracks and crevices around the island."
+      },
+      {
+        "species_id": 17116,
+        "common_name": "Horn Shark",
+        "category": "Shark",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hornhai_%28Heterodontus_francisci%29.JPG/960px-Hornhai_%28Heterodontus_francisci%29.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Wedges itself into rocky crevices and kelp holdfasts by day around the island."
       }
     ]
   },
@@ -9008,6 +9085,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "The island's giant land crabs are famous for climbing palms and cracking open coconuts."
+      },
+      {
+        "species_id": 17129,
+        "common_name": "Giant Trevally",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Caranx_ignobilis.jpg/960px-Caranx_ignobilis.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Hunts baitfish in packs along the island’s steep coral drop-offs."
       }
     ]
   },
@@ -14075,6 +14163,39 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Bristled white crabs cluster around deep hydrothermal vent fields in the surrounding ocean trenches."
+      },
+      {
+        "species_id": 17134,
+        "common_name": "Emperor Penguin",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg",
+        "endemic": false,
+        "start_month": 4,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "A handful of small colonies breed on stable sea ice near the peninsula’s southern reaches."
+      },
+      {
+        "species_id": 17135,
+        "common_name": "Adelie Penguin",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_%28Pygoscelis_adeliae%29_04.jpg/960px-Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_%28Pygoscelis_adeliae%29_04.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Vast colonies nest on ice-free rocky coastline all along the peninsula each summer."
+      },
+      {
+        "species_id": 17136,
+        "common_name": "King Penguin",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SGI-2016-South_Georgia_%28Fortuna_Bay%29%E2%80%93King_penguin_%28Aptenodytes_patagonicus%29_04.jpg/960px-SGI-2016-South_Georgia_%28Fortuna_Bay%29%E2%80%93King_penguin_%28Aptenodytes_patagonicus%29_04.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "More common further north on sub-Antarctic islands, but occasional visitors reach the peninsula."
       }
     ]
   },
@@ -22970,6 +23091,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "A large nocturnal civet occasionally crosses tracks at night with its distinctive masked face."
+      },
+      {
+        "species_id": 17096,
+        "common_name": "Topi",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Topi_%28Damaliscus_lunatus_jimela%29_female.jpg/960px-Topi_%28Damaliscus_lunatus_jimela%29_female.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Often seen standing sentry atop termite mounds across the open plains."
       }
     ]
   },
@@ -24582,6 +24714,28 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "This slender, spotted nocturnal hunter is sometimes caught in spotlight along night drives."
+      },
+      {
+        "species_id": 17107,
+        "common_name": "Black Mamba",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dendroaspis_polylepis_%2814%29.jpg/960px-Dendroaspis_polylepis_%2814%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Africa's longest venomous snake ranges through the park’s bushveld, though rarely seen."
+      },
+      {
+        "species_id": 17109,
+        "common_name": "Boomslang",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dispholidus_typus_333317716.jpg/960px-Dispholidus_typus_333317716.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Hunts chameleons and birds through the canopy of the park’s acacia woodland."
       }
     ]
   },
@@ -27022,6 +27176,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Loud, resonant calls announce this large lemur moving through the reserve canopy at dawn."
+      },
+      {
+        "species_id": 17114,
+        "common_name": "Tomato Frog",
+        "category": "Amphibian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dyscophus_antongilii02.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "More common in coastal lowlands further east, but occasionally found in the park’s humid forest edges."
       }
     ]
   },
@@ -27400,6 +27565,17 @@
         "end_month": 12,
         "likelihood": "rare",
         "notes": "Shy and rarely seen away from dense forest cover and water."
+      },
+      {
+        "species_id": 17094,
+        "common_name": "Dhole",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dhole_%28Asiatic_wild_dog%29_cropped.jpg/960px-Dhole_%28Asiatic_wild_dog%29_cropped.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Packs of these highly social wild dogs range through the park’s sal forest and meadows."
       }
     ]
   },
@@ -27600,6 +27776,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Common in Kaziranga's tall floodplain grassland."
+      },
+      {
+        "species_id": 17104,
+        "common_name": "King Cobra",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg/960px-12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The world’s longest venomous snake is present in the park’s grassland and forest patches."
       }
     ]
   },
@@ -28567,6 +28754,39 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Occasionally spotted moving slowly through the forest canopy at dusk in Khao Yai."
+      },
+      {
+        "species_id": 17105,
+        "common_name": "Reticulated Python",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Python_reticulatus_%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-2.jpg/960px-Python_reticulatus_%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-2.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the world’s longest snakes, found near streams and forest edges."
+      },
+      {
+        "species_id": 17106,
+        "common_name": "Burmese Python",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Brooding_female_Python_molurus_bivittatus.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Native to the park’s forest and grassland mosaic."
+      },
+      {
+        "species_id": 17122,
+        "common_name": "Atlas Moth",
+        "category": "Insect",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Attacus_atlas_qtl3.jpg/960px-Attacus_atlas_qtl3.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the world’s largest moths, occasionally seen resting on tree trunks near forest lodges."
       }
     ]
   },
@@ -29814,6 +30034,17 @@
         "end_month": 12,
         "likelihood": "rare",
         "notes": "Sand cat was confirmed in Wadi Rum in 2021, the first official record since the 1970s."
+      },
+      {
+        "species_id": 17120,
+        "common_name": "Deathstalker Scorpion",
+        "category": "Arachnid",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Deathstalker_ST_07.JPG/960px-Deathstalker_ST_07.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Shelters by day beneath desert rocks, one of the most dangerous scorpion species in the world."
       }
     ]
   },
@@ -29892,6 +30123,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Common around meadow edges and campgrounds throughout the park."
+      },
+      {
+        "species_id": 17098,
+        "common_name": "Great Horned Owl",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bubo_virginianus_06.jpg/960px-Bubo_virginianus_06.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Hunts across the park’s forest edges and river valleys after dusk."
       }
     ]
   },
@@ -29959,6 +30201,17 @@
         "end_month": 4,
         "likelihood": "possible",
         "notes": "Bald eagles winter at Yosemite's reservoirs; a nesting pair has returned to the Valley in recent years."
+      },
+      {
+        "species_id": 17097,
+        "common_name": "Peregrine Falcon",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg/960px-Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Nests on the sheer granite faces of El Capitan and other valley cliffs."
       }
     ]
   },
@@ -30126,6 +30379,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Lurks on the bottom of dark sloughs, wiggling a worm-like tongue lure to draw in fish."
+      },
+      {
+        "species_id": 17110,
+        "common_name": "American Crocodile",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Crocodylus_acutus_mexico_02-edit1.jpg/960px-Crocodylus_acutus_mexico_02-edit1.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The Everglades is one of the few places American crocodiles and alligators share the same waters."
       }
     ]
   },
@@ -30215,6 +30479,17 @@
         "end_month": 10,
         "likelihood": "possible",
         "notes": "Hides beneath large flat rocks in cold, fast-flowing mountain streams."
+      },
+      {
+        "species_id": 17123,
+        "common_name": "Luna Moth",
+        "category": "Insect",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Actias_luna-male.jpg/960px-Actias_luna-male.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Pale green adults are sometimes seen at lit windows and trailheads on warm spring nights."
       }
     ]
   },
@@ -31383,6 +31658,39 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "This medium anteater uses its prehensile tail to raid arboreal termite nests."
+      },
+      {
+        "species_id": 17100,
+        "common_name": "Blue-and-yellow Macaw",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ara_ararauna_Luc_Viatour.jpg/960px-Ara_ararauna_Luc_Viatour.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Gathers in noisy flocks at the park’s riverside clay licks alongside several other macaw species."
+      },
+      {
+        "species_id": 17121,
+        "common_name": "Goliath Birdeater",
+        "category": "Arachnid",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Theraphosa_blondi_MHNT.jpg/960px-Theraphosa_blondi_MHNT.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The world’s largest spider by mass, found in burrows across the rainforest floor."
+      },
+      {
+        "species_id": 17132,
+        "common_name": "Red-bellied Piranha",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg/960px-Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Common in the oxbow lakes and slow river channels of the reserve."
       }
     ]
   },
@@ -32461,6 +32769,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "One of the largest Central American hummingbirds, common at forest edges."
+      },
+      {
+        "species_id": 17112,
+        "common_name": "Red-eyed Tree Frog",
+        "category": "Amphibian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png/960px-Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "A signature sight clinging to broad leaves in the cloud forest understory at night."
       }
     ]
   },
@@ -33140,6 +33459,17 @@
         "end_month": 12,
         "likelihood": "rare",
         "notes": "One of the last strongholds of this critically endangered mustelid in Iberia's wetland margins."
+      },
+      {
+        "species_id": 17099,
+        "common_name": "Eurasian Eagle-Owl",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bubo_bubo_3_%28Martin_Mecnarowski%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Nests among the park’s cliffs and pine stands, hunting rabbits across the marshland fringe."
       }
     ]
   },
@@ -33620,6 +33950,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Red deer inhabit the scrubland and wooded fringes bordering the Camargue wetlands."
+      },
+      {
+        "species_id": 17103,
+        "common_name": "Mute Swan",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/CygneVaires.jpg/960px-CygneVaires.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Glides across the reserve’s brackish lagoons alongside flamingos and herons."
       }
     ]
   },
@@ -34736,6 +35077,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "North Queensland species performing umbrella-wing display in rainforest."
+      },
+      {
+        "species_id": 17102,
+        "common_name": "Rainbow Lorikeet",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rainbow_lorikeet_%28Trichoglossus_moluccanus_moluccanus%29_Sydney.jpg/960px-Rainbow_lorikeet_%28Trichoglossus_moluccanus_moluccanus%29_Sydney.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Flocks of these vivid nectar-feeders are a common sight in flowering trees along the forest edge."
       }
     ]
   },
@@ -34880,6 +35232,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Colonies fill eucalypt forest with a constant bell-like chorus."
+      },
+      {
+        "species_id": 17118,
+        "common_name": "Sydney Funnel-web Spider",
+        "category": "Arachnid",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Atrax_Robustus.jpg/960px-Atrax_Robustus.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Shelters in burrows in moist forest gullies across the greater Sydney basin."
       }
     ]
   },
@@ -36394,6 +36757,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Sitatunga wade through Odzala's swamp forest, their splayed hooves adapted to soft ground."
+      },
+      {
+        "species_id": 17101,
+        "common_name": "African Grey Parrot",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Perroquet_%C3%A0_Yampopo_Beach_-_Douala.jpg/960px-Perroquet_%C3%A0_Yampopo_Beach_-_Douala.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Flocks gather noisily at forest clearings and along the canopy edge."
       }
     ]
   },
@@ -38341,6 +38715,17 @@
         "end_month": 9,
         "likelihood": "likely",
         "notes": "Trumpeter swans nest in the wetlands and lakes of Katmai; the park's remote interior holds significant breeding pairs."
+      },
+      {
+        "species_id": 17133,
+        "common_name": "Sockeye Salmon",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sockeye_salmon_swimming_right.jpg/960px-Sockeye_salmon_swimming_right.jpg",
+        "endemic": false,
+        "start_month": 6,
+        "end_month": 9,
+        "likelihood": "common",
+        "notes": "The famous Brooks Falls salmon run draws the park’s brown bears to fish each summer."
       }
     ]
   },
@@ -40072,6 +40457,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Solitary and mostly nocturnal, hunting small mammals through the dense understory."
+      },
+      {
+        "species_id": 17131,
+        "common_name": "Electric Eel",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Electric-eel.jpg/960px-Electric-eel.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Found in the oxbow lakes and slow blackwater channels of the reserve."
       }
     ]
   },
@@ -57685,6 +58081,28 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Found in the upper canopy, often traveling with Diana monkeys."
+      },
+      {
+        "species_id": 17108,
+        "common_name": "Gaboon Viper",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bitis_gabonica.jpg/960px-Bitis_gabonica.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Camouflaged perfectly against the forest floor’s leaf litter, rarely seen despite being present."
+      },
+      {
+        "species_id": 17119,
+        "common_name": "Emperor Scorpion",
+        "category": "Arachnid",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Female_Emperor_Scorpion.jpg/960px-Female_Emperor_Scorpion.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Hunts across the forest floor at night, one of the largest scorpion species on Earth."
       }
     ]
   },
@@ -58335,6 +58753,121 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Also nests in smaller numbers alongside green turtles."
+      }
+    ]
+  },
+  {
+    "id": 100329,
+    "name": "Eravikulam NP",
+    "country": "India",
+    "region": "Kerala",
+    "lat": 10.19,
+    "lng": 77.06,
+    "description": "High rolling grassland and shola forest in the Western Ghats, created to protect the endangered Nilgiri tahr.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 17095,
+        "common_name": "Nilgiri Tahr",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nilgiri_Tahr_at_Eravikulam_National_Park.jpg/960px-Nilgiri_Tahr_at_Eravikulam_National_Park.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Created specifically to protect this Western Ghats endemic; the park holds the largest surviving population."
+      }
+    ]
+  },
+  {
+    "id": 100330,
+    "name": "Ciénaga de Zapata",
+    "country": "Cuba",
+    "region": "Matanzas",
+    "lat": 22.3,
+    "lng": -81.15,
+    "description": "Cuba's largest wetland, the last major stronghold of the critically endangered Cuban crocodile.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 17111,
+        "common_name": "Cuban Crocodile",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Crocodylus_Rhombifer.JPG/960px-Crocodylus_Rhombifer.JPG",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This swamp is the last major stronghold of one of the world's most range-restricted crocodile species."
+      }
+    ]
+  },
+  {
+    "id": 100331,
+    "name": "Whyalla",
+    "country": "Australia",
+    "region": "South Australia",
+    "lat": -33.03,
+    "lng": 137.58,
+    "description": "Shallow rocky reefs on the Upper Spencer Gulf hosting the world’s largest breeding aggregation of giant Australian cuttlefish.",
+    "type": "dive",
+    "sightings": [
+      {
+        "species_id": 17117,
+        "common_name": "Giant Australian Cuttlefish",
+        "category": "Cephalopod",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sepia_apama_2.jpg",
+        "endemic": false,
+        "start_month": 5,
+        "end_month": 8,
+        "likelihood": "common",
+        "notes": "Hundreds of thousands gather here each austral winter in the world’s largest cuttlefish breeding aggregation."
+      }
+    ]
+  },
+  {
+    "id": 100332,
+    "name": "Salonga NP",
+    "country": "DR Congo",
+    "region": "Équateur/Tshuapa",
+    "lat": -1.4,
+    "lng": 20.7,
+    "description": "Vast, roadless Congo Basin rainforest and the single most important protected area for the endangered, endemic bonobo.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 17130,
+        "common_name": "Bonobo",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Apeldoorn_Apenheul_zoo_Bonobo.jpg/960px-Apeldoorn_Apenheul_zoo_Bonobo.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Africa's largest protected rainforest and the single most important reserve for the entire wild bonobo population."
+      }
+    ]
+  },
+  {
+    "id": 100333,
+    "name": "Saguaro NP",
+    "country": "USA",
+    "region": "Arizona",
+    "lat": 32.25,
+    "lng": -110.74,
+    "description": "Iconic Sonoran Desert landscape of giant saguaro cacti, home to a distinctive assemblage of desert reptiles and mammals.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 17137,
+        "common_name": "Gila Monster",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gila_monster2.JPG/960px-Gila_monster2.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Spends most of its life hidden in burrows beneath the Sonoran Desert’s saguaro-studded slopes."
       }
     ]
   }
