@@ -8208,5 +8208,85 @@
     "description": "Small, strikingly golden-maned primate found only in a shrinking pocket of Atlantic Forest in southern Bahia.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Golden-headed_Lion_Tamarin_095.jpg/960px-Golden-headed_Lion_Tamarin_095.jpg",
     "endemic": true
+  },
+  {
+    "id": 17145,
+    "common_name": "Red Wolf",
+    "scientific_name": "Canis rufus",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "One of the world's most endangered canids, with fewer than 20 individuals surviving in the wild, all in a single North Carolina refuge.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Red_wolf_%284531335218%29.jpg/960px-Red_wolf_%284531335218%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17146,
+    "common_name": "Cotton-top Tamarin",
+    "scientific_name": "Saguinus oedipus",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "Small primate with a shock of white fur crowning its head, restricted to a shrinking pocket of dry and tropical forest in northern Colombia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/1_cotton_top_tamarin.jpg/960px-1_cotton_top_tamarin.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17147,
+    "common_name": "Thylacine",
+    "scientific_name": "Thylacinus cynocephalus",
+    "category": "Mammal",
+    "conservation_status": "Extinct",
+    "description": "The largest carnivorous marsupial of modern times, hunted to extinction in the wild by the 1930s; the last captive individual died in 1936.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Thylacinus.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17148,
+    "common_name": "Sugar Glider",
+    "scientific_name": "Petaurus breviceps",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Small gliding marsupial that spreads a furred membrane between its limbs to sail between eucalypt trees at night.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Petaurus_breviceps-Cayley.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17149,
+    "common_name": "Greater Glider",
+    "scientific_name": "Petauroides volans",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "The largest gliding marsupial, capable of soaring 100 meters between eucalypt trees on a broad furred membrane.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Petauroides_volans.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17150,
+    "common_name": "Barn Owl",
+    "scientific_name": "Tyto alba",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Pale, heart-faced owl found on every continent but Antarctica, hunting rodents silently over open farmland and marsh at night.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Barn_Owl%2C_Lancashire.jpg/960px-Barn_Owl%2C_Lancashire.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17151,
+    "common_name": "Black Swan",
+    "scientific_name": "Cygnus atratus",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Large, curly-feathered black waterbird native to Australian wetlands, its red bill a striking contrast to its dark plumage.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Black_swan_%28Cygnus_atratus%29_Scottsdale.jpg/960px-Black_swan_%28Cygnus_atratus%29_Scottsdale.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17152,
+    "common_name": "Inland Taipan",
+    "scientific_name": "Oxyuranus microlepidotus",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "The world's most venomous snake by toxicity, sheltering in the cracked clay-pan burrows of Australia's remote outback.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fierce_Snake-Oxyuranus_microlepidotus.jpg/960px-Fierce_Snake-Oxyuranus_microlepidotus.jpg",
+    "endemic": false
   }
 ]

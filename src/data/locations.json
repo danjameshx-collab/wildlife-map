@@ -33470,6 +33470,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Nests among the park’s cliffs and pine stands, hunting rabbits across the marshland fringe."
+      },
+      {
+        "species_id": 17150,
+        "common_name": "Barn Owl",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Barn_Owl%2C_Lancashire.jpg/960px-Barn_Owl%2C_Lancashire.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Hunts silently over the park’s marshland and farmland fringe at night."
       }
     ]
   },
@@ -34988,6 +34999,17 @@
         "end_month": 4,
         "likelihood": "possible",
         "notes": "Occasionally seen sprinting bipedally across woodland trails after the wet-season rains."
+      },
+      {
+        "species_id": 17151,
+        "common_name": "Black Swan",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Black_swan_%28Cygnus_atratus%29_Scottsdale.jpg/960px-Black_swan_%28Cygnus_atratus%29_Scottsdale.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Graceful flocks glide across the park’s billabongs and wetlands."
       }
     ]
   },
@@ -35243,6 +35265,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Shelters in burrows in moist forest gullies across the greater Sydney basin."
+      },
+      {
+        "species_id": 17148,
+        "common_name": "Sugar Glider",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Petaurus_breviceps-Cayley.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Glides between eucalypts in the forest at night, rarely seen but present throughout the park."
       }
     ]
   },
@@ -35522,6 +35555,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Australia's largest carnivorous marsupial hunts alone through the park's forested gullies at night."
+      },
+      {
+        "species_id": 17149,
+        "common_name": "Greater Glider",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Petauroides_volans.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The largest gliding marsupial soars between old-growth eucalypts in the park’s forested valleys."
       }
     ]
   },
@@ -59141,6 +59185,109 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Spends most of its life hidden in burrows beneath the Sonoran Desert’s saguaro-studded slopes."
+      }
+    ]
+  },
+  {
+    "id": 100334,
+    "name": "Alligator River NWR",
+    "country": "USA",
+    "region": "North Carolina",
+    "lat": 35.85,
+    "lng": -75.9,
+    "description": "Coastal wetland refuge and the last remaining wild home of the critically endangered red wolf.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 17145,
+        "common_name": "Red Wolf",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Red_wolf_%284531335218%29.jpg/960px-Red_wolf_%284531335218%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "rare",
+        "notes": "The only wild red wolf population on Earth survives here, numbering fewer than 20 animals."
+      }
+    ]
+  },
+  {
+    "id": 100335,
+    "name": "Los Colorados Flora and Fauna Sanctuary",
+    "country": "Colombia",
+    "region": "Bolívar",
+    "lat": 10.05,
+    "lng": -75.35,
+    "description": "Small protected dry-forest sanctuary in northern Colombia, established to safeguard the critically endangered cotton-top tamarin.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 17146,
+        "common_name": "Cotton-top Tamarin",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/1_cotton_top_tamarin.jpg/960px-1_cotton_top_tamarin.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This sanctuary was established specifically to protect one of the last strongholds of this critically endangered primate."
+      }
+    ]
+  },
+  {
+    "id": 100336,
+    "name": "Cradle Mountain-Lake St Clair NP",
+    "country": "Australia",
+    "region": "Tasmania",
+    "lat": -41.68,
+    "lng": 145.95,
+    "description": "Rugged alpine wilderness in the Tasmanian highlands, home to the Tasmanian devil and the last wild refuge of the extinct thylacine.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16619,
+        "common_name": "Tasmanian Devil",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sarcophilus_harrisii_taranna.jpg/960px-Sarcophilus_harrisii_taranna.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the best places in Tasmania to hear the devil’s eerie nocturnal screech across the button-grass moorland."
+      },
+      {
+        "species_id": 17147,
+        "common_name": "Thylacine",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Thylacinus.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "rare",
+        "notes": "Declared extinct in 1936; the last confirmed wild thylacines were trapped in forests near here in the early 20th century."
+      }
+    ]
+  },
+  {
+    "id": 100337,
+    "name": "Sturt NP",
+    "country": "Australia",
+    "region": "New South Wales",
+    "lat": -29.3,
+    "lng": 141.8,
+    "description": "Remote stony desert and clay-pan wilderness in the far corner of outback New South Wales, within the range of the world's most venomous snake.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 17152,
+        "common_name": "Inland Taipan",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fierce_Snake-Oxyuranus_microlepidotus.jpg/960px-Fierce_Snake-Oxyuranus_microlepidotus.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "rare",
+        "notes": "The world's most venomous snake shelters in cracked clay-pan burrows across this remote outback park."
       }
     ]
   }
