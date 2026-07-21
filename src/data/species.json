@@ -8138,5 +8138,75 @@
     "description": "One of the few venomous lizards on Earth, spending most of its life in burrows beneath the Sonoran Desert.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gila_monster2.JPG/960px-Gila_monster2.JPG",
     "endemic": false
+  },
+  {
+    "id": 17138,
+    "common_name": "Red-tailed Amazon",
+    "scientific_name": "Amazona brasiliensis",
+    "category": "Bird",
+    "conservation_status": "Vulnerable",
+    "description": "Endangered parrot restricted to a narrow strip of Atlantic Forest coastline and offshore islands in southern Brazil.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Amazona_brasiliensis_001_1280.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17139,
+    "common_name": "Maned Three-toed Sloth",
+    "scientific_name": "Bradypus torquatus",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Shaggy-maned sloth found only in Brazil's Atlantic Forest, the rarest of all sloth species.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bradypus_torquatus_BCN.jpg/960px-Bradypus_torquatus_BCN.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17140,
+    "common_name": "Araguaian River Dolphin",
+    "scientific_name": "Inia araguaiaensis",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Freshwater dolphin described as a distinct species in 2014, isolated in the Araguaia-Tocantins river system; visually near-identical to its Amazon River Dolphin relative.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amazonas-Flussdelfin_Orinoko3.jpg/960px-Amazonas-Flussdelfin_Orinoko3.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17141,
+    "common_name": "Black Caiman",
+    "scientific_name": "Melanosuchus niger",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "The largest predator in the Amazon basin, a massive dark-scaled caiman that recovered from near-collapse after decades of hide hunting.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Melanosuchus_niger_in_Moscow_zoo.jpg/960px-Melanosuchus_niger_in_Moscow_zoo.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17142,
+    "common_name": "Dourado",
+    "scientific_name": "Salminus brasiliensis",
+    "category": "Fish",
+    "conservation_status": "Near Threatened",
+    "description": "Powerful, golden-scaled migratory river fish prized by anglers, undertaking long spawning runs up South American rivers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Dourado%28Salminus_brasiliensis%29emBonito.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17143,
+    "common_name": "Piraputanga",
+    "scientific_name": "Brycon hilarii",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Silvery river fish famous in Bodoquena’s crystal-clear spring-fed waters, often seen leaping to snatch fruit from overhanging branches.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brycon_hilarii.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17144,
+    "common_name": "Golden-headed Lion Tamarin",
+    "scientific_name": "Leontopithecus chrysomelas",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Small, strikingly golden-maned primate found only in a shrinking pocket of Atlantic Forest in southern Bahia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Golden-headed_Lion_Tamarin_095.jpg/960px-Golden-headed_Lion_Tamarin_095.jpg",
+    "endemic": true
   }
 ]

@@ -49138,7 +49138,52 @@
     "lng": -64.8,
     "description": "Flooded Amazonian várzea forest reserve at the meeting of the Solimões and Japurá rivers; pink river dolphins ply the seasonal floodwaters beneath the endemic, red-faced Uakari monkey.",
     "type": "park",
-    "sightings": []
+    "sightings": [
+      {
+        "species_id": 16947,
+        "common_name": "Amazon River Dolphin",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amazonas-Flussdelfin_Orinoko3.jpg/960px-Amazonas-Flussdelfin_Orinoko3.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Regularly seen surfacing in the flooded várzea channels around the reserve."
+      },
+      {
+        "species_id": 17044,
+        "common_name": "Red Uakari",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cacajao_calvus_Solimoes_river.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "The reserve was created largely to protect this striking red-faced monkey."
+      },
+      {
+        "species_id": 16511,
+        "common_name": "Giant Otter",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Giant_otters_%28Pteronura_brasiliensis%29.jpg/960px-Giant_otters_%28Pteronura_brasiliensis%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Family groups fish the reserve’s lakes and flooded forest channels."
+      },
+      {
+        "species_id": 16974,
+        "common_name": "Hoatzin",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo.jpg/960px-Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Noisy colonies perch in waterside vegetation across the flooded forest."
+      }
+    ]
   },
   {
     "id": 43372,
@@ -49149,7 +49194,52 @@
     "lng": -55.93,
     "description": "Pristine transition forest where Amazon meets Cerrado in northern Mato Grosso; harpy eagles nest in the tall canopy above one of the richest primate and bird assemblages in the Amazon basin.",
     "type": "park",
-    "sightings": []
+    "sightings": [
+      {
+        "species_id": 16537,
+        "common_name": "Harpy Eagle",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Harpia_harpyja_001_800.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Nests in the tall emergent canopy above one of the richest bird assemblages in the Amazon."
+      },
+      {
+        "species_id": 16505,
+        "common_name": "Jaguar",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Standing_jaguar.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Present in the transition forest between Amazon and Cerrado, though rarely seen."
+      },
+      {
+        "species_id": 16506,
+        "common_name": "South American Tapir",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/South_American_tapir_%28Tapirus_terrestris%29.JPG/960px-South_American_tapir_%28Tapirus_terrestris%29.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Browses the forest understory along the Cristalino River."
+      },
+      {
+        "species_id": 16507,
+        "common_name": "Giant Anteater",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Myresluger2.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Forages through the park’s cerrado-forest transition zones."
+      }
+    ]
   },
   {
     "id": 43373,
@@ -49160,7 +49250,52 @@
     "lng": -61.3,
     "description": "Remote Roraima park of white-sand campina forest and seasonally flooded savanna, protecting jaguars, giant anteaters, and an exceptional diversity of Amazonian birdlife.",
     "type": "park",
-    "sightings": []
+    "sightings": [
+      {
+        "species_id": 16505,
+        "common_name": "Jaguar",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Standing_jaguar.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Ranges across the park’s white-sand campina forest and savanna."
+      },
+      {
+        "species_id": 16507,
+        "common_name": "Giant Anteater",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Myresluger2.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Forages through the park’s seasonally flooded savanna."
+      },
+      {
+        "species_id": 16508,
+        "common_name": "Capybara",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Capybaracropped.jpg/960px-Capybaracropped.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Common along the park’s rivers and flooded grassland."
+      },
+      {
+        "species_id": 16537,
+        "common_name": "Harpy Eagle",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Harpia_harpyja_001_800.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Present in the park’s tall forest patches."
+      }
+    ]
   },
   {
     "id": 43374,
@@ -49171,7 +49306,19 @@
     "lng": -48.28,
     "description": "Atlantic Forest coastal island park in Paraná, a last stronghold of the critically endangered red-tailed Amazon parrot amid mangrove and restinga forest.",
     "type": "park",
-    "sightings": []
+    "sightings": [
+      {
+        "species_id": 17138,
+        "common_name": "Red-tailed Amazon",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Amazona_brasiliensis_001_1280.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "This park protects the core breeding range of one of Brazil’s most endangered parrots."
+      }
+    ]
   },
   {
     "id": 43375,
@@ -49182,7 +49329,30 @@
     "lng": -41.75,
     "description": "Atlantic Forest peaks on the Minas Gerais-Espírito Santo border, including Brazil's third-highest mountain; home to the maned three-toed sloth and lowland tapir.",
     "type": "park",
-    "sightings": []
+    "sightings": [
+      {
+        "species_id": 17139,
+        "common_name": "Maned Three-toed Sloth",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bradypus_torquatus_BCN.jpg/960px-Bradypus_torquatus_BCN.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The rarest sloth species on Earth, restricted to fragments of Atlantic Forest like this park."
+      },
+      {
+        "species_id": 16506,
+        "common_name": "South American Tapir",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/South_American_tapir_%28Tapirus_terrestris%29.JPG/960px-South_American_tapir_%28Tapirus_terrestris%29.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The lowland tapir browses the park’s montane forest understory."
+      }
+    ]
   },
   {
     "id": 43376,
@@ -49193,7 +49363,41 @@
     "lng": -50.7,
     "description": "Floodplain park on the Araguaia River protecting one of Brazil's densest giant otter populations alongside the endemic, poorly-known Araguaian river dolphin.",
     "type": "park",
-    "sightings": []
+    "sightings": [
+      {
+        "species_id": 16511,
+        "common_name": "Giant Otter",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Giant_otters_%28Pteronura_brasiliensis%29.jpg/960px-Giant_otters_%28Pteronura_brasiliensis%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "The park protects one of Brazil’s densest giant otter populations."
+      },
+      {
+        "species_id": 17140,
+        "common_name": "Araguaian River Dolphin",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amazonas-Flussdelfin_Orinoko3.jpg/960px-Amazonas-Flussdelfin_Orinoko3.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This poorly-known dolphin species is isolated in the Araguaia-Tocantins river system."
+      },
+      {
+        "species_id": 17141,
+        "common_name": "Black Caiman",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Melanosuchus_niger_in_Moscow_zoo.jpg/960px-Melanosuchus_niger_in_Moscow_zoo.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The Amazon basin’s largest predator patrols the park’s river channels."
+      }
+    ]
   },
   {
     "id": 43377,
@@ -49204,7 +49408,30 @@
     "lng": -56.7,
     "description": "Mato Grosso do Sul karst park famed for exceptionally clear, spring-fed rivers where snorkelers drift alongside dourado and piraputanga fish through limestone canyons.",
     "type": "park",
-    "sightings": []
+    "sightings": [
+      {
+        "species_id": 17142,
+        "common_name": "Dourado",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Dourado%28Salminus_brasiliensis%29emBonito.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Snorkelers regularly drift alongside this golden migratory fish in the park’s crystal-clear rivers."
+      },
+      {
+        "species_id": 17143,
+        "common_name": "Piraputanga",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brycon_hilarii.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "A signature sight for snorkelers gliding through the park’s spring-fed limestone rivers."
+      }
+    ]
   },
   {
     "id": 43378,
@@ -49215,7 +49442,41 @@
     "lng": -49.9,
     "description": "Tocantins floodplain park where Amazon and Cerrado biomes converge along the Araguaia River, with giant otters, black caiman, and enormous concentrations of wading birds.",
     "type": "park",
-    "sightings": []
+    "sightings": [
+      {
+        "species_id": 16511,
+        "common_name": "Giant Otter",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Giant_otters_%28Pteronura_brasiliensis%29.jpg/960px-Giant_otters_%28Pteronura_brasiliensis%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Family groups are regularly seen fishing the park’s lakes and river channels."
+      },
+      {
+        "species_id": 17141,
+        "common_name": "Black Caiman",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Melanosuchus_niger_in_Moscow_zoo.jpg/960px-Melanosuchus_niger_in_Moscow_zoo.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Found among the park’s dense concentrations of wading birds and fish."
+      },
+      {
+        "species_id": 16617,
+        "common_name": "Jabiru Stork",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/002_Jabiru_feeding_its_babies_in_their_nest_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-002_Jabiru_feeding_its_babies_in_their_nest_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Huge numbers gather here where the Amazon and Cerrado biomes converge."
+      }
+    ]
   },
   {
     "id": 43379,
@@ -49226,7 +49487,19 @@
     "lng": -39.1,
     "description": "Coastal Atlantic Forest park in Bahia near the site of Portugal's 1500 landing, protecting golden-headed lion tamarins and one of the last remnants of Brazil's coastal rainforest.",
     "type": "park",
-    "sightings": []
+    "sightings": [
+      {
+        "species_id": 17144,
+        "common_name": "Golden-headed Lion Tamarin",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Golden-headed_Lion_Tamarin_095.jpg/960px-Golden-headed_Lion_Tamarin_095.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the last strongholds of this small, golden-maned Atlantic Forest primate."
+      }
+    ]
   },
   {
     "id": 43380,
