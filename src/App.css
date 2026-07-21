@@ -512,6 +512,11 @@
   background: #fffbeb;
 }
 
+.sighting-rare {
+  border: 1.5px solid #6d28d9;
+  background: #f5f3ff;
+}
+
 .sighting-photo {
   display: block;
   width: 100%;
@@ -548,6 +553,17 @@
   letter-spacing: 0.04em;
   color: #fff;
   background: #b45309;
+  padding: 2px 7px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.sighting-rare-badge {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background: #6d28d9;
   padding: 2px 7px;
   border-radius: 999px;
   white-space: nowrap;

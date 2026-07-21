@@ -1,5 +1,6 @@
 import { formatMonthRange } from '../utils/months';
 import { canonicalCountry } from '../utils/countryGroups';
+import { countryCountFor, isRareSighting } from '../utils/speciesRarity';
 
 function CountryLink({ location, onSelectCountry }) {
   return (
@@ -101,9 +102,14 @@ export default function LocationPopup({ location, onSelectCountry }) {
       </div>
       <ul className="popup-sightings">
         {[...location.sightings]
-          .sort((a, b) => (b.endemic ? 1 : 0) - (a.endemic ? 1 : 0))
-          .map((s, i) => (
-            <li key={i} className={`sighting-card${s.endemic ? ' sighting-endemic' : ''}`}>
+          .sort((a, b) => countryCountFor(a.species_id) - countryCountFor(b.species_id))
+          .map((s, i) => {
+            const rare = isRareSighting(s);
+            return (
+            <li
+              key={i}
+              className={`sighting-card${s.endemic ? ' sighting-endemic' : ''}${rare ? ' sighting-rare' : ''}`}
+            >
               {s.image_url && (
                 <img
                   className="sighting-photo"
@@ -116,6 +122,7 @@ export default function LocationPopup({ location, onSelectCountry }) {
                 <div className="sighting-header">
                   <strong>{s.common_name}</strong>
                   {s.endemic && <span className="sighting-endemic-badge">ENDEMIC</span>}
+                  {rare && <span className="sighting-rare-badge">RARE</span>}
                   <span className="sighting-category">{s.category}</span>
                 </div>
                 <div className="sighting-meta">
@@ -129,7 +136,8 @@ export default function LocationPopup({ location, onSelectCountry }) {
                 {s.notes && <p className="popup-notes">{s.notes}</p>}
               </div>
             </li>
-          ))}
+            );
+          })}
       </ul>
     </div>
   );
