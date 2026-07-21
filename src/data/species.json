@@ -7348,5 +7348,355 @@
     "description": "Elusive West African sirenian that grazes on coastal seagrass and mangrove roots in brackish estuaries and lagoons.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/960px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg",
     "endemic": false
+  },
+  {
+    "id": 17059,
+    "common_name": "Sloth Bear",
+    "scientific_name": "Melursus ursinus",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Shaggy, termite-eating bear of the Indian subcontinent, known for the loud noises it makes while foraging.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sloth_bear_stand.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17060,
+    "common_name": "Chital",
+    "scientific_name": "Axis axis",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Elegant spotted deer of South Asian forests and grasslands, often seen in large mixed herds.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg/960px-066_Chital_in_Ranthambore_National_Park_Photo_by_Giles_Laurent.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17061,
+    "common_name": "Mugger Crocodile",
+    "scientific_name": "Crocodylus palustris",
+    "category": "Reptile",
+    "conservation_status": "Vulnerable",
+    "description": "Broad-snouted crocodile of slow rivers, lakes and marshes across the Indian subcontinent.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mugger_crocodile_%28Crocodylus_palustris%29_Gal_Oya.jpg/960px-Mugger_crocodile_%28Crocodylus_palustris%29_Gal_Oya.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17062,
+    "common_name": "Rhesus Macaque",
+    "scientific_name": "Macaca mulatta",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Highly adaptable Old World monkey found across South and Southeast Asia in forests, farmland and towns alike.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rhesus_macaque_%28Macaca_mulatta_mulatta%29%2C_male%2C_Gokarna.jpg/960px-Rhesus_macaque_%28Macaca_mulatta_mulatta%29%2C_male%2C_Gokarna.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17063,
+    "common_name": "Indian Peafowl",
+    "scientific_name": "Pavo cristatus",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "India's national bird, the males famed for their iridescent, fan-shaped courtship train.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Peacock_on_tree_%2852077240794%29.jpg/960px-Peacock_on_tree_%2852077240794%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17064,
+    "common_name": "Himalayan Tahr",
+    "scientific_name": "Hemitragus jemlahicus",
+    "category": "Mammal",
+    "conservation_status": "Near Threatened",
+    "description": "Shaggy-coated wild goat that scales steep Himalayan cliffs and alpine meadows.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Himalayan_Tahr_at_Sagarmatha_National_Park%2C_Nepal_01.jpg/960px-Himalayan_Tahr_at_Sagarmatha_National_Park%2C_Nepal_01.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17065,
+    "common_name": "Himalayan Monal",
+    "scientific_name": "Lophophorus impejanus",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Nepal's iridescent national bird, a pheasant flashing metallic green, blue and copper across high Himalayan forests.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Himalayan_Monal_at_Sagarmatha_National_Park%2C_Nepal.jpg/960px-Himalayan_Monal_at_Sagarmatha_National_Park%2C_Nepal.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17066,
+    "common_name": "Bearded Vulture",
+    "scientific_name": "Gypaetus barbatus",
+    "category": "Bird",
+    "conservation_status": "Near Threatened",
+    "description": "Huge high-altitude vulture that famously drops bones from great heights to crack them open for marrow.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/010e_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/960px-010e_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17067,
+    "common_name": "Himalayan Griffon Vulture",
+    "scientific_name": "Gyps himalayensis",
+    "category": "Bird",
+    "conservation_status": "Near Threatened",
+    "description": "One of the world's largest vultures, soaring on massive wings over the highest mountains on Earth.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Himalayan_Griffon_%28Gyps_himalayensis%29.jpg/960px-Himalayan_Griffon_%28Gyps_himalayensis%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17068,
+    "common_name": "Waved Albatross",
+    "scientific_name": "Phoebastria irrorata",
+    "category": "Bird",
+    "conservation_status": "Critically Endangered",
+    "description": "Great oceanic seabird that nests almost exclusively on the Galápagos island of Española.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Waved_Albatross_pair.jpg/960px-Waved_Albatross_pair.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17069,
+    "common_name": "Nazca Booby",
+    "scientific_name": "Sula granti",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Large white booby of the eastern Pacific, nesting in dense colonies on bare Galápagos cliffs and slopes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nazca-Booby.jpg/960px-Nazca-Booby.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17070,
+    "common_name": "Red-footed Booby",
+    "scientific_name": "Sula sula",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "The smallest and most numerous Galápagos booby, distinguished by its bright red feet and tree-nesting habit.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sula_sula_by_Gregg_Yan_01.jpg/960px-Sula_sula_by_Gregg_Yan_01.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17071,
+    "common_name": "Galápagos Hawk",
+    "scientific_name": "Buteo galapagoensis",
+    "category": "Bird",
+    "conservation_status": "Vulnerable",
+    "description": "Fearless top avian predator of the Galápagos, unafraid of humans since it evolved with no natural enemies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Galapagos_hawk_01_%28cropped%29.jpg/960px-Galapagos_hawk_01_%28cropped%29.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17072,
+    "common_name": "American Flamingo",
+    "scientific_name": "Phoenicopterus ruber",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Vivid pink wading bird that filter-feeds in brackish Galápagos lagoons, its color drawn from the brine shrimp it eats.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/American_Flamingo_JG.jpg/960px-American_Flamingo_JG.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17073,
+    "common_name": "Sally Lightfoot Crab",
+    "scientific_name": "Grapsus grapsus",
+    "category": "Crustacean",
+    "conservation_status": "Least Concern",
+    "description": "Strikingly red-orange crab that darts nimbly across black lava rocks along the Pacific shoreline.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sally_Lightfoot_Crab_2019.jpg/960px-Sally_Lightfoot_Crab_2019.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17074,
+    "common_name": "Diana Monkey",
+    "scientific_name": "Cercopithecus diana",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Strikingly marked West African guenon with a white brow-band and beard, named for the huntress goddess.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/La_Bourbansais_04.jpg/960px-La_Bourbansais_04.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17075,
+    "common_name": "Sooty Mangabey",
+    "scientific_name": "Cercocebus atys",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Grey, ground-dwelling West African monkey that forages in large troops through lowland rainforest.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cercocebus_atys_219636002.jpg/960px-Cercocebus_atys_219636002.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17076,
+    "common_name": "King Colobus",
+    "scientific_name": "Colobus polykomos",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Striking black-and-white leaf-eating monkey of West African rainforest canopies, with long flowing shoulder capes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2017-07-02_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Colobus_polykomos_%2849938468526%29.jpg/960px-2017-07-02_AT_Wien_13_Hietzing%2C_Tiergarten_Sch%C3%B6nbrunn%2C_Colobus_polykomos_%2849938468526%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17077,
+    "common_name": "Preuss's Monkey",
+    "scientific_name": "Allochrocebus preussi",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Little-known guenon restricted to montane and lowland forests along the Nigeria-Cameroon border region.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Preuss%27s_guenon_%28Cercopithecus_preussi%29_at_CERCOPAN_primate_sanctuary.JPG/960px-Preuss%27s_guenon_%28Cercopithecus_preussi%29_at_CERCOPAN_primate_sanctuary.JPG",
+    "endemic": false
+  },
+  {
+    "id": 17078,
+    "common_name": "Putty-nosed Monkey",
+    "scientific_name": "Cercopithecus nictitans",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Common Central African guenon named for the bright white spot on the tip of its nose.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Putty-nosed_monkey_%28Cercopithecus_nictitans%29.JPG/960px-Putty-nosed_monkey_%28Cercopithecus_nictitans%29.JPG",
+    "endemic": false
+  },
+  {
+    "id": 17079,
+    "common_name": "Red-eared Guenon",
+    "scientific_name": "Cercopithecus erythrotis",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Colorful, red-nosed and red-eared monkey confined to forests of the Nigeria-Cameroon border and Bioko Island.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Red-Eared_Guenon_at_CERCOPAN_sanctuary.JPG/960px-Red-Eared_Guenon_at_CERCOPAN_sanctuary.JPG",
+    "endemic": false
+  },
+  {
+    "id": 17080,
+    "common_name": "Yucatan Black Howler Monkey",
+    "scientific_name": "Alouatta pigra",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Loud, deep-voiced howler monkey whose roars carry for miles through the Yucatán rainforest canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Yucat%C3%A1n_black_howler_%28Alouatta_pigra%29_Cayo.jpg/960px-Yucat%C3%A1n_black_howler_%28Alouatta_pigra%29_Cayo.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17081,
+    "common_name": "Geoffroy's Spider Monkey",
+    "scientific_name": "Ateles geoffroyi",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Long-limbed, prehensile-tailed monkey that swings acrobatically through the Yucatán forest canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Geoffroy%27s_spider_monkey_%28Ateles_geoffroyi_yucatanensis%29_male_Peten.jpg/960px-Geoffroy%27s_spider_monkey_%28Ateles_geoffroyi_yucatanensis%29_male_Peten.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17082,
+    "common_name": "Great Curassow",
+    "scientific_name": "Crax rubra",
+    "category": "Bird",
+    "conservation_status": "Vulnerable",
+    "description": "Large, glossy black, curly-crested forest bird found stalking the floor of Central American and Yucatán rainforest.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Great_curassow_arenal_observatory_lodge_3.25.24_DSC_4518-topaz-denoiseraw.jpg/960px-Great_curassow_arenal_observatory_lodge_3.25.24_DSC_4518-topaz-denoiseraw.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17083,
+    "common_name": "Keel-billed Toucan",
+    "scientific_name": "Ramphastos sulfuratus",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Rainbow-billed toucan of Central American and Yucatán forests, its huge bill used to reach fruit at branch tips.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Keel-billed_toucan_%28Ramphastos_sulfuratus_sulfuratus%29_on_foxtail_palm_%28Wodyetia_bifurcata%29_Cayo.jpg/960px-Keel-billed_toucan_%28Ramphastos_sulfuratus_sulfuratus%29_on_foxtail_palm_%28Wodyetia_bifurcata%29_Cayo.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17084,
+    "common_name": "Red-shanked Douc",
+    "scientific_name": "Pygathrix nemaeus",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "One of the world's most vividly colored primates, its multicolored limbs earning it the nickname 'costumed ape'.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Red-shanked_douc_langur_%28Pygathrix_nemaeus%29_female_and_juvenile_Son_Tra.jpg/960px-Red-shanked_douc_langur_%28Pygathrix_nemaeus%29_female_and_juvenile_Son_Tra.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17085,
+    "common_name": "Crested Argus",
+    "scientific_name": "Rheinardia ocellata",
+    "category": "Bird",
+    "conservation_status": "Near Threatened",
+    "description": "Secretive pheasant of Vietnamese and Malaysian forests, the male trailing one of the longest tail feathers of any bird.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tr%C4%A9_sao.JPG/960px-Tr%C4%A9_sao.JPG",
+    "endemic": false
+  },
+  {
+    "id": 17086,
+    "common_name": "White-fronted Brown Lemur",
+    "scientific_name": "Eulemur albifrons",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Northern Madagascar lemur named for the pale fur crowning the males’ dark faces.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Eulemur_albifrons_001.jpg/960px-Eulemur_albifrons_001.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17087,
+    "common_name": "Helmet Vanga",
+    "scientific_name": "Euryceros prevostii",
+    "category": "Bird",
+    "conservation_status": "Vulnerable",
+    "description": "Striking rainforest bird of northeastern Madagascar with an oversized cobalt-and-black bill.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Helmet_vanga_%28Euryceros_prevostii%29.jpg/960px-Helmet_vanga_%28Euryceros_prevostii%29.jpg",
+    "endemic": true
+  },
+  {
+    "id": 17088,
+    "common_name": "Panther Chameleon",
+    "scientific_name": "Furcifer pardalis",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "One of the most vividly colored chameleons on Earth, native to the forests of northern and eastern Madagascar.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg/960px-Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17089,
+    "common_name": "Philippine Long-tailed Macaque",
+    "scientific_name": "Macaca fascicularis philippensis",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Agile, adaptable macaque found in forests and mangroves throughout the Philippine archipelago.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Philippine_long-tailed_macaque_%28Macaca_fascicularis_philippensis%29._Quezon_Protected_Landscape.jpg/960px-Philippine_long-tailed_macaque_%28Macaca_fascicularis_philippensis%29._Quezon_Protected_Landscape.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17090,
+    "common_name": "Rufous Hornbill",
+    "scientific_name": "Buceros hydrocorax",
+    "category": "Bird",
+    "conservation_status": "Vulnerable",
+    "description": "One of the largest Philippine hornbills, its loud honking call carrying far across the forest canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roufus_Hornbill_%28cropped%29.jpg/960px-Roufus_Hornbill_%28cropped%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17091,
+    "common_name": "Philippine Sailfin Lizard",
+    "scientific_name": "Hydrosaurus pustulatus",
+    "category": "Reptile",
+    "conservation_status": "Vulnerable",
+    "description": "Large, crested lizard that can run upright across water on its long hind toes, found along Philippine rivers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Philippine_Sailfin_Dragon.jpg/960px-Philippine_Sailfin_Dragon.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17092,
+    "common_name": "Philippine Warty Pig",
+    "scientific_name": "Sus philippensis",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Bristly, tufted wild pig found across the forests of Luzon and Mindanao.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Philippine_warty_pig_%28Sus_philippensis%29_in_Philippine_Eagle_Center%2C_Davao%2C_Philippines.jpg/960px-Philippine_warty_pig_%28Sus_philippensis%29_in_Philippine_Eagle_Center%2C_Davao%2C_Philippines.jpg",
+    "endemic": false
+  },
+  {
+    "id": 17093,
+    "common_name": "Visayan Hornbill",
+    "scientific_name": "Rhabdotorrhinus waldeni",
+    "category": "Bird",
+    "conservation_status": "Critically Endangered",
+    "description": "Rainforest hornbill found only on Panay and Negros, among the world's rarest hornbills.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Writhed-billed_Hornbill_%28Bentley%29.jpg",
+    "endemic": true
   }
 ]
