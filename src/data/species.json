@@ -4338,5 +4338,1305 @@
     "description": "Fast-running desert cuckoo that sprints after lizards and snakes rather than flying.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2025-02-02_02_Greater_roadrunner_%28Geococcyx_californianus%29_-_AZ_USA.jpg/960px-2025-02-02_02_Greater_roadrunner_%28Geococcyx_californianus%29_-_AZ_USA.jpg",
     "endemic": false
+  },
+  {
+    "id": 16337,
+    "common_name": "Binturong",
+    "scientific_name": "Arctictis binturong",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Shaggy-coated arboreal viverrid nicknamed the \"bearcat\", famous for smelling like buttered popcorn.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Binturong_in_Overloon.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16338,
+    "common_name": "Philippine Tarsier",
+    "scientific_name": "Carlito syrichta",
+    "category": "Mammal",
+    "conservation_status": "Near Threatened",
+    "description": "Tiny nocturnal primate with enormous eyes that leaps between saplings hunting insects.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Philippine_tarsier_%28Carlito_syrichta_fraterculus%29_Bohol.jpg/960px-Philippine_tarsier_%28Carlito_syrichta_fraterculus%29_Bohol.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16339,
+    "common_name": "Ground Pangolin",
+    "scientific_name": "Smutsia temminckii",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Heavily scaled, ant-eating mammal that curls into an armored ball when threatened.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Manis_temminckii_%2829645803646%29.jpg/960px-Manis_temminckii_%2829645803646%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16340,
+    "common_name": "Kakapo",
+    "scientific_name": "Strigops habroptilus",
+    "category": "Bird",
+    "conservation_status": "Critically Endangered",
+    "description": "Flightless, nocturnal parrot of New Zealand that booms across valleys to attract mates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sirocco_full_length_portrait.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16341,
+    "common_name": "Kirk's Dik-dik",
+    "scientific_name": "Madoqua kirkii",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Diminutive antelope with an elongated snout that pair-bonds for life on the East African bush.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Madoqua_kirkii_-_male_%28Namutoni%29.jpg/960px-Madoqua_kirkii_-_male_%28Namutoni%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16342,
+    "common_name": "Emperor Tamarin",
+    "scientific_name": "Saguinus imperator",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Small Amazonian primate sporting a flowing white moustache reminiscent of Kaiser Wilhelm II.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tamarin_portrait.JPG/960px-Tamarin_portrait.JPG",
+    "endemic": false
+  },
+  {
+    "id": 16343,
+    "common_name": "Pygmy Marmoset",
+    "scientific_name": "Cebuella pygmaea",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "The world's smallest monkey, gouging tree bark for gum in the Amazon canopy understory.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dv%C3%A6rgsilkeabe_Callithrix_pygmaea.jpg/960px-Dv%C3%A6rgsilkeabe_Callithrix_pygmaea.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16344,
+    "common_name": "Drill",
+    "scientific_name": "Mandrillus leucophaeus",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Forest-dwelling relative of the mandrill living in large groups across Nigeria and Cameroon's rainforests.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Drill_scheme.svg/960px-Drill_scheme.svg.png",
+    "endemic": false
+  },
+  {
+    "id": 16345,
+    "common_name": "Lion-tailed Macaque",
+    "scientific_name": "Macaca silenus",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Distinctive silver-maned macaque confined to India's fragmented Western Ghats rainforest.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Lion-tailed_Macaque_in_Bristol_Zoo.jpg/960px-Lion-tailed_Macaque_in_Bristol_Zoo.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16346,
+    "common_name": "Black-and-white Colobus",
+    "scientific_name": "Colobus guereza",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Striking monkey with flowing white cape-like fur that leaps dramatically between forest canopy gaps.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Colubusmonkey.JPG/960px-Colubusmonkey.JPG",
+    "endemic": false
+  },
+  {
+    "id": 16347,
+    "common_name": "Vaquita",
+    "scientific_name": "Phocoena sinus",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "World's smallest and most endangered cetacean, restricted to the northern Gulf of California.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Vaquita_size.svg/960px-Vaquita_size.svg.png",
+    "endemic": false
+  },
+  {
+    "id": 16348,
+    "common_name": "Amazon River Dolphin",
+    "scientific_name": "Inia geoffrensis",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Pink-hued freshwater dolphin navigating flooded forests and river channels of the Amazon basin.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amazonas-Flussdelfin_Orinoko3.jpg/960px-Amazonas-Flussdelfin_Orinoko3.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16349,
+    "common_name": "Gharial",
+    "scientific_name": "Gavialis gangeticus",
+    "category": "Reptile",
+    "conservation_status": "Critically Endangered",
+    "description": "Fish-eating crocodilian with an extremely narrow snout, once widespread across South Asian rivers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gharial_%28Gavialis_gangeticus%29_male.jpg/960px-Gharial_%28Gavialis_gangeticus%29_male.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16350,
+    "common_name": "Chinese Alligator",
+    "scientific_name": "Alligator sinensis",
+    "category": "Reptile",
+    "conservation_status": "Critically Endangered",
+    "description": "Small, secretive alligator surviving in a handful of wetland reserves along the lower Yangtze.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/ChineseAlligator15.JPG/960px-ChineseAlligator15.JPG",
+    "endemic": false
+  },
+  {
+    "id": 16351,
+    "common_name": "Frilled Lizard",
+    "scientific_name": "Chlamydosaurus kingii",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Startles predators by fanning out a wide neck frill and sprinting away on its hind legs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288692622586%29.jpg/960px-Frill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288692622586%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16352,
+    "common_name": "Thorny Devil",
+    "scientific_name": "Moloch horridus",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Spiky, ant-eating lizard whose grooved skin channels dew straight to its mouth in Australia's deserts.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thornydevil.jpg/960px-Thornydevil.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16353,
+    "common_name": "Blue-tongued Skink",
+    "scientific_name": "Tiliqua scincoides",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Stout, slow-moving skink that flashes a vivid blue tongue to startle would-be predators.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Tiliqua_scincoides_tongue.jpg/960px-Tiliqua_scincoides_tongue.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16354,
+    "common_name": "Common Flying Dragon",
+    "scientific_name": "Draco volans",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Small gliding lizard that spreads rib-supported skin flaps to sail between rainforest trunks.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Draco_volans_01.JPG/960px-Draco_volans_01.JPG",
+    "endemic": false
+  },
+  {
+    "id": 16355,
+    "common_name": "Giant Leaf-tailed Gecko",
+    "scientific_name": "Uroplatus fimbriatus",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Bark-mimicking gecko whose fringed silhouette and mottled skin erase its outline against tree trunks.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Giant_Leaf-tailed_Gecko%2C_Nosy_Mangabe%2C_Madagascar.jpg/960px-Giant_Leaf-tailed_Gecko%2C_Nosy_Mangabe%2C_Madagascar.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16356,
+    "common_name": "Satanic Leaf-tailed Gecko",
+    "scientific_name": "Uroplatus phantasticus",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Extraordinary gecko whose tail and skin are sculpted to mimic a curled, decaying leaf.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Uroplatus_phantasticus_12893423.jpg/960px-Uroplatus_phantasticus_12893423.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16357,
+    "common_name": "Jackson's Chameleon",
+    "scientific_name": "Trioceros jacksonii",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "Three-horned, triceratops-like chameleon native to the cool highland forests of East Africa.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jackson%27s_Chameleon_2_edit1.jpg/960px-Jackson%27s_Chameleon_2_edit1.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16358,
+    "common_name": "Parson's Chameleon",
+    "scientific_name": "Calumma parsonii",
+    "category": "Reptile",
+    "conservation_status": "Least Concern",
+    "description": "One of the largest chameleon species, a slow-moving giant of Madagascar's eastern rainforest canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Calumma_Parsonii_Ste_Marie_Madagascar.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16359,
+    "common_name": "Armadillo Girdled Lizard",
+    "scientific_name": "Ouroborus cataphractus",
+    "category": "Reptile",
+    "conservation_status": "Vulnerable",
+    "description": "Heavily armored lizard that bites its own tail and curls into a spiny, un-swallowable ball.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ouroborus_cataphractus_29188261.jpg/960px-Ouroborus_cataphractus_29188261.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16360,
+    "common_name": "Matamata",
+    "scientific_name": "Chelus fimbriatus",
+    "category": "Turtle",
+    "conservation_status": "Least Concern",
+    "description": "Bizarre, bark-textured freshwater turtle that ambushes fish by suddenly gaping its enormous mouth.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Matamata_i-SITE.jpg/960px-Matamata_i-SITE.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16361,
+    "common_name": "Alligator Snapping Turtle",
+    "scientific_name": "Macrochelys temminckii",
+    "category": "Turtle",
+    "conservation_status": "Vulnerable",
+    "description": "North America's largest freshwater turtle, luring prey with a worm-like tongue lure.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alligator_snapping_turtle.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16362,
+    "common_name": "Radiated Tortoise",
+    "scientific_name": "Astrochelys radiata",
+    "category": "Turtle",
+    "conservation_status": "Critically Endangered",
+    "description": "Strikingly starburst-patterned tortoise from Madagascar's spiny forest, prized and poached for its shell.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Radiated_tortoise_%28Astrochelys_radiata%29_Tsimanampetsotsa.jpg/960px-Radiated_tortoise_%28Astrochelys_radiata%29_Tsimanampetsotsa.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16363,
+    "common_name": "Indian Star Tortoise",
+    "scientific_name": "Geochelone elegans",
+    "category": "Turtle",
+    "conservation_status": "Vulnerable",
+    "description": "Small tortoise with a high-domed, star-patterned shell found across dry scrub of India and Sri Lanka.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Indian_star_tortoise_%282016%29_7365.jpg/960px-Indian_star_tortoise_%282016%29_7365.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16364,
+    "common_name": "Glass Frog",
+    "scientific_name": "Espadarana prosoblepon",
+    "category": "Amphibian",
+    "conservation_status": "Least Concern",
+    "description": "Translucent-bellied rainforest frog whose internal organs are visible through its pale green skin.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cochranella_susatamai03.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16365,
+    "common_name": "Axolotl",
+    "scientific_name": "Ambystoma mexicanum",
+    "category": "Amphibian",
+    "conservation_status": "Critically Endangered",
+    "description": "Neotenic salamander that keeps its feathery gills into adulthood, surviving now only in a few Mexico City canals.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Axolotl_ganz.jpg/960px-Axolotl_ganz.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16366,
+    "common_name": "Hellbender",
+    "scientific_name": "Cryptobranchus alleganiensis",
+    "category": "Amphibian",
+    "conservation_status": "Near Threatened",
+    "description": "North America's largest salamander, breathing through folds of loose skin in cold, clear streams.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hellbender.jpg/960px-Hellbender.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16367,
+    "common_name": "Purple Frog",
+    "scientific_name": "Nasikabatrachus sahyadrensis",
+    "category": "Amphibian",
+    "conservation_status": "Endangered",
+    "description": "Bloated, pig-snouted burrowing frog that surfaces for only about two weeks a year to breed.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nasikabatrachus_sahyadrensis.jpg/960px-Nasikabatrachus_sahyadrensis.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16368,
+    "common_name": "Surinam Toad",
+    "scientific_name": "Pipa pipa",
+    "category": "Amphibian",
+    "conservation_status": "Least Concern",
+    "description": "Flat, leaf-like aquatic toad whose eggs develop in pockets embedded in the mother's back skin.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pipa_pipa01.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16369,
+    "common_name": "Olm",
+    "scientific_name": "Proteus anguinus",
+    "category": "Amphibian",
+    "conservation_status": "Vulnerable",
+    "description": "Blind, pale cave salamander of the Dinaric karst that can survive without food for years.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Proteus_anguinus_Postojnska_Jama_Slovenija.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16370,
+    "common_name": "Blue Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius azureus",
+    "category": "Amphibian",
+    "conservation_status": "Least Concern",
+    "description": "Vivid cobalt-blue frog whose skin toxins warn predators away in Amazonian forest clearings.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dendrobates_azureus_qtl1.jpg/960px-Dendrobates_azureus_qtl1.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16371,
+    "common_name": "Golden Poison Frog",
+    "scientific_name": "Phyllobates terribilis",
+    "category": "Amphibian",
+    "conservation_status": "Endangered",
+    "description": "The most toxic vertebrate known, its skin secretions once used by Emberá hunters to poison blowdarts.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Schrecklicherpfeilgiftfrosch-01.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16372,
+    "common_name": "Philippine Eagle",
+    "scientific_name": "Pithecophaga jefferyi",
+    "category": "Bird",
+    "conservation_status": "Critically Endangered",
+    "description": "Among the largest eagles alive, an apex forest predator hunting flying lemurs in Mindanao's canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pamarayeg_IIIx2_%28cropped%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16373,
+    "common_name": "King Vulture",
+    "scientific_name": "Sarcoramphus papa",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Brilliantly multicolored New World vulture whose powerful beak opens carcasses for smaller scavengers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Urubu_rei_-_Sarcoramphus_papa.jpg/960px-Urubu_rei_-_Sarcoramphus_papa.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16374,
+    "common_name": "Greater Bird-of-Paradise",
+    "scientific_name": "Paradisaea apoda",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Males cascade golden plumes and perform elaborate courtship dances in New Guinea's rainforest canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Paradisaea_apoda_-Bali_Bird_Park-5.jpg/960px-Paradisaea_apoda_-Bali_Bird_Park-5.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16375,
+    "common_name": "Victoria Crowned Pigeon",
+    "scientific_name": "Goura victoria",
+    "category": "Bird",
+    "conservation_status": "Near Threatened",
+    "description": "One of the world's largest pigeons, crowned with delicate lace-like blue feathers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Goura_victoria_LC0384.jpg/960px-Goura_victoria_LC0384.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16376,
+    "common_name": "Great Hornbill",
+    "scientific_name": "Buceros bicornis",
+    "category": "Bird",
+    "conservation_status": "Vulnerable",
+    "description": "Massive-billed hornbill topped with a hollow casque, an important seed-disperser in Asian forests.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Great_hornbill_Photograph_by_Shantanu_Kuveskar.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16377,
+    "common_name": "Rhinoceros Hornbill",
+    "scientific_name": "Buceros rhinoceros",
+    "category": "Bird",
+    "conservation_status": "Vulnerable",
+    "description": "Borneo's iconic hornbill, named for the upturned horn-like casque atop its bill.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg/960px-Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16378,
+    "common_name": "Hoatzin",
+    "scientific_name": "Opisthocomus hoazin",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Prehistoric-looking, foul-smelling bird that ferments leaves in an enlarged crop like a cow.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo.jpg/960px-Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16379,
+    "common_name": "Superb Lyrebird",
+    "scientific_name": "Menura novaehollandiae",
+    "category": "Bird",
+    "conservation_status": "Least Concern",
+    "description": "Extraordinary mimic capable of reproducing chainsaws, camera shutters, and other birds' calls.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Superb_lyrbird_in_scrub.jpg/960px-Superb_lyrbird_in_scrub.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16380,
+    "common_name": "Kagu",
+    "scientific_name": "Rhynochetos jubatus",
+    "category": "Bird",
+    "conservation_status": "Endangered",
+    "description": "Near-flightless, ghost-grey forest bird found only on the island of New Caledonia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kagu_0A2A2595.jpg/960px-Kagu_0A2A2595.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16381,
+    "common_name": "Ocellated Turkey",
+    "scientific_name": "Meleagris ocellata",
+    "category": "Bird",
+    "conservation_status": "Near Threatened",
+    "description": "Iridescent, peacock-hued turkey restricted to the forests of the Yucatán Peninsula.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ocellated_turkey_%28Meleagris_ocellata%29_male_Peten.jpg/960px-Ocellated_turkey_%28Meleagris_ocellata%29_male_Peten.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16382,
+    "common_name": "Flamingo Tongue Snail",
+    "scientific_name": "Cyphoma gibbosum",
+    "category": "Mollusk",
+    "conservation_status": "Least Concern",
+    "description": "Small Caribbean sea snail whose mantle displays a leopard-spotted pattern while it grazes on soft corals.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cyphoma_gibbosum_%28living%29_2.jpg/960px-Cyphoma_gibbosum_%28living%29_2.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16383,
+    "common_name": "Red-lipped Batfish",
+    "scientific_name": "Ogcocephalus darwini",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Odd, flattened Galápagos fish that \"walks\" along the seafloor on modified fins with bright red lips.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Red-lipped_Bat_fish.jpg/960px-Red-lipped_Bat_fish.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16384,
+    "common_name": "Goblin Shark",
+    "scientific_name": "Mitsukurina owstoni",
+    "category": "Shark",
+    "conservation_status": "Least Concern",
+    "description": "Deep-sea shark with a blade-like snout and jaws that snap forward to seize prey.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Goblin_shark_size.svg/960px-Goblin_shark_size.svg.png",
+    "endemic": false
+  },
+  {
+    "id": 16385,
+    "common_name": "Frilled Shark",
+    "scientific_name": "Chlamydoselachus anguineus",
+    "category": "Shark",
+    "conservation_status": "Least Concern",
+    "description": "Eel-like, primitive shark from deep ocean waters with frilled, comb-like gill slits.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Chlamydoselachus_anguineus1.jpg/960px-Chlamydoselachus_anguineus1.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16386,
+    "common_name": "Blue Dragon Sea Slug",
+    "scientific_name": "Glaucus atlanticus",
+    "category": "Mollusk",
+    "conservation_status": "Least Concern",
+    "description": "Tiny pelagic nudibranch that floats upside-down, storing stinging cells stolen from Portuguese man o' war.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Glaucus_atlanticus_1_cropped.jpg/960px-Glaucus_atlanticus_1_cropped.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16387,
+    "common_name": "Vampire Squid",
+    "scientific_name": "Vampyroteuthis infernalis",
+    "category": "Cephalopod",
+    "conservation_status": "Least Concern",
+    "description": "Deep-sea cephalopod that cloaks itself in a webbed, cape-like mantle instead of ink when threatened.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Vampyroteuthis_illustration.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16388,
+    "common_name": "Dumbo Octopus",
+    "scientific_name": "Grimpoteuthis sp.",
+    "category": "Cephalopod",
+    "conservation_status": "Least Concern",
+    "description": "Deepest-living octopus known, flapping ear-like fins to drift gracefully above the abyssal floor.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dumbo-hires_%28cropped%29.jpg/960px-Dumbo-hires_%28cropped%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16389,
+    "common_name": "Colossal Squid",
+    "scientific_name": "Mesonychoteuthis hamiltoni",
+    "category": "Cephalopod",
+    "conservation_status": "Least Concern",
+    "description": "The heaviest invertebrate known, armed with swiveling hooks on its tentacles in the Southern Ocean depths.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Colossalsquid.png/960px-Colossalsquid.png",
+    "endemic": false
+  },
+  {
+    "id": 16390,
+    "common_name": "Japanese Spider Crab",
+    "scientific_name": "Macrocheira kaempferi",
+    "category": "Crustacean",
+    "conservation_status": "Least Concern",
+    "description": "Largest-known arthropod by leg span, scuttling across cold, deep waters off the Japanese coast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Macrocheira_kaempferi.jpg/960px-Macrocheira_kaempferi.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16391,
+    "common_name": "Coconut Crab",
+    "scientific_name": "Birgus latro",
+    "category": "Crustacean",
+    "conservation_status": "Vulnerable",
+    "description": "World's largest land-living arthropod, powerful enough to crack open coconuts with its claws.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Coconut_Crab_Birgus_latro.jpg/960px-Coconut_Crab_Birgus_latro.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16392,
+    "common_name": "Peacock Mantis Shrimp",
+    "scientific_name": "Odontodactylus scyllarus",
+    "category": "Crustacean",
+    "conservation_status": "Least Concern",
+    "description": "Vividly colored reef predator that strikes prey with some of the fastest limb movements in nature.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Odontodactylus_scyllarus_R%C3%A9union.jpg/960px-Odontodactylus_scyllarus_R%C3%A9union.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16393,
+    "common_name": "Yeti Crab",
+    "scientific_name": "Kiwa hirsuta",
+    "category": "Crustacean",
+    "conservation_status": "Least Concern",
+    "description": "Blind crab covered in silky bristle-like setae, found clustered around deep hydrothermal vents.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Galath%C3%A9e_y%C3%A9ti%2C_un_habitant_des_profondeurs_abyssales_%28Ifremer_00569-68091_-_25272%29.jpg/960px-Galath%C3%A9e_y%C3%A9ti%2C_un_habitant_des_profondeurs_abyssales_%28Ifremer_00569-68091_-_25272%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16394,
+    "common_name": "Numbat",
+    "scientific_name": "Myrmecobius fasciatus",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Small striped marsupial that feeds almost exclusively on termites using a long sticky tongue.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg/960px-Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16395,
+    "common_name": "Bilby",
+    "scientific_name": "Macrotis lagotis",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Rabbit-eared, burrowing marsupial that has become a conservation icon of the Australian outback.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bilby.png/960px-Bilby.png",
+    "endemic": false
+  },
+  {
+    "id": 16396,
+    "common_name": "Spotted-tailed Quoll",
+    "scientific_name": "Dasyurus maculatus",
+    "category": "Mammal",
+    "conservation_status": "Near Threatened",
+    "description": "Australia's largest surviving carnivorous marsupial, hunting alone through forest at night.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dasyurus_maculatus_398569942.jpg/960px-Dasyurus_maculatus_398569942.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16397,
+    "common_name": "Honey Badger",
+    "scientific_name": "Mellivora capensis",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Fearless, thick-skinned mustelid renowned for raiding beehives and standing up to far larger predators.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Honey_Badger.jpg/960px-Honey_Badger.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16398,
+    "common_name": "Serval",
+    "scientific_name": "Leptailurus serval",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Long-legged wild cat that leaps high above grass to pounce on rodents and birds.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Servalcropped.png/960px-Servalcropped.png",
+    "endemic": false
+  },
+  {
+    "id": 16399,
+    "common_name": "Margay",
+    "scientific_name": "Leopardus wiedii",
+    "category": "Mammal",
+    "conservation_status": "Near Threatened",
+    "description": "Agile, tree-dwelling wild cat able to rotate its ankles to climb down trunks headfirst.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Margay_in_Costa_Rica.jpg/960px-Margay_in_Costa_Rica.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16400,
+    "common_name": "Ocelot",
+    "scientific_name": "Leopardus pardalis",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Medium-sized spotted cat that hunts alone through dense understory across the Americas.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16401,
+    "common_name": "Jaguarundi",
+    "scientific_name": "Herpailurus yagouaroundi",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Slender, otter-like wild cat with a uniform coat, active by day unlike most small cats.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Puma_yagouaroundi.jpg/960px-Puma_yagouaroundi.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16402,
+    "common_name": "Addax",
+    "scientific_name": "Addax nasomaculatus",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "Pale, spiral-horned desert antelope superbly adapted to the driest reaches of the Sahara.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/960px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16403,
+    "common_name": "Hirola",
+    "scientific_name": "Beatragus hunteri",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "World's most endangered antelope, restricted to a sliver of grassland on the Kenya-Somalia border.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Damaliscus_hunteri_The_book_of_antelopes_%281894%29.png",
+    "endemic": false
+  },
+  {
+    "id": 16404,
+    "common_name": "Nilgai",
+    "scientific_name": "Boselaphus tragocamelus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "India's largest antelope, a stout blue-grey bovid common across the subcontinent's plains.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nilgai_%28Boselaphus_tragocamelus%29_male.jpg/960px-Nilgai_%28Boselaphus_tragocamelus%29_male.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16405,
+    "common_name": "Babirusa",
+    "scientific_name": "Babyrousa babyrussa",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Sulawesi's strange pig whose upper tusks curve backward, sometimes piercing its own skull.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hirscheber1a.jpg/960px-Hirscheber1a.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16406,
+    "common_name": "Visayan Warty Pig",
+    "scientific_name": "Sus cebifrons",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "Bristle-maned wild pig now confined to fragments of forest on two Philippine islands.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/VisayanWartyPig01.jpg/960px-VisayanWartyPig01.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16407,
+    "common_name": "Mountain Tapir",
+    "scientific_name": "Tapirus pinchaque",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Smallest and only high-altitude tapir species, browsing cloud forest and páramo of the northern Andes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tapirus_pinchaque_portrait.jpg/960px-Tapirus_pinchaque_portrait.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16408,
+    "common_name": "Patagonian Mara",
+    "scientific_name": "Dolichotis patagonum",
+    "category": "Mammal",
+    "conservation_status": "Near Threatened",
+    "description": "Long-legged, rabbit-like rodent that bounds across open Patagonian steppe in monogamous pairs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dolichotis_patagonum_99386074.jpg/960px-Dolichotis_patagonum_99386074.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16409,
+    "common_name": "Central American Agouti",
+    "scientific_name": "Dasyprocta punctata",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Large forest rodent whose caching of seeds makes it a key disperser of tropical trees.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Central_American_agouti_%28Dasyprocta_punctata%29_Paz_de_las_Aves.jpg/960px-Central_American_agouti_%28Dasyprocta_punctata%29_Paz_de_las_Aves.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16410,
+    "common_name": "White-nosed Coati",
+    "scientific_name": "Nasua narica",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Long-snouted, ring-tailed relative of the raccoon that forages in noisy bands through the day.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WNCoati_Alajuela_CR.png/960px-WNCoati_Alajuela_CR.png",
+    "endemic": false
+  },
+  {
+    "id": 16411,
+    "common_name": "Kinkajou",
+    "scientific_name": "Potos flavus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Golden, prehensile-tailed rainforest mammal that feeds on nectar and fruit high in the canopy at night.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Potos_flavus_%288973438737%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16412,
+    "common_name": "Tayra",
+    "scientific_name": "Eira barbara",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Large, energetic weasel relative that forages both on the ground and high in the trees.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tayra_-_Male%2C_Brazil_%28cropped%29.jpg/960px-Tayra_-_Male%2C_Brazil_%28cropped%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16413,
+    "common_name": "Common Genet",
+    "scientific_name": "Genetta genetta",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Slender, spotted nocturnal carnivore that moves through trees and scrub with cat-like agility.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/A_female_common_genet_in_the_dining_room%2C_Satao_Camp%2C_Tsavo_East.jpg/960px-A_female_common_genet_in_the_dining_room%2C_Satao_Camp%2C_Tsavo_East.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16414,
+    "common_name": "African Civet",
+    "scientific_name": "Civettictis civetta",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Large, masked nocturnal civet whose musky scent gland secretions were historically prized in perfumery.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16415,
+    "common_name": "Bat-eared Fox",
+    "scientific_name": "Otocyon megalotis",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Small insectivorous fox whose oversized ears pinpoint termites and beetle larvae underground.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Otocyon_megalotis_-_Etosha_2014.jpg/960px-Otocyon_megalotis_-_Etosha_2014.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16416,
+    "common_name": "Raccoon Dog",
+    "scientific_name": "Nyctereutes procyonoides",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Stocky canid resembling a raccoon that is one of the few dog relatives to hibernate.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nyctereutes.png/960px-Nyctereutes.png",
+    "endemic": false
+  },
+  {
+    "id": 16417,
+    "common_name": "Slow Loris",
+    "scientific_name": "Nycticebus coucang",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Slow-moving nocturnal primate whose bite delivers a rare venomous toxin among mammals.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nycticebus_coucang_002.jpg/960px-Nycticebus_coucang_002.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16418,
+    "common_name": "Sunda Colugo",
+    "scientific_name": "Galeopterus variegatus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Gliding mammal covered in a wide skin membrane, sailing over 100 meters between forest trees.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kaguaani_02.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16419,
+    "common_name": "Giant Flying Squirrel",
+    "scientific_name": "Petaurista petaurista",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Large gliding rodent that spreads a furred membrane to soar silently between forest trees at night.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Petaurista_petaurista.JPG/960px-Petaurista_petaurista.JPG",
+    "endemic": false
+  },
+  {
+    "id": 16420,
+    "common_name": "Lesser Egyptian Jerboa",
+    "scientific_name": "Jaculus jaculus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Long-tailed desert rodent that bounds on greatly elongated hind legs across sand and scrub.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jaculus_jaculus.jpg/960px-Jaculus_jaculus.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16421,
+    "common_name": "Springhare",
+    "scientific_name": "Pedetes capensis",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Kangaroo-like rodent that hops on powerful hind legs across open African savanna at night.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Spring_Hare_%28Pedetes_capensis%29_%286042009463%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16422,
+    "common_name": "Long-eared Jerboa",
+    "scientific_name": "Euchoreutes naso",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Desert rodent with ears larger than its own head, hopping across the Gobi's gravel plains at night.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Euchoreutes_naso.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16423,
+    "common_name": "Silky Anteater",
+    "scientific_name": "Cyclopes didactylus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Smallest anteater species, a golden-furred, nocturnal specialist that lives entirely in the trees.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Silky_Anteater.jpg/960px-Silky_Anteater.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16424,
+    "common_name": "Northern Tamandua",
+    "scientific_name": "Tamandua mexicana",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Medium-sized anteater with a prehensile tail, equally at home climbing trees or foraging on the ground.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/DirkvdM_tamandua.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16425,
+    "common_name": "Brown-throated Sloth",
+    "scientific_name": "Bradypus variegatus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "One of the slowest mammals alive, hosting algae in its fur that provides camouflage in the canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bradypus.jpg/960px-Bradypus.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16426,
+    "common_name": "Silky Sifaka",
+    "scientific_name": "Propithecus candidus",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "One of the rarest primates on Earth, a snow-white lemur confined to Madagascar's northeastern rainforest.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Propithecus_candidus_001.jpg/960px-Propithecus_candidus_001.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16427,
+    "common_name": "Black Lemur",
+    "scientific_name": "Eulemur macaco",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Strikingly dimorphic lemur in which males are jet black and females a rich chestnut brown.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Black_Lemur_Lemur.jpg/960px-Black_Lemur_Lemur.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16428,
+    "common_name": "Gray Mouse Lemur",
+    "scientific_name": "Microcebus murinus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "One of the world's smallest primates, foraging alone through Madagascar's forest understory at night.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/L%C3%A9mur_rat%C3%B3n_gris_%28Microcebus_murinus%29%2C_Parque_Nacional_de_Lokobe%2C_Nosy_Be%2C_Madagascar%2C_2025-09-21%2C_DD_83.jpg/960px-L%C3%A9mur_rat%C3%B3n_gris_%28Microcebus_murinus%29%2C_Parque_Nacional_de_Lokobe%2C_Nosy_Be%2C_Madagascar%2C_2025-09-21%2C_DD_83.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16429,
+    "common_name": "Ring-tailed Vontsira",
+    "scientific_name": "Galidia elegans",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Madagascar's most familiar carnivore, a russet mongoose relative that forages along forest streams.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ring-tailed_vontsira_%28Galidia_elegans%29.jpg/960px-Ring-tailed_vontsira_%28Galidia_elegans%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16430,
+    "common_name": "Greater Tenrec",
+    "scientific_name": "Tenrec ecaudatus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "The world's largest tenrec, a spiny insectivore that raises the biggest litters of any mammal.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tanrek.jpg/960px-Tanrek.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16431,
+    "common_name": "Lowland Streaked Tenrec",
+    "scientific_name": "Hemicentetes semispinosus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Brightly striped tenrec that communicates by vibrating specialized quills on its back.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg/960px-Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16432,
+    "common_name": "Hottentot Golden Mole",
+    "scientific_name": "Amblysomus hottentotus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Nearly blind, velvet-furred burrower that \"swims\" through loose soil hunting earthworms.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg/960px-Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16433,
+    "common_name": "Star-nosed Mole",
+    "scientific_name": "Condylura cristata",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Wetland burrower whose fleshy nasal tentacles form the fastest-touch sensory organ known.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Condylura.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16434,
+    "common_name": "Pyrenean Desman",
+    "scientific_name": "Galemys pyrenaicus",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Semi-aquatic insectivore with a flexible trunk-like snout, restricted to fast mountain streams.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Galemys_pyrenaicus_01_by-dpc.jpg/960px-Galemys_pyrenaicus_01_by-dpc.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16435,
+    "common_name": "Plateau Pika",
+    "scientific_name": "Ochotona curzoniae",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Small, tailless relative of rabbits whose burrows are a keystone habitat across the Tibetan Plateau.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plateau_pika_of_the_Tibetan_Plateau.jpg/960px-Plateau_pika_of_the_Tibetan_Plateau.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16436,
+    "common_name": "Saola",
+    "scientific_name": "Pseudoryx nghetinhensis",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "The 'Asian unicorn', a forest bovid so rare it was only discovered by science in 1992.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pseudoryx_nghetinhensis%2C_b.PNG",
+    "endemic": false
+  },
+  {
+    "id": 16437,
+    "common_name": "Kouprey",
+    "scientific_name": "Bos sauveli",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "Elusive wild forest ox possibly extinct in the wild, last confirmed in Cambodia decades ago.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bos_sauveli_distribution.svg/960px-Bos_sauveli_distribution.svg.png",
+    "endemic": false
+  },
+  {
+    "id": 16438,
+    "common_name": "Baird's Tapir",
+    "scientific_name": "Tapirus bairdii",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Largest land mammal native to Central America, wading through rivers and dense lowland forest.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Baird%27s_tapir_mother_with_baby_%2892151%29.jpg/960px-Baird%27s_tapir_mother_with_baby_%2892151%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16439,
+    "common_name": "Spotted Cuscus",
+    "scientific_name": "Spilocuscus maculatus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Slow-moving, prehensile-tailed marsupial with a blotchy coat that camouflages it in New Guinea's canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Phalanger_maculatus_%28male%29_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC03051.JPG/960px-Phalanger_maculatus_%28male%29_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC03051.JPG",
+    "endemic": false
+  },
+  {
+    "id": 16440,
+    "common_name": "Bear Cuscus",
+    "scientific_name": "Ailurops ursinus",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Large, shaggy cuscus endemic to Sulawesi that moves with slow, deliberate climbs through the canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg/960px-Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16441,
+    "common_name": "Common Brushtail Possum",
+    "scientific_name": "Trichosurus vulpecula",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Bushy-tailed marsupial with a golden coat variant, common in forests across Australia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Trichosurus_vulpecula_1.jpg/960px-Trichosurus_vulpecula_1.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16442,
+    "common_name": "Woylie",
+    "scientific_name": "Bettongia penicillata",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "Small rat-kangaroo that spreads fungal spores through the soil, a keystone ecosystem engineer.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bettongia_penicillata_%28Woylie%291.jpg/960px-Bettongia_penicillata_%28Woylie%291.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16443,
+    "common_name": "Matschie's Tree Kangaroo",
+    "scientific_name": "Dendrolagus matschiei",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Rust-colored tree-dwelling kangaroo that climbs the cloud forests of the Huon Peninsula.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg/960px-Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16444,
+    "common_name": "Western Long-beaked Echidna",
+    "scientific_name": "Zaglossus bruijnii",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "Large, spine-covered egg-laying mammal that probes New Guinea leaf litter with an elongated snout.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Long-beakedEchidna.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16445,
+    "common_name": "Marbled Cat",
+    "scientific_name": "Pardofelis marmorata",
+    "category": "Mammal",
+    "conservation_status": "Near Threatened",
+    "description": "Small, clouded-leopard-patterned wild cat with an exceptionally long tail used for canopy balance.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Marbled_cat_borneo.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16446,
+    "common_name": "Flat-headed Cat",
+    "scientific_name": "Prionailurus planiceps",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Semi-aquatic wild cat with partially webbed paws that hunts fish in Southeast Asian wetlands.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flat-headed_cat_1_Jim_Sanderson.JPG/960px-Flat-headed_cat_1_Jim_Sanderson.JPG",
+    "endemic": false
+  },
+  {
+    "id": 16447,
+    "common_name": "Sunda Pangolin",
+    "scientific_name": "Manis javanica",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "Southeast Asia's most heavily trafficked mammal, curling into an armored ball of overlapping scales.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pangolin_borneo.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16448,
+    "common_name": "Black-footed Cat",
+    "scientific_name": "Felis nigripes",
+    "category": "Mammal",
+    "conservation_status": "Near Threatened",
+    "description": "Africa's smallest wild cat and a formidably successful hunter relative to its tiny size.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zoo_Wuppertal_Schwarzfusskatze.jpg/960px-Zoo_Wuppertal_Schwarzfusskatze.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16449,
+    "common_name": "Southern Pudu",
+    "scientific_name": "Pudu puda",
+    "category": "Mammal",
+    "conservation_status": "Near Threatened",
+    "description": "World's smallest deer species, browsing dense temperate rainforest understory in Chile and Argentina.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Southern_pudu_%28Pudu_puda%29_male_Chiloe.jpg/960px-Southern_pudu_%28Pudu_puda%29_male_Chiloe.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16450,
+    "common_name": "Plains Viscacha",
+    "scientific_name": "Lagostomus maximus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Large, colonial burrowing rodent related to chinchillas that forms extensive warrens on the pampas.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lagostomus_maximus%2C_Plains_Viscacha.jpg/960px-Lagostomus_maximus%2C_Plains_Viscacha.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16451,
+    "common_name": "Red Uakari",
+    "scientific_name": "Cacajao ucayalii",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Bald, scarlet-faced Amazonian monkey whose flushed skin signals health to potential mates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cacajao_calvus_Solimoes_river.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16452,
+    "common_name": "Bald Uakari",
+    "scientific_name": "Cacajao calvus",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Short-tailed Amazonian monkey with a strikingly bare, crimson face amid flooded forest habitat.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cacajao_calvus_Solimoes_river.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16453,
+    "common_name": "Silvery Gibbon",
+    "scientific_name": "Hylobates moloch",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "Silver-grey gibbon confined to fragmented rainforest remnants on the island of Java.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Moloch-20210525-Ctb.jpg/960px-Moloch-20210525-Ctb.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16454,
+    "common_name": "Hoolock Gibbon",
+    "scientific_name": "Hoolock hoolock",
+    "category": "Mammal",
+    "conservation_status": "Endangered",
+    "description": "India and Myanmar's only ape, swinging through canopy with long, powerful arms and a loud duet call.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gibbon_Hoolock_de_l%27ouest.JPG/960px-Gibbon_Hoolock_de_l%27ouest.JPG",
+    "endemic": false
+  },
+  {
+    "id": 16455,
+    "common_name": "Malayan Colugo",
+    "scientific_name": "Galeopterus variegatus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Gliding mammal of Malaysian forests capable of covering long distances between trees on a single leap.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kaguaani_02.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16456,
+    "common_name": "Indian Giant Squirrel",
+    "scientific_name": "Ratufa indica",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Vividly multicolored squirrel far larger than most, making spectacular leaps across forest canopy gaps.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg/960px-Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16457,
+    "common_name": "Malabar Civet",
+    "scientific_name": "Viverra civettina",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "One of the world's rarest carnivores, possibly surviving only in a few fragments of the Western Ghats.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Malabar_large-spotted_civet_%28Viverra_civettina%29_DSCN2359_%28cut%29.jpg/960px-Malabar_large-spotted_civet_%28Viverra_civettina%29_DSCN2359_%28cut%29.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16458,
+    "common_name": "Black Crested Gibbon",
+    "scientific_name": "Nomascus concolor",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "Loud-calling gibbon in which males are solid black and females turn golden-orange with age.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Nomascus_concolor.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16459,
+    "common_name": "Black-and-white Ruffed Lemur",
+    "scientific_name": "Varecia variegata",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "One of Madagascar's largest lemurs, giving birth to litters stashed in leaf nests high in the canopy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1_black_and_white_ruffed_lemur.jpg/960px-1_black_and_white_ruffed_lemur.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16460,
+    "common_name": "Zebra Duiker",
+    "scientific_name": "Cephalophus zebra",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Small forest antelope striped like a zebra, restricted to the Upper Guinea forests of West Africa.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Cephalophus_zebra.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16461,
+    "common_name": "Pacu",
+    "scientific_name": "Piaractus brachypomus",
+    "category": "Fish",
+    "conservation_status": "Least Concern",
+    "description": "Large, round-bodied Amazonian fish related to piranha but equipped with blunt, seed-crushing teeth.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pacu_shedd.jpg/960px-Pacu_shedd.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16462,
+    "common_name": "Arapaima",
+    "scientific_name": "Arapaima gigas",
+    "category": "Fish",
+    "conservation_status": "Vulnerable",
+    "description": "One of the largest freshwater fish in the world, surfacing periodically to gulp air with a lung-like bladder.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Arapaima_gigas_at_Beijing_aquarium.JPG/960px-Arapaima_gigas_at_Beijing_aquarium.JPG",
+    "endemic": false
+  },
+  {
+    "id": 16463,
+    "common_name": "Coelacanth",
+    "scientific_name": "Latimeria chalumnae",
+    "category": "Fish",
+    "conservation_status": "Critically Endangered",
+    "description": "'Living fossil' fish thought extinct for 65 million years until a specimen was caught off South Africa in 1938.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast%2C_South_Africa%2C_on_22_November_2019.png/960px-Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast%2C_South_Africa%2C_on_22_November_2019.png",
+    "endemic": false
+  },
+  {
+    "id": 16464,
+    "common_name": "Giant Sable Antelope",
+    "scientific_name": "Hippotragus niger variani",
+    "category": "Mammal",
+    "conservation_status": "Critically Endangered",
+    "description": "Angola's national symbol, a huge black antelope with dramatically curved scimitar horns, found only in a handful of central Angolan reserves.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Giant_sable_bull_in_Luando.jpg",
+    "endemic": true
+  },
+  {
+    "id": 16465,
+    "common_name": "West African Manatee",
+    "scientific_name": "Trichechus senegalensis",
+    "category": "Mammal",
+    "conservation_status": "Vulnerable",
+    "description": "Elusive West African sirenian that grazes on coastal seagrass and mangrove roots in brackish estuaries and lagoons.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/960px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg",
+    "endemic": false
+  },
+  {
+    "id": 16466,
+    "common_name": "Klipspringer",
+    "scientific_name": "Oreotragus oreotragus",
+    "category": "Mammal",
+    "conservation_status": "Least Concern",
+    "description": "Small, sure-footed antelope that bounds on the tips of its hooves across sheer granite kopjes and rocky outcrops.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Klipspringer.jpg/960px-Klipspringer.jpg",
+    "endemic": false
   }
 ]

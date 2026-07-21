@@ -1431,6 +1431,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "A signature sighting at the Navy Pier dive site."
+      },
+      {
+        "species_id": 16386,
+        "common_name": "Blue Dragon Sea Slug",
+        "category": "Mollusk",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Glaucus_atlanticus_1_cropped.jpg/960px-Glaucus_atlanticus_1_cropped.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Occasionally washes up or is spotted floating upside-down at the surface after onshore winds."
       }
     ]
   },
@@ -2221,6 +2232,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "The most common dolphin species seen around the island."
+      },
+      {
+        "species_id": 16382,
+        "common_name": "Flamingo Tongue Snail",
+        "category": "Mollusk",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cyphoma_gibbosum_%28living%29_2.jpg/960px-Cyphoma_gibbosum_%28living%29_2.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Commonly found grazing across the surface of purple sea fans on the reef."
       }
     ]
   },
@@ -4048,6 +4070,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Lembeh is one of the best places in the world to observe ribbon eels at multiple life stages; black juveniles and blue males are found on the same dive."
+      },
+      {
+        "species_id": 16392,
+        "common_name": "Peacock Mantis Shrimp",
+        "category": "Crustacean",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Odontodactylus_scyllarus_R%C3%A9union.jpg/960px-Odontodactylus_scyllarus_R%C3%A9union.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "A muck-diving favorite, its club-like appendages strike prey with astonishing speed."
       }
     ]
   },
@@ -6044,6 +6077,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "A regular sighting in the marine park."
+      },
+      {
+        "species_id": 16463,
+        "common_name": "Coelacanth",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast%2C_South_Africa%2C_on_22_November_2019.png/960px-Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast%2C_South_Africa%2C_on_22_November_2019.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This 'living fossil' fish shelters in deep coastal canyons and caves off the Kenyan coast."
       }
     ]
   },
@@ -6824,6 +6868,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "One of the most commonly encountered turtle species in the Sea of Cortez."
+      },
+      {
+        "species_id": 16347,
+        "common_name": "Vaquita",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Vaquita_size.svg/960px-Vaquita_size.svg.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "A vanishingly rare sighting; fewer than a handful of individuals are thought to remain in the northern Gulf."
       }
     ]
   },
@@ -7437,6 +7492,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Seen swirling around cleaning stations alongside other ray species."
+      },
+      {
+        "species_id": 16387,
+        "common_name": "Vampire Squid",
+        "category": "Cephalopod",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Vampyroteuthis_illustration.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Inhabits the oxygen-minimum zone far below the seamount, rarely observed except by deep submersibles."
       }
     ]
   },
@@ -7504,6 +7570,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "An occasional encounter amid the extraordinary shark diversity here."
+      },
+      {
+        "species_id": 16388,
+        "common_name": "Dumbo Octopus",
+        "category": "Cephalopod",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dumbo-hires_%28cropped%29.jpg/960px-Dumbo-hires_%28cropped%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Flaps ear-like fins to drift above the abyssal plain well beyond normal diving depth."
       }
     ]
   },
@@ -8920,6 +8997,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "34 species recorded here — more than almost anywhere else on Earth."
+      },
+      {
+        "species_id": 16391,
+        "common_name": "Coconut Crab",
+        "category": "Crustacean",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Coconut_Crab_Birgus_latro.jpg/960px-Coconut_Crab_Birgus_latro.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "The island's giant land crabs are famous for climbing palms and cracking open coconuts."
       }
     ]
   },
@@ -11766,6 +11854,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Green sea turtles are commonly found on the reefs and rock formations of the Ryukyu Islands year-round."
+      },
+      {
+        "species_id": 16385,
+        "common_name": "Frilled Shark",
+        "category": "Shark",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Chlamydoselachus_anguineus1.jpg/960px-Chlamydoselachus_anguineus1.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This primitive, eel-like shark inhabits deep drop-offs beyond the reef wall."
       }
     ]
   },
@@ -11833,6 +11932,28 @@
         "end_month": 10,
         "likelihood": "likely",
         "notes": "Schools gather at a famous site known as the \"tuna cave\" during the warmer diving season."
+      },
+      {
+        "species_id": 16384,
+        "common_name": "Goblin Shark",
+        "category": "Shark",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Goblin_shark_size.svg/960px-Goblin_shark_size.svg.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "A rarely encountered deep-water shark occasionally taken in trenches near the islands."
+      },
+      {
+        "species_id": 16390,
+        "common_name": "Japanese Spider Crab",
+        "category": "Crustacean",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Macrocheira_kaempferi.jpg/960px-Macrocheira_kaempferi.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Adults with legspans over three meters are occasionally encountered on deep, cold rocky slopes."
       }
     ]
   },
@@ -13843,6 +13964,17 @@
         "end_month": 4,
         "likelihood": "likely",
         "notes": "Striking black-and-white dolphins arrive in mid-November to breed in the sheltered gulfs."
+      },
+      {
+        "species_id": 16450,
+        "common_name": "Plains Viscacha",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lagostomus_maximus%2C_Plains_Viscacha.jpg/960px-Lagostomus_maximus%2C_Plains_Viscacha.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Large colonial burrows and this rodent's distinctive whiskered face mark the open steppe here."
       }
     ]
   },
@@ -13910,6 +14042,28 @@
         "end_month": 3,
         "likelihood": "likely",
         "notes": "Curious baleen whales often approach boats in Antarctic waters."
+      },
+      {
+        "species_id": 16389,
+        "common_name": "Colossal Squid",
+        "category": "Cephalopod",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Colossalsquid.png/960px-Colossalsquid.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The heaviest invertebrate known hunts in the frigid deep waters of the Southern Ocean nearby."
+      },
+      {
+        "species_id": 16393,
+        "common_name": "Yeti Crab",
+        "category": "Crustacean",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Galath%C3%A9e_y%C3%A9ti%2C_un_habitant_des_profondeurs_abyssales_%28Ifremer_00569-68091_-_25272%29.jpg/960px-Galath%C3%A9e_y%C3%A9ti%2C_un_habitant_des_profondeurs_abyssales_%28Ifremer_00569-68091_-_25272%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Bristled white crabs cluster around deep hydrothermal vent fields in the surrounding ocean trenches."
       }
     ]
   },
@@ -19670,6 +19824,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Eagle rays and marble rays are seen gliding past the vertical wall on current-driven dives."
+      },
+      {
+        "species_id": 16383,
+        "common_name": "Red-lipped Batfish",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Red-lipped_Bat_fish.jpg/960px-Red-lipped_Bat_fish.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Rests on the seafloor, using modified fins to \"walk\" rather than swim."
       }
     ]
   },
@@ -22717,6 +22882,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Leopards are regularly seen draped over acacia branches in the Seronera Valley, one of the best leopard-viewing areas in Africa."
+      },
+      {
+        "species_id": 16414,
+        "common_name": "African Civet",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Civettictis_civetta_11.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "A large nocturnal civet occasionally crosses tracks at night with its distinctive masked face."
       }
     ]
   },
@@ -22795,6 +22971,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "The Mara's riverine forests along the Talek and Mara rivers hold some of East Africa's most habituated and reliably-seen leopards."
+      },
+      {
+        "species_id": 16398,
+        "common_name": "Serval",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Servalcropped.png/960px-Servalcropped.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Its exceptionally long legs let it leap high above the grass to pounce on rodents."
       }
     ]
   },
@@ -22951,6 +23138,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Impala herds are among the most visible prey animals throughout the Amboseli ecosystem."
+      },
+      {
+        "species_id": 16357,
+        "common_name": "Jackson's Chameleon",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jackson%27s_Chameleon_2_edit1.jpg/960px-Jackson%27s_Chameleon_2_edit1.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Three-horned males patrol highland scrub near the park margins."
       }
     ]
   },
@@ -23263,6 +23461,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Kori Bustards are frequently seen in Samburu's open scrub; the large males are particularly conspicuous in the dry river terraces near Archer's Post."
+      },
+      {
+        "species_id": 16341,
+        "common_name": "Kirk's Dik-dik",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Madoqua_kirkii_-_male_%28Namutoni%29.jpg/960px-Madoqua_kirkii_-_male_%28Namutoni%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Monogamous pairs are frequently seen darting through thickets along the reserve tracks."
       }
     ]
   },
@@ -23598,6 +23807,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Buffalo herds enter forest clearings and woodland edges within the park."
+      },
+      {
+        "species_id": 16346,
+        "common_name": "Black-and-white Colobus",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Colubusmonkey.JPG/960px-Colubusmonkey.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Troops leap dramatically between canopy gaps throughout the montane forest."
       }
     ]
   },
@@ -24010,6 +24230,28 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Enormous buffalo herds of hundreds are a daily sight throughout the park's savanna."
+      },
+      {
+        "species_id": 16339,
+        "common_name": "Ground Pangolin",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Manis_temminckii_%2829645803646%29.jpg/960px-Manis_temminckii_%2829645803646%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "A rarely seen nocturnal insectivore; night drives occasionally turn one up foraging for ants."
+      },
+      {
+        "species_id": 16413,
+        "common_name": "Common Genet",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/A_female_common_genet_in_the_dining_room%2C_Satao_Camp%2C_Tsavo_East.jpg/960px-A_female_common_genet_in_the_dining_room%2C_Satao_Camp%2C_Tsavo_East.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This slender, spotted nocturnal hunter is sometimes caught in spotlight along night drives."
       }
     ]
   },
@@ -24211,6 +24453,28 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Spotted hyena clans were reintroduced and are now thriving; active on night drives."
+      },
+      {
+        "species_id": 16359,
+        "common_name": "Armadillo Girdled Lizard",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ouroborus_cataphractus_29188261.jpg/960px-Ouroborus_cataphractus_29188261.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Shelters in rocky crevices, curling tail-to-mouth into an armored ring when disturbed."
+      },
+      {
+        "species_id": 16432,
+        "common_name": "Hottentot Golden Mole",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg/960px-Amblysomus_hottentotus_%28Palmiet_Nature_Reserve%2C_South_Africa_East_Coast%29_2.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Nearly blind and rarely seen above ground, it \"swims\" through loose soil hunting earthworms."
       }
     ]
   },
@@ -24300,6 +24564,28 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "The gemsbok is the defining herbivore of the Kalahari's red dunes; black-maned Kalahari lions hunting gemsbok is one of the park's signature sights."
+      },
+      {
+        "species_id": 16397,
+        "common_name": "Honey Badger",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Honey_Badger.jpg/960px-Honey_Badger.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Fearless and tenacious, it is occasionally seen digging out scorpions and rodents in the dunes."
+      },
+      {
+        "species_id": 16448,
+        "common_name": "Black-footed Cat",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zoo_Wuppertal_Schwarzfusskatze.jpg/960px-Zoo_Wuppertal_Schwarzfusskatze.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Africa's smallest wild cat is a formidable nocturnal hunter, rarely seen despite its high hunting success rate."
       }
     ]
   },
@@ -25341,6 +25627,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Common elands are regularly seen in the woodland bordering the Etosha pan; bulls in small groups, cows in larger herds."
+      },
+      {
+        "species_id": 16421,
+        "common_name": "Springhare",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Spring_Hare_%28Pedetes_capensis%29_%286042009463%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This kangaroo-like rodent hops across open grassland after dark, eyes flashing in torchlight."
       }
     ]
   },
@@ -25998,6 +26295,61 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Ranomafana holds Milne-Edwards' sifaka rather than Verreaux's; if present at edges of the dry corridor species' range, sightings are rare."
+      },
+      {
+        "species_id": 16355,
+        "common_name": "Giant Leaf-tailed Gecko",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Giant_Leaf-tailed_Gecko%2C_Nosy_Mangabe%2C_Madagascar.jpg/960px-Giant_Leaf-tailed_Gecko%2C_Nosy_Mangabe%2C_Madagascar.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Motionless against bark by day, this gecko's outline all but vanishes among the lichen."
+      },
+      {
+        "species_id": 16356,
+        "common_name": "Satanic Leaf-tailed Gecko",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Uroplatus_phantasticus_12893423.jpg/960px-Uroplatus_phantasticus_12893423.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Guides find this masterful mimic curled among the leaf litter on night walks."
+      },
+      {
+        "species_id": 16428,
+        "common_name": "Gray Mouse Lemur",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/L%C3%A9mur_rat%C3%B3n_gris_%28Microcebus_murinus%29%2C_Parque_Nacional_de_Lokobe%2C_Nosy_Be%2C_Madagascar%2C_2025-09-21%2C_DD_83.jpg/960px-L%C3%A9mur_rat%C3%B3n_gris_%28Microcebus_murinus%29%2C_Parque_Nacional_de_Lokobe%2C_Nosy_Be%2C_Madagascar%2C_2025-09-21%2C_DD_83.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "One of the smallest primates on Earth, spotted with headlamps darting through the understory at night."
+      },
+      {
+        "species_id": 16429,
+        "common_name": "Ring-tailed Vontsira",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ring-tailed_vontsira_%28Galidia_elegans%29.jpg/960px-Ring-tailed_vontsira_%28Galidia_elegans%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Madagascar's most familiar mongoose relative forages along forest streams by day."
+      },
+      {
+        "species_id": 16431,
+        "common_name": "Lowland Streaked Tenrec",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg/960px-Lowland_Streaked_Tenrec%2C_Mantadia%2C_Madagascar.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Rustles through leaf litter, communicating with other tenrecs by vibrating specialized quills."
       }
     ]
   },
@@ -26087,6 +26439,39 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Aye-ayes are present in Andasibe-Mantadia; night walks in the Mantadia sector offer the best prospects, as they forage in the canopy for wood-boring grubs."
+      },
+      {
+        "species_id": 16358,
+        "common_name": "Parson's Chameleon",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Calumma_Parsonii_Ste_Marie_Madagascar.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the largest chameleons on Earth, moving with deliberate slowness through mid-canopy branches."
+      },
+      {
+        "species_id": 16430,
+        "common_name": "Greater Tenrec",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tanrek.jpg/960px-Tanrek.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This spiny insectivore forages through leaf litter at night, raising the largest litters of any mammal."
+      },
+      {
+        "species_id": 16459,
+        "common_name": "Black-and-white Ruffed Lemur",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1_black_and_white_ruffed_lemur.jpg/960px-1_black_and_white_ruffed_lemur.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Loud, resonant calls announce this large lemur moving through the reserve canopy at dawn."
       }
     ]
   },
@@ -26176,6 +26561,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Isalo NP is a prime location for Verreaux's Sifaka; these white dancing lemurs are seen daily in the canyon vegetation, and their sideways bounding across rocky clearings is unmissable."
+      },
+      {
+        "species_id": 16362,
+        "common_name": "Radiated Tortoise",
+        "category": "Turtle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Radiated_tortoise_%28Astrochelys_radiata%29_Tsimanampetsotsa.jpg/960px-Radiated_tortoise_%28Astrochelys_radiata%29_Tsimanampetsotsa.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Starburst-shelled tortoises graze slowly through the park's spiny forest habitat."
       }
     ]
   },
@@ -26243,6 +26639,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Cheetah are present on the open Yatta Plateau plains in the northern section of the park."
+      },
+      {
+        "species_id": 16403,
+        "common_name": "Hirola",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Damaliscus_hunteri_The_book_of_antelopes_%281894%29.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The world's most endangered antelope persists in only a few scattered grassland populations nearby."
       }
     ]
   },
@@ -26299,6 +26706,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Ranthambore's rocky hills and lakeside cliffs hold a healthy leopard population that thrives alongside the reserve's tigers."
+      },
+      {
+        "species_id": 16404,
+        "common_name": "Nilgai",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nilgai_%28Boselaphus_tragocamelus%29_male.jpg/960px-Nilgai_%28Boselaphus_tragocamelus%29_male.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "India's largest antelope is a frequent sight grazing the park's open grassland."
       }
     ]
   },
@@ -26767,6 +27185,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Gir has one of India's highest leopard densities, living alongside the Asiatic lion in the same forest."
+      },
+      {
+        "species_id": 16363,
+        "common_name": "Indian Star Tortoise",
+        "category": "Turtle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Indian_star_tortoise_%282016%29_7365.jpg/960px-Indian_star_tortoise_%282016%29_7365.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Found grazing dry scrub and grassland within the sanctuary boundaries."
       }
     ]
   },
@@ -26845,6 +27274,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Leopards share Nagarhole's deciduous forest with tigers, dholes, and elephants, often seen along the Kabini backwaters."
+      },
+      {
+        "species_id": 16456,
+        "common_name": "Indian Giant Squirrel",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg/960px-Indian_giant_squirrel_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "This vividly multicolored squirrel makes spectacular leaps across canopy gaps."
       }
     ]
   },
@@ -26923,6 +27363,50 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Leopards move through Periyar's hill forests, occasionally seen crossing forest roads at dawn and dusk."
+      },
+      {
+        "species_id": 16345,
+        "common_name": "Lion-tailed Macaque",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Lion-tailed_Macaque_in_Bristol_Zoo.jpg/960px-Lion-tailed_Macaque_in_Bristol_Zoo.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Silver-maned troops move through the reserve's tall evergreen forest canopy."
+      },
+      {
+        "species_id": 16367,
+        "common_name": "Purple Frog",
+        "category": "Amphibian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nasikabatrachus_sahyadrensis.jpg/960px-Nasikabatrachus_sahyadrensis.jpg",
+        "endemic": false,
+        "start_month": 6,
+        "end_month": 7,
+        "likelihood": "possible",
+        "notes": "Surfaces from underground burrows for only a couple of monsoon weeks each year to breed."
+      },
+      {
+        "species_id": 16376,
+        "common_name": "Great Hornbill",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Great_hornbill_Photograph_by_Shantanu_Kuveskar.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "The whoosh of this hornbill's wingbeats often announces its presence before it is seen."
+      },
+      {
+        "species_id": 16457,
+        "common_name": "Malabar Civet",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Malabar_large-spotted_civet_%28Viverra_civettina%29_DSCN2359_%28cut%29.jpg/960px-Malabar_large-spotted_civet_%28Viverra_civettina%29_DSCN2359_%28cut%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the rarest carnivores on Earth, possibly surviving in only a few Western Ghats forest fragments."
       }
     ]
   },
@@ -27280,6 +27764,17 @@
         "end_month": 3,
         "likelihood": "likely",
         "notes": "Ospreys winter at Khao Yai's reservoirs and are among the most spectacular wintering raptors."
+      },
+      {
+        "species_id": 16337,
+        "common_name": "Binturong",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Binturong_in_Overloon.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Occasionally spotted moving slowly through the forest canopy at dusk in Khao Yai."
       }
     ]
   },
@@ -27503,6 +27998,28 @@
         "end_month": 12,
         "likelihood": "rare",
         "notes": "Bukit Barisan Selatan holds one of the last few Sumatran rhino populations on Earth; dense forest cover makes sightings extremely rare."
+      },
+      {
+        "species_id": 16354,
+        "common_name": "Common Flying Dragon",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Draco_volans_01.JPG/960px-Draco_volans_01.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Glides silently between trunks in the lowland forest, easy to miss unless it moves."
+      },
+      {
+        "species_id": 16447,
+        "common_name": "Sunda Pangolin",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pangolin_borneo.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Southeast Asia's most trafficked mammal is occasionally seen curled defensively along forest trails."
       }
     ]
   },
@@ -27570,6 +28087,39 @@
         "end_month": 12,
         "likelihood": "rare",
         "notes": "Taman Negara is one of the last strongholds of the critically endangered Malayan tiger; camera traps confirm their presence but sightings are exceptionally rare."
+      },
+      {
+        "species_id": 16418,
+        "common_name": "Sunda Colugo",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kaguaani_02.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Glides silently between tall trunks on a wide skin membrane at dusk."
+      },
+      {
+        "species_id": 16445,
+        "common_name": "Marbled Cat",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Marbled_cat_borneo.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This small, clouded-leopard-patterned cat uses its long tail for balance high in the canopy."
+      },
+      {
+        "species_id": 16455,
+        "common_name": "Malayan Colugo",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kaguaani_02.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This gliding mammal covers long distances between trees on a single leap at dusk."
       }
     ]
   },
@@ -27648,6 +28198,28 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "The Lower Kinabatangan is the best place in the world to see Bornean Pygmy Elephants; family herds of up to 60 animals feed along the riverbanks and are observed from river boats — an unmissable Borneo wildlife experience."
+      },
+      {
+        "species_id": 16377,
+        "common_name": "Rhinoceros Hornbill",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg/960px-Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Pairs move along the river's forested banks, their casqued bills unmistakable in flight."
+      },
+      {
+        "species_id": 16446,
+        "common_name": "Flat-headed Cat",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flat-headed_cat_1_Jim_Sanderson.JPG/960px-Flat-headed_cat_1_Jim_Sanderson.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This semi-aquatic wild cat hunts fish along the river's wetland margins."
       }
     ]
   },
@@ -27726,6 +28298,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Bornean Pygmy Elephants inhabit the primary lowland rainforest of Danum Valley; sightings of herds at salt licks and on forest trails are regularly recorded."
+      },
+      {
+        "species_id": 16417,
+        "common_name": "Slow Loris",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nycticebus_coucang_002.jpg/960px-Nycticebus_coucang_002.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This slow-moving nocturnal primate is spotted on canopy night walks, eyes glowing in torchlight."
       }
     ]
   },
@@ -27793,6 +28376,17 @@
         "end_month": 3,
         "likelihood": "likely",
         "notes": "Ospreys winter along the Pitiao River flowing through the Wolong valley."
+      },
+      {
+        "species_id": 16419,
+        "common_name": "Giant Flying Squirrel",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Petaurista_petaurista.JPG/960px-Petaurista_petaurista.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Glides between forest giants at night, spotted occasionally by spotlight."
       }
     ]
   },
@@ -27871,6 +28465,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Herds of kiang roam the open steppe across Sanjiangyuan's vast protected area."
+      },
+      {
+        "species_id": 16435,
+        "common_name": "Plateau Pika",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plateau_pika_of_the_Tibetan_Plateau.jpg/960px-Plateau_pika_of_the_Tibetan_Plateau.jpg",
+        "endemic": false,
+        "start_month": 5,
+        "end_month": 9,
+        "likelihood": "common",
+        "notes": "Colonies of these tailless burrowers dot the alpine meadows across the plateau."
       }
     ]
   },
@@ -28652,6 +29257,17 @@
         "end_month": 3,
         "likelihood": "common",
         "notes": "West Indian Manatees congregate in the warm springs and coastal rivers of the Everglades in winter; they are commonly seen from boardwalks and kayaks in Florida Bay and the park's creek systems."
+      },
+      {
+        "species_id": 16361,
+        "common_name": "Alligator Snapping Turtle",
+        "category": "Turtle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alligator_snapping_turtle.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Lurks on the bottom of dark sloughs, wiggling a worm-like tongue lure to draw in fish."
       }
     ]
   },
@@ -28719,6 +29335,17 @@
         "end_month": 4,
         "likelihood": "possible",
         "notes": "Bald eagles winter along Fontana Lake and Abrams Creek; the species is recovering in the region."
+      },
+      {
+        "species_id": 16366,
+        "common_name": "Hellbender",
+        "category": "Amphibian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hellbender.jpg/960px-Hellbender.jpg",
+        "endemic": false,
+        "start_month": 3,
+        "end_month": 10,
+        "likelihood": "possible",
+        "notes": "Hides beneath large flat rocks in cold, fast-flowing mountain streams."
       }
     ]
   },
@@ -29645,6 +30272,39 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Harpy eagles soar above Manu's intact canopy; a resident pair near the Cocha Salvador oxbow lake is monitored."
+      },
+      {
+        "species_id": 16342,
+        "common_name": "Emperor Tamarin",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tamarin_portrait.JPG/960px-Tamarin_portrait.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Small troops move through the mid-canopy of Manu's floodplain forest, often with squirrel monkeys."
+      },
+      {
+        "species_id": 16412,
+        "common_name": "Tayra",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tayra_-_Male%2C_Brazil_%28cropped%29.jpg/960px-Tayra_-_Male%2C_Brazil_%28cropped%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This large, energetic weasel relative forages both on the ground and in the canopy."
+      },
+      {
+        "species_id": 16424,
+        "common_name": "Northern Tamandua",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/DirkvdM_tamandua.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This medium anteater uses its prehensile tail to raid arboreal termite nests."
       }
     ]
   },
@@ -29723,6 +30383,17 @@
         "end_month": 9,
         "likelihood": "common",
         "notes": "The Jabiru is the Pantanal's most spectacular bird; South America's tallest flying species nests in the large trees and hunts the shallow lagoons during the dry season — groups of 10+ are commonly seen from the Transpantaneira road."
+      },
+      {
+        "species_id": 16401,
+        "common_name": "Jaguarundi",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Puma_yagouaroundi.jpg/960px-Puma_yagouaroundi.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Unlike most small cats, this slender hunter is often active during the day."
       }
     ]
   },
@@ -29801,6 +30472,17 @@
         "end_month": 9,
         "likelihood": "possible",
         "notes": "Jabiru Storks are occasionally seen in the wetland margins of Iguaçu NP; the dry-season drainage areas on both the Brazilian and Argentine sides attract them."
+      },
+      {
+        "species_id": 16410,
+        "common_name": "White-nosed Coati",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/WNCoati_Alajuela_CR.png/960px-WNCoati_Alajuela_CR.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Noisy bands forage through leaf litter along the trails throughout the day."
       }
     ]
   },
@@ -30002,6 +30684,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Harpy eagles are present in Yasuní's tall emergent trees; a nest monitored near Añangu is well-known."
+      },
+      {
+        "species_id": 16343,
+        "common_name": "Pygmy Marmoset",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dv%C3%A6rgsilkeabe_Callithrix_pygmaea.jpg/960px-Dv%C3%A6rgsilkeabe_Callithrix_pygmaea.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Tiny family groups gouge holes in specific gum trees along the forest edge."
       }
     ]
   },
@@ -30337,6 +31030,50 @@
         "end_month": 5,
         "likelihood": "possible",
         "notes": "Resplendent Quetzals occur in the highland forest above Corcovado; sightings are less frequent than in Monteverde but documented in the Cerro Pirre cloud forest."
+      },
+      {
+        "species_id": 16364,
+        "common_name": "Glass Frog",
+        "category": "Amphibian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cochranella_susatamai03.jpg",
+        "endemic": false,
+        "start_month": 5,
+        "end_month": 11,
+        "likelihood": "possible",
+        "notes": "Calls from leaves overhanging streams at night; its translucent underside reveals its beating heart."
+      },
+      {
+        "species_id": 16399,
+        "common_name": "Margay",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Margay_in_Costa_Rica.jpg/960px-Margay_in_Costa_Rica.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This nocturnal tree specialist can rotate its ankles to descend trunks headfirst."
+      },
+      {
+        "species_id": 16423,
+        "common_name": "Silky Anteater",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Silky_Anteater.jpg/960px-Silky_Anteater.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This tiny golden anteater curls tightly among vine tangles by day, nearly invisible."
+      },
+      {
+        "species_id": 16409,
+        "common_name": "Central American Agouti",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Central_American_agouti_%28Dasyprocta_punctata%29_Paz_de_las_Aves.jpg/960px-Central_American_agouti_%28Dasyprocta_punctata%29_Paz_de_las_Aves.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Common along forest trails at dawn and dusk, caching seeds beneath the leaf litter."
       }
     ]
   },
@@ -30482,6 +31219,28 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Spoonbills wade in the shallows of Tortuguero's lagoons and are seen on canal tours year-round."
+      },
+      {
+        "species_id": 16411,
+        "common_name": "Kinkajou",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Potos_flavus_%288973438737%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This golden, nectar-loving mammal is most often spotted on night walks high in the canopy."
+      },
+      {
+        "species_id": 16425,
+        "common_name": "Brown-throated Sloth",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bradypus.jpg/960px-Bradypus.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Algae-tinged fur camouflages this famously slow mammal high in the canopy."
       }
     ]
   },
@@ -30549,6 +31308,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Harpy eagles occasionally soar above Tikal's canopy; a nesting pair was confirmed in the northern sector."
+      },
+      {
+        "species_id": 16373,
+        "common_name": "King Vulture",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Urubu_rei_-_Sarcoramphus_papa.jpg/960px-Urubu_rei_-_Sarcoramphus_papa.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Soars over the jungle canopy on broad wings, drawn in by other vultures at carcasses."
       }
     ]
   },
@@ -30616,6 +31386,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Giant anteaters are present in the southern Belize lowlands and occasionally enter the reserve."
+      },
+      {
+        "species_id": 16438,
+        "common_name": "Baird's Tapir",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Baird%27s_tapir_mother_with_baby_%2892151%29.jpg/960px-Baird%27s_tapir_mother_with_baby_%2892151%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Central America's largest land mammal wades through rivers and dense lowland forest here."
       }
     ]
   },
@@ -31230,6 +32011,17 @@
         "end_month": 9,
         "likelihood": "possible",
         "notes": "Ospreys pass through the Pyrenees on spring and autumn migration."
+      },
+      {
+        "species_id": 16434,
+        "common_name": "Pyrenean Desman",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Galemys_pyrenaicus_01_by-dpc.jpg/960px-Galemys_pyrenaicus_01_by-dpc.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This semi-aquatic insectivore forages along fast, clear mountain streams at dusk."
       }
     ]
   },
@@ -31990,6 +32782,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Wolves inhabit the Dinaric forest zone of Triglav; tracks in the snow confirm their regular presence."
+      },
+      {
+        "species_id": 16369,
+        "common_name": "Olm",
+        "category": "Amphibian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Proteus_anguinus_Postojnska_Jama_Slovenija.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Blind cave salamanders persist in the flooded karst systems that riddle Slovenia's Dinaric limestone."
       }
     ]
   },
@@ -32403,6 +33206,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Emus are seen throughout Kakadu's open woodland, particularly in the dry season."
+      },
+      {
+        "species_id": 16351,
+        "common_name": "Frilled Lizard",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288692622586%29.jpg/960px-Frill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288692622586%29.jpg",
+        "endemic": false,
+        "start_month": 11,
+        "end_month": 4,
+        "likelihood": "possible",
+        "notes": "Occasionally seen sprinting bipedally across woodland trails after the wet-season rains."
       }
     ]
   },
@@ -32548,6 +33362,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Common Wombats are regularly encountered in the bush around Blue Mountains villages and campsites; they emerge at dusk to graze on grass and clover in the cleared areas near the escarpment."
+      },
+      {
+        "species_id": 16379,
+        "common_name": "Superb Lyrebird",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Superb_lyrbird_in_scrub.jpg/960px-Superb_lyrbird_in_scrub.jpg",
+        "endemic": false,
+        "start_month": 5,
+        "end_month": 8,
+        "likelihood": "possible",
+        "notes": "Males clear display mounds and mimic an astonishing range of forest sounds during the winter breeding season."
       }
     ]
   },
@@ -32582,6 +33407,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Emus are frequently seen strutting across the open landscape around the base of Uluru."
+      },
+      {
+        "species_id": 16352,
+        "common_name": "Thorny Devil",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thornydevil.jpg/960px-Thornydevil.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Slow-moving and well camouflaged among red sand and spinifex near the rock formations."
       }
     ]
   },
@@ -32694,6 +33530,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Large raptors including sea eagles are occasionally seen above the Bungle Bungle gorges."
+      },
+      {
+        "species_id": 16395,
+        "common_name": "Bilby",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bilby.png/960px-Bilby.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Large-eared, nocturnal burrower; look for its distinctive spiral diggings near spinifex."
       }
     ]
   },
@@ -32772,6 +33619,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Common Wombats are abundant in Kosciuszko NP and one of its most iconic residents; they are frequently seen grazing the subalpine meadows at dawn and dusk, and their cubic dung piles line every trail."
+      },
+      {
+        "species_id": 16396,
+        "common_name": "Spotted-tailed Quoll",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dasyurus_maculatus_398569942.jpg/960px-Dasyurus_maculatus_398569942.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Australia's largest carnivorous marsupial hunts alone through the park's forested gullies at night."
       }
     ]
   },
@@ -32861,6 +33719,17 @@
         "end_month": 4,
         "likelihood": "likely",
         "notes": "Hector's Dolphins inhabit the shallow coastal waters around Fiordland; the world's smallest and rarest dolphin is seen in the sheltered sounds and along the South Island coastline on boat trips."
+      },
+      {
+        "species_id": 16340,
+        "common_name": "Kakapo",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sirocco_full_length_portrait.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Historic Fiordland stronghold of this flightless parrot; a handful survive in managed sanctuaries nearby."
       }
     ]
   },
@@ -33629,6 +34498,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Barbary sheep are among the flagship species monitored across the plateau's sandstone formations."
+      },
+      {
+        "species_id": 16420,
+        "common_name": "Lesser Egyptian Jerboa",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jaculus_jaculus.jpg/960px-Jaculus_jaculus.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This long-legged desert rodent bounds across sand dunes and rocky scrub after dark."
       }
     ]
   },
@@ -34232,6 +35112,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Fennec fox, the world's smallest canid, inhabits the sandy desert margins of the reserve."
+      },
+      {
+        "species_id": 16402,
+        "common_name": "Addax",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/A_big_male_Addax_showing_as_the_power_of_his_horns.jpg/960px-A_big_male_Addax_showing_as_the_power_of_his_horns.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the rarest large mammals on Earth, surviving in tiny numbers in this remote desert reserve."
       }
     ]
   },
@@ -34433,6 +35324,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Springbok are the most abundant antelope species across the reserve's pans and dry valleys."
+      },
+      {
+        "species_id": 16415,
+        "common_name": "Bat-eared Fox",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Otocyon_megalotis_-_Etosha_2014.jpg/960px-Otocyon_megalotis_-_Etosha_2014.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Family groups forage for termites at dusk, their oversized ears pinpointing prey underground."
       }
     ]
   },
@@ -34901,6 +35803,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Banteng wild cattle are abundant in Ujung Kulon — one of the few places in Indonesia where significant numbers remain; seen in open forest clearings."
+      },
+      {
+        "species_id": 16453,
+        "common_name": "Silvery Gibbon",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Moloch-20210525-Ctb.jpg/960px-Moloch-20210525-Ctb.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Loud duet calls echo through the fragmented rainforest remnants of the park at dawn."
       }
     ]
   },
@@ -35101,6 +36014,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Leopards inhabit Manas's grassland-forest mosaic alongside tigers and the park's rarer endemic species."
+      },
+      {
+        "species_id": 16454,
+        "common_name": "Hoolock Gibbon",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gibbon_Hoolock_de_l%27ouest.JPG/960px-Gibbon_Hoolock_de_l%27ouest.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "This ape's loud duet calls carry across the reserve's forest canopy each morning."
       }
     ]
   },
@@ -35568,6 +36492,17 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Eastern coyotes are common throughout Acadia; their howling is frequently heard on the island at night."
+      },
+      {
+        "species_id": 16433,
+        "common_name": "Star-nosed Mole",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Condylura.jpg",
+        "endemic": false,
+        "start_month": 4,
+        "end_month": 10,
+        "likelihood": "possible",
+        "notes": "Its bizarre fleshy nasal tentacles make this wetland burrower unmistakable when glimpsed."
       }
     ]
   },
@@ -36767,6 +37702,28 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Giant anteaters are present in the forest clearings and open ground on the terra firme portions of the park."
+      },
+      {
+        "species_id": 16371,
+        "common_name": "Golden Poison Frog",
+        "category": "Amphibian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Schrecklicherpfeilgiftfrosch-01.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The most toxic frog known hops openly along the forest floor, warning off predators with its bright color."
+      },
+      {
+        "species_id": 16452,
+        "common_name": "Bald Uakari",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cacajao_calvus_Solimoes_river.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This short-tailed monkey with a strikingly bare crimson face favors flooded forest habitat."
       }
     ]
   },
@@ -36856,6 +37813,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Jaguars are present in the lower cloud forest zones of Los Nevados; camera traps document occasional visits."
+      },
+      {
+        "species_id": 16407,
+        "common_name": "Mountain Tapir",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tapirus_pinchaque_portrait.jpg/960px-Tapirus_pinchaque_portrait.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This shaggy-coated tapir browses cloud forest and páramo at high elevation."
       }
     ]
   },
@@ -37300,6 +38268,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Roseate spoonbills feed in the oxbow lakes and shallow river margins throughout Tambopata."
+      },
+      {
+        "species_id": 16400,
+        "common_name": "Ocelot",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg/960px-016_Ocelot_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Solitary and mostly nocturnal, hunting small mammals through the dense understory."
       }
     ]
   },
@@ -37844,6 +38823,39 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Giant armadillos are present in the terra firme forest of Pacaya-Samiria; nocturnal and rarely seen, but camera-trapped throughout the reserve."
+      },
+      {
+        "species_id": 16360,
+        "common_name": "Matamata",
+        "category": "Turtle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Matamata_i-SITE.jpg/960px-Matamata_i-SITE.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Lies motionless on the riverbed leaf litter, invisible until it snaps open its cavernous mouth."
+      },
+      {
+        "species_id": 16451,
+        "common_name": "Red Uakari",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cacajao_calvus_Solimoes_river.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Troops of bald, scarlet-faced monkeys move through the flooded forest canopy along the reserve's rivers."
+      },
+      {
+        "species_id": 16378,
+        "common_name": "Hoatzin",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo.jpg/960px-Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Noisy colonies of this prehistoric-looking bird perch over oxbow lakes and slow river channels."
       }
     ]
   },
@@ -38765,6 +39777,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Bush dogs are present in Jau NP; sightings of these unusual semi-aquatic pack hunters are rare but documented."
+      },
+      {
+        "species_id": 16462,
+        "common_name": "Arapaima",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Arapaima_gigas_at_Beijing_aquarium.JPG/960px-Arapaima_gigas_at_Beijing_aquarium.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the largest freshwater fish in the world surfaces periodically to gulp air in the blackwater channels."
       }
     ]
   },
@@ -38887,6 +39910,28 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Giant anteaters are present on the terra firme and mainland edge of the Anavilhanas reserve."
+      },
+      {
+        "species_id": 16348,
+        "common_name": "Amazon River Dolphin",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amazonas-Flussdelfin_Orinoko3.jpg/960px-Amazonas-Flussdelfin_Orinoko3.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Pink river dolphins surface regularly among the flooded forest channels of the Rio Negro archipelago."
+      },
+      {
+        "species_id": 16461,
+        "common_name": "Pacu",
+        "category": "Fish",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pacu_shedd.jpg/960px-Pacu_shedd.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This round-bodied relative of the piranha uses blunt teeth to crush seeds and fruit that fall into the river."
       }
     ]
   },
@@ -40087,6 +41132,17 @@
         "end_month": 3,
         "likelihood": "possible",
         "notes": "Roseate spoonbills are occasionally seen in the sheltered coastal bays of Monte Leon during the austral summer."
+      },
+      {
+        "species_id": 16408,
+        "common_name": "Patagonian Mara",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dolichotis_patagonum_99386074.jpg/960px-Dolichotis_patagonum_99386074.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Monogamous pairs bound across the open Patagonian steppe within the park."
       }
     ]
   },
@@ -40299,6 +41355,17 @@
         "end_month": 5,
         "likelihood": "common",
         "notes": "Introduced European red deer are common in the Valdivian forest of Vicente Perez Rosales."
+      },
+      {
+        "species_id": 16449,
+        "common_name": "Southern Pudu",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Southern_pudu_%28Pudu_puda%29_male_Chiloe.jpg/960px-Southern_pudu_%28Pudu_puda%29_male_Chiloe.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The world's smallest deer browses dense temperate rainforest understory here."
       }
     ]
   },
@@ -40632,6 +41699,28 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Bush dogs inhabit the pristine forest of Central Suriname NR; their webbed feet make them effective hunters in the flooded forest."
+      },
+      {
+        "species_id": 16368,
+        "common_name": "Surinam Toad",
+        "category": "Amphibian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pipa_pipa01.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Flattened, leaf-like toads drift motionless along slow blackwater streams in the reserve."
+      },
+      {
+        "species_id": 16370,
+        "common_name": "Blue Poison Dart Frog",
+        "category": "Amphibian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dendrobates_azureus_qtl1.jpg/960px-Dendrobates_azureus_qtl1.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Vivid cobalt frogs hop across the leaf litter of forest clearings and stream edges."
       }
     ]
   },
@@ -41532,6 +42621,28 @@
         "end_month": 12,
         "likelihood": "common",
         "notes": "Echidnas are abundant and frequently encountered throughout the Grampians; they shuffle along trails probing the soil for ants and termites."
+      },
+      {
+        "species_id": 16353,
+        "common_name": "Blue-tongued Skink",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Tiliqua_scincoides_tongue.jpg/960px-Tiliqua_scincoides_tongue.jpg",
+        "endemic": false,
+        "start_month": 9,
+        "end_month": 4,
+        "likelihood": "common",
+        "notes": "Regularly basks on walking trails and rocky outcrops throughout the park."
+      },
+      {
+        "species_id": 16441,
+        "common_name": "Common Brushtail Possum",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Trichosurus_vulpecula_1.jpg/960px-Trichosurus_vulpecula_1.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "This bushy-tailed marsupial is a familiar sight in the park at dusk, raiding campsites for scraps."
       }
     ]
   },
@@ -41599,6 +42710,28 @@
         "end_month": 9,
         "likelihood": "possible",
         "notes": "Echidnas are occasionally encountered in the rocky ranges and spinifex of Cape Range NP."
+      },
+      {
+        "species_id": 16394,
+        "common_name": "Numbat",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg/960px-Numbat%2C_Dryandra_Woodland%2C_Western_Australia.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This striped, termite-eating marsupial is occasionally glimpsed foraging by day in dry woodland."
+      },
+      {
+        "species_id": 16442,
+        "common_name": "Woylie",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bettongia_penicillata_%28Woylie%291.jpg/960px-Bettongia_penicillata_%28Woylie%291.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This small rat-kangaroo has been reintroduced here as part of a national recovery program."
       }
     ]
   },
@@ -42224,6 +43357,17 @@
         "end_month": 12,
         "likelihood": "likely",
         "notes": "Poyang Lake holds one of the last significant Yangtze finless porpoise populations, following the extinction of the Yangtze river dolphin."
+      },
+      {
+        "species_id": 16350,
+        "common_name": "Chinese Alligator",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/ChineseAlligator15.JPG/960px-ChineseAlligator15.JPG",
+        "endemic": false,
+        "start_month": 4,
+        "end_month": 10,
+        "likelihood": "possible",
+        "notes": "A tiny remnant population survives in reed-fringed wetlands near the lake."
       }
     ]
   },
@@ -42291,6 +43435,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "The Manchurian subspecies of red deer roams Changbaishan's forest zones."
+      },
+      {
+        "species_id": 16416,
+        "common_name": "Raccoon Dog",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nyctereutes.png/960px-Nyctereutes.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This stocky, raccoon-like canid is one of the few dog relatives that hibernates through winter."
       }
     ]
   },
@@ -42492,6 +43647,17 @@
         "end_month": 12,
         "likelihood": "possible",
         "notes": "Green peafowl, far rarer than the familiar Indian peafowl, survive in a handful of Xishuangbanna's river valleys."
+      },
+      {
+        "species_id": 16458,
+        "common_name": "Black Crested Gibbon",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Nomascus_concolor.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Males call from the canopy at dawn, their solid black coats contrasting with golden females."
       }
     ]
   },
@@ -43631,6 +44797,17 @@
         "end_month": 12,
         "likelihood": "rare",
         "notes": "Pallas's cat inhabits the park's rocky steppe terrain, rarely seen due to its camouflage and nocturnal habits."
+      },
+      {
+        "species_id": 16422,
+        "common_name": "Long-eared Jerboa",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Euchoreutes_naso.jpg",
+        "endemic": false,
+        "start_month": 4,
+        "end_month": 9,
+        "likelihood": "possible",
+        "notes": "One of the strangest rodents on Earth, its oversized ears are used to detect predators on the gravel plains."
       }
     ]
   },
@@ -52956,6 +54133,1056 @@
         "category": "Soup",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gazpacho_adorned_with_herbs.jpg/500px-Gazpacho_adorned_with_herbs.jpg",
         "description": "A chilled raw tomato and vegetable soup, born in Andalusia to survive the southern Spanish summer heat."
+      }
+    ]
+  },
+  {
+    "id": 90084,
+    "name": "Rajah Sikatuna Protected Landscape",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "lat": 9.82,
+    "lng": 124.15,
+    "description": "Lowland and karst forest reserve on Bohol island, a stronghold for one of the smallest primates on Earth.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16338,
+        "common_name": "Philippine Tarsier",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Philippine_tarsier_%28Carlito_syrichta_fraterculus%29_Bohol.jpg/960px-Philippine_tarsier_%28Carlito_syrichta_fraterculus%29_Bohol.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "This tiny, huge-eyed primate clings to saplings by day in the forest reserve, hunting insects after dark."
+      }
+    ]
+  },
+  {
+    "id": 90085,
+    "name": "Mount Apo Natural Park",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "lat": 6.99,
+    "lng": 125.27,
+    "description": "Rugged rainforest surrounding the Philippines' highest peak, and a last refuge for its largest eagle.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16372,
+        "common_name": "Philippine Eagle",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pamarayeg_IIIx2_%28cropped%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the largest eagles alive, hunting flying lemurs and monkeys through the reserve's old-growth canopy."
+      }
+    ]
+  },
+  {
+    "id": 90086,
+    "name": "North Negros Natural Park",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "lat": 10.43,
+    "lng": 123.2,
+    "description": "Rainforest reserve in the Visayas protecting some of the last habitat for the island's endemic pig species.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16406,
+        "common_name": "Visayan Warty Pig",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/VisayanWartyPig01.jpg/960px-VisayanWartyPig01.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the rarest pigs on Earth, now surviving only in scattered forest fragments here and on nearby Panay."
+      }
+    ]
+  },
+  {
+    "id": 90087,
+    "name": "Korup National Park",
+    "country": "Cameroon",
+    "region": "Central Africa",
+    "lat": 5.03,
+    "lng": 8.83,
+    "description": "One of Africa's oldest rainforests, sheltering rare primates found almost nowhere else.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16344,
+        "common_name": "Drill",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Drill_scheme.svg/960px-Drill_scheme.svg.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Large troops move through the dense forest interior, rarely straying near park trails."
+      }
+    ]
+  },
+  {
+    "id": 90088,
+    "name": "Chitwan National Park",
+    "country": "Nepal",
+    "region": "South Asia",
+    "lat": 27.53,
+    "lng": 84.35,
+    "description": "Lowland Terai reserve of riverine grassland and forest along the Rapti and Narayani rivers.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16349,
+        "common_name": "Gharial",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gharial_%28Gavialis_gangeticus%29_male.jpg/960px-Gharial_%28Gavialis_gangeticus%29_male.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "A captive-breeding and release program has restored gharials to the park's river systems."
+      }
+    ]
+  },
+  {
+    "id": 90089,
+    "name": "Xochimilco Ecological Park",
+    "country": "Mexico",
+    "region": "North America",
+    "lat": 19.28,
+    "lng": -99.1,
+    "description": "Remnant Aztec canal-and-wetland system on the edge of Mexico City, the last wild refuge of the axolotl.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16365,
+        "common_name": "Axolotl",
+        "category": "Amphibian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Axolotl_ganz.jpg/960px-Axolotl_ganz.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This neotenic salamander survives only in these shrinking, heavily polluted canal remnants."
+      }
+    ]
+  },
+  {
+    "id": 90090,
+    "name": "Calakmul Biosphere Reserve",
+    "country": "Mexico",
+    "region": "North America",
+    "lat": 18.11,
+    "lng": -89.81,
+    "description": "Vast Maya lowland rainforest reserve spanning the Yucatán Peninsula's interior.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16381,
+        "common_name": "Ocellated Turkey",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ocellated_turkey_%28Meleagris_ocellata%29_male_Peten.jpg/960px-Ocellated_turkey_%28Meleagris_ocellata%29_male_Peten.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Flocks of this iridescent turkey forage openly around the reserve's ancient ruins and clearings."
+      }
+    ]
+  },
+  {
+    "id": 90091,
+    "name": "Varirata National Park",
+    "country": "Papua New Guinea",
+    "region": "Oceania",
+    "lat": -9.43,
+    "lng": 147.35,
+    "description": "Ridge-top rainforest near Port Moresby, renowned for birds-of-paradise and New Guinea's unique mammals.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16374,
+        "common_name": "Greater Bird-of-Paradise",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Paradisaea_apoda_-Bali_Bird_Park-5.jpg/960px-Paradisaea_apoda_-Bali_Bird_Park-5.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Males display cascading golden plumes from traditional courtship perches each morning."
+      },
+      {
+        "species_id": 16375,
+        "common_name": "Victoria Crowned Pigeon",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Goura_victoria_LC0384.jpg/960px-Goura_victoria_LC0384.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of the largest pigeons on Earth, its lacy blue crest visible as it forages the forest floor."
+      },
+      {
+        "species_id": 16439,
+        "common_name": "Spotted Cuscus",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Phalanger_maculatus_%28male%29_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC03051.JPG/960px-Phalanger_maculatus_%28male%29_-_Museo_Civico_di_Storia_Naturale_Giacomo_Doria_-_Genoa%2C_Italy_-_DSC03051.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This slow-moving, prehensile-tailed marsupial rests curled in the canopy by day."
+      },
+      {
+        "species_id": 16443,
+        "common_name": "Matschie's Tree Kangaroo",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg/960px-Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This rust-colored tree kangaroo climbs the park's cloud forest slopes."
+      },
+      {
+        "species_id": 16444,
+        "common_name": "Western Long-beaked Echidna",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Long-beakedEchidna.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This spine-covered, egg-laying mammal probes deep leaf litter for earthworms."
+      }
+    ]
+  },
+  {
+    "id": 90092,
+    "name": "Rivière Bleue Park",
+    "country": "New Caledonia",
+    "region": "Oceania",
+    "lat": -22.06,
+    "lng": 166.68,
+    "description": "Protected forest reserve on New Caledonia, the last stronghold of an ancient, near-flightless bird.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16380,
+        "common_name": "Kagu",
+        "category": "Bird",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kagu_0A2A2595.jpg/960px-Kagu_0A2A2595.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "This ghost-grey, near-flightless bird is regularly encountered along the reserve's forest trails."
+      }
+    ]
+  },
+  {
+    "id": 90093,
+    "name": "Nantu Wildlife Reserve",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "lat": 0.53,
+    "lng": 122.13,
+    "description": "Remote Sulawesi rainforest reserve protecting the island's unique and ancient endemic mammals.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16405,
+        "common_name": "Babirusa",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hirscheber1a.jpg/960px-Hirscheber1a.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This strange, backward-tusked pig gathers at forest mineral licks known as 'saltlicks'."
+      },
+      {
+        "species_id": 16440,
+        "common_name": "Bear Cuscus",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg/960px-Ailurops_ursinus_Naemundung_2_North_Sulawesi.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This large, shaggy cuscus moves with slow, deliberate climbs through the canopy."
+      }
+    ]
+  },
+  {
+    "id": 90094,
+    "name": "Marojejy National Park",
+    "country": "Madagascar",
+    "region": "East Africa",
+    "lat": -14.43,
+    "lng": 49.75,
+    "description": "Steep, remote rainforest massif in northeastern Madagascar, home to one of the rarest primates alive.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16426,
+        "common_name": "Silky Sifaka",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Propithecus_candidus_001.jpg/960px-Propithecus_candidus_001.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Fewer than a few hundred of these snow-white lemurs remain, confined to this rugged rainforest."
+      }
+    ]
+  },
+  {
+    "id": 90095,
+    "name": "Lokobe Strict Nature Reserve",
+    "country": "Madagascar",
+    "region": "East Africa",
+    "lat": -13.35,
+    "lng": 48.3,
+    "description": "Remnant rainforest reserve on the island of Nosy Be, off Madagascar's northwestern coast.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16427,
+        "common_name": "Black Lemur",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Black_Lemur_Lemur.jpg/960px-Black_Lemur_Lemur.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Troops of jet-black males and chestnut-brown females move through the reserve canopy."
+      }
+    ]
+  },
+  {
+    "id": 90096,
+    "name": "Bach Ma National Park",
+    "country": "Vietnam",
+    "region": "Southeast Asia",
+    "lat": 16.2,
+    "lng": 107.87,
+    "description": "Rugged, cloud-wrapped rainforest in the Annamite Mountains along the Laos border.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16436,
+        "common_name": "Saola",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pseudoryx_nghetinhensis%2C_b.PNG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "The 'Asian unicorn' is so rare it has been photographed alive only a handful of times."
+      }
+    ]
+  },
+  {
+    "id": 90097,
+    "name": "Preah Vihear Protected Forest",
+    "country": "Cambodia",
+    "region": "Southeast Asia",
+    "lat": 13.8,
+    "lng": 104.98,
+    "description": "Remote deciduous dipterocarp forest in northern Cambodia, the last known range of the kouprey.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16437,
+        "common_name": "Kouprey",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bos_sauveli_distribution.svg/960px-Bos_sauveli_distribution.svg.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Not confirmed in the wild for decades, this elusive forest ox may already be extinct."
+      }
+    ]
+  },
+  {
+    "id": 90098,
+    "name": "Taï National Park",
+    "country": "Ivory Coast",
+    "region": "West Africa",
+    "lat": 5.85,
+    "lng": -7.35,
+    "description": "One of the last major remnants of primary rainforest in West Africa's Upper Guinea forest belt.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16460,
+        "common_name": "Zebra Duiker",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Cephalophus_zebra.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "This zebra-striped forest antelope moves cautiously through dense understory, rarely seen."
+      }
+    ]
+  },
+  {
+    "id": 90099,
+    "name": "Loango NP",
+    "country": "Gabon",
+    "region": "Ogooué-Maritime",
+    "lat": -2.15,
+    "lng": 9.55,
+    "description": "Wild Atlantic coastline where forest elephants, hippos and buffalo wander onto the beach beside surfing hippos and nesting sea turtles.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16304,
+        "common_name": "African Forest Elephant",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/960px-Loxodontacyclotis.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Forest elephants regularly emerge onto the beach itself, a signature Loango sight."
+      },
+      {
+        "species_id": 16046,
+        "common_name": "Hippopotamus",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/960px-Portrait_Hippopotamus_in_the_water.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Loango's hippos are famous for surfing in the Atlantic surf along the shoreline."
+      },
+      {
+        "species_id": 16169,
+        "common_name": "Western Lowland Gorilla",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Western_lowland_silverback_resting_on_forest_floor.jpg/960px-Western_lowland_silverback_resting_on_forest_floor.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Habituated groups can be tracked in the coastal forest interior."
+      },
+      {
+        "species_id": 16170,
+        "common_name": "Mandrill",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg/960px-Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Large troops move through the forest-savanna mosaic behind the beach."
+      },
+      {
+        "species_id": 16043,
+        "common_name": "African Leopard",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/960px-African_leopard_male_%28cropped%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Present but rarely seen, moving between forest and savanna patches."
+      },
+      {
+        "species_id": 15922,
+        "common_name": "Green Sea Turtle",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg/960px-Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
+        "endemic": false,
+        "start_month": 9,
+        "end_month": 4,
+        "likelihood": "likely",
+        "notes": "Nests on the park beaches during the November-March season."
+      }
+    ]
+  },
+  {
+    "id": 90100,
+    "name": "Ivindo NP",
+    "country": "Gabon",
+    "region": "Ogooué-Ivindo",
+    "lat": 0.17,
+    "lng": 12.62,
+    "description": "Dense equatorial rainforest around the thundering Kongou and Mingouli waterfalls, a stronghold for forest elephants and gorillas.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16304,
+        "common_name": "African Forest Elephant",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/960px-Loxodontacyclotis.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Frequent visitors to Langoué Bai, a forest clearing popular for wildlife viewing."
+      },
+      {
+        "species_id": 16169,
+        "common_name": "Western Lowland Gorilla",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Western_lowland_silverback_resting_on_forest_floor.jpg/960px-Western_lowland_silverback_resting_on_forest_floor.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Semi-habituated groups are tracked around the Langoué research station."
+      },
+      {
+        "species_id": 16055,
+        "common_name": "Chimpanzee",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/960px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Heard drumming on buttress roots throughout the forest interior."
+      },
+      {
+        "species_id": 16305,
+        "common_name": "Bongo",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tragelaphus_eurycerus_-Marwell_Wildlife%2C_Hampshire%2C_England-8a.jpg/960px-Tragelaphus_eurycerus_-Marwell_Wildlife%2C_Hampshire%2C_England-8a.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Shy forest antelope occasionally seen visiting mineral-rich bais at dusk."
+      }
+    ]
+  },
+  {
+    "id": 90101,
+    "name": "Cangandala NP",
+    "country": "Angola",
+    "region": "Malanje",
+    "lat": -9.65,
+    "lng": 16.7,
+    "description": "Small protected reserve created specifically to safeguard Angola's national animal, the critically endangered giant sable antelope.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16464,
+        "common_name": "Giant Sable Antelope",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Giant_sable_bull_in_Luando.jpg",
+        "endemic": true,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "One of only two protected populations of this critically endangered, Angola-endemic antelope."
+      },
+      {
+        "species_id": 16043,
+        "common_name": "African Leopard",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/960px-African_leopard_male_%28cropped%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Present in the miombo woodland surrounding the sable sanctuary."
+      }
+    ]
+  },
+  {
+    "id": 90102,
+    "name": "Quiçama NP",
+    "country": "Angola",
+    "region": "Bengo/Luanda",
+    "lat": -9.6,
+    "lng": 13.6,
+    "description": "Coastal savanna park near Luanda rebuilding its wildlife populations after decades of civil war through elephant and antelope reintroductions.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16042,
+        "common_name": "African Elephant",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/960px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Reintroduced herds now roam the palm-dotted savanna near the Kwanza River."
+      },
+      {
+        "species_id": 16046,
+        "common_name": "Hippopotamus",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/960px-Portrait_Hippopotamus_in_the_water.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Resident pods are easily seen along the Kwanza River."
+      },
+      {
+        "species_id": 16053,
+        "common_name": "Cape Buffalo",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg/960px-African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Reintroduced small herds move through the open grasslands."
+      },
+      {
+        "species_id": 16311,
+        "common_name": "Roan Antelope",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Roan_antelope_%28Hippotragus_equinus_equinus%29_Mlilwane.jpg/960px-Roan_antelope_%28Hippotragus_equinus_equinus%29_Mlilwane.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Reintroduced alongside other antelope species in the savanna interior."
+      }
+    ]
+  },
+  {
+    "id": 90103,
+    "name": "Liuwa Plain NP",
+    "country": "Zambia",
+    "region": "Western Province",
+    "lat": -14.75,
+    "lng": 22.75,
+    "description": "Remote floodplain grassland hosting one of Africa’s largest and least-visited wildebeest migrations.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16050,
+        "common_name": "Blue Wildebeest",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg/960px-Blue_Wildebeest%2C_Ngorongoro.jpg",
+        "endemic": false,
+        "start_month": 11,
+        "end_month": 6,
+        "likelihood": "common",
+        "notes": "Tens of thousands migrate across the plain following the rains, second only to the Serengeti in scale."
+      },
+      {
+        "species_id": 16047,
+        "common_name": "Cheetah",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Male_cheetah_facing_left_in_South_Africa.jpg/960px-Male_cheetah_facing_left_in_South_Africa.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "The open floodplain holds a strong population hunting wildebeest calves and other prey."
+      },
+      {
+        "species_id": 16051,
+        "common_name": "Spotted Hyena",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Spotted_hyena_%28Crocuta_crocuta%29.jpg/960px-Spotted_hyena_%28Crocuta_crocuta%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Large clans follow the migration across the plain."
+      },
+      {
+        "species_id": 16052,
+        "common_name": "African Wild Dog",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/African_Wild_Dog_at_Working_with_Wildlife.jpg/960px-African_Wild_Dog_at_Working_with_Wildlife.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Packs range widely across the remote floodplain and surrounding woodland."
+      }
+    ]
+  },
+  {
+    "id": 90104,
+    "name": "North Luangwa NP",
+    "country": "Zambia",
+    "region": "Muchinga",
+    "lat": -11.9,
+    "lng": 32.2,
+    "description": "Rugged, roadless wilderness on the Luangwa River, accessible only on foot safari, with a reintroduced black rhino population.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16045,
+        "common_name": "Black Rhinoceros",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Black_Rhino_at_Working_with_Wildlife.jpg/960px-Black_Rhino_at_Working_with_Wildlife.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Reintroduced in a protected sanctuary zone after being poached to extinction here in the 1990s."
+      },
+      {
+        "species_id": 16041,
+        "common_name": "African Lion",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/960px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Prides hunt buffalo herds along the Luangwa River floodplain."
+      },
+      {
+        "species_id": 16053,
+        "common_name": "Cape Buffalo",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg/960px-African_buffalo_%28Syncerus_caffer_caffer%29_male_with_cattle_egret.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Large herds gather along the river, drawing lion prides."
+      }
+    ]
+  },
+  {
+    "id": 90105,
+    "name": "Matobo NP",
+    "country": "Zimbabwe",
+    "region": "Matabeleland South",
+    "lat": -20.55,
+    "lng": 28.5,
+    "description": "Ancient balancing granite kopjes and wooded valleys sheltering one of the densest black and white rhino populations in Africa.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16044,
+        "common_name": "White Rhinoceros",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/109_Male_White_rhinoceros_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg/960px-109_Male_White_rhinoceros_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "One of the best places in Africa to track white rhino on foot among the granite hills."
+      },
+      {
+        "species_id": 16045,
+        "common_name": "Black Rhinoceros",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Black_Rhino_at_Working_with_Wildlife.jpg/960px-Black_Rhino_at_Working_with_Wildlife.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "A well-protected population browses the wooded kopjes alongside white rhino."
+      },
+      {
+        "species_id": 16466,
+        "common_name": "Klipspringer",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Klipspringer.jpg/960px-Klipspringer.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "A signature sight, balancing on the tips of its hooves along the sheer granite boulders."
+      },
+      {
+        "species_id": 16043,
+        "common_name": "African Leopard",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/960px-African_leopard_male_%28cropped%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "The rocky terrain gives Matobo one of Zimbabwe’s highest leopard densities."
+      }
+    ]
+  },
+  {
+    "id": 90106,
+    "name": "Nouabalé-Ndoki NP",
+    "country": "Republic of the Congo",
+    "region": "Likouala/Sangha",
+    "lat": 2.38,
+    "lng": 16.4,
+    "description": "Pristine, roadless rainforest wilderness renowned for its forest clearings (bais) where gorillas and forest elephants gather in the open.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16169,
+        "common_name": "Western Lowland Gorilla",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Western_lowland_silverback_resting_on_forest_floor.jpg/960px-Western_lowland_silverback_resting_on_forest_floor.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Habituated groups gather in the Mbeli Bai clearing, one of the best gorilla-viewing sites in Central Africa."
+      },
+      {
+        "species_id": 16304,
+        "common_name": "African Forest Elephant",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/960px-Loxodontacyclotis.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Dozens of elephants can be seen at once from the Mbeli Bai viewing platform."
+      },
+      {
+        "species_id": 16305,
+        "common_name": "Bongo",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tragelaphus_eurycerus_-Marwell_Wildlife%2C_Hampshire%2C_England-8a.jpg/960px-Tragelaphus_eurycerus_-Marwell_Wildlife%2C_Hampshire%2C_England-8a.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Regularly visits the forest bais to feed on mineral-rich mud and vegetation."
+      },
+      {
+        "species_id": 16171,
+        "common_name": "Sitatunga",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sitatunga_at_Oji_Zoo.JPG/960px-Sitatunga_at_Oji_Zoo.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Swamp-adapted antelope seen wading through the bai wetlands."
+      },
+      {
+        "species_id": 16055,
+        "common_name": "Chimpanzee",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/960px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Resident communities have been studied here for decades."
+      }
+    ]
+  },
+  {
+    "id": 90107,
+    "name": "Conkouati-Douli NP",
+    "country": "Republic of the Congo",
+    "region": "Kouilou",
+    "lat": -3.85,
+    "lng": 11.15,
+    "description": "Rare mix of Atlantic coastline, lagoons, and rainforest, home to a released-chimpanzee sanctuary and nesting sea turtles.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16055,
+        "common_name": "Chimpanzee",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/960px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Includes the HELP sanctuary’s reintroduced chimpanzee population on Tchimpounga’s island enclosures nearby."
+      },
+      {
+        "species_id": 16169,
+        "common_name": "Western Lowland Gorilla",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Western_lowland_silverback_resting_on_forest_floor.jpg/960px-Western_lowland_silverback_resting_on_forest_floor.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Found deeper within the forested interior of the park."
+      },
+      {
+        "species_id": 16046,
+        "common_name": "Hippopotamus",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/960px-Portrait_Hippopotamus_in_the_water.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "Found in the Conkouati lagoon system alongside forest elephants."
+      },
+      {
+        "species_id": 15969,
+        "common_name": "Leatherback Sea Turtle",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg/960px-Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg",
+        "endemic": false,
+        "start_month": 10,
+        "end_month": 4,
+        "likelihood": "likely",
+        "notes": "One of the region’s important nesting beaches for leatherbacks."
+      }
+    ]
+  },
+  {
+    "id": 90108,
+    "name": "Monte Alén NP",
+    "country": "Equatorial Guinea",
+    "region": "Litoral/Wele-Nzas",
+    "lat": 1.63,
+    "lng": 10.3,
+    "description": "Equatorial Guinea's flagship mainland rainforest reserve, straddling steep hills thick with gorillas, mandrills and forest elephants.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16169,
+        "common_name": "Western Lowland Gorilla",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Western_lowland_silverback_resting_on_forest_floor.jpg/960px-Western_lowland_silverback_resting_on_forest_floor.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "One of the country’s most important gorilla strongholds."
+      },
+      {
+        "species_id": 16170,
+        "common_name": "Mandrill",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg/960px-Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "common",
+        "notes": "Large troops are regularly encountered in the dense forest understory."
+      },
+      {
+        "species_id": 16344,
+        "common_name": "Drill",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Drill_scheme.svg/960px-Drill_scheme.svg.png",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Continental mainland population survives in the park’s remote forest interior."
+      },
+      {
+        "species_id": 16304,
+        "common_name": "African Forest Elephant",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/960px-Loxodontacyclotis.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Small, wary population ranges through the rugged, densely forested terrain."
+      },
+      {
+        "species_id": 16055,
+        "common_name": "Chimpanzee",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/960px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Present but rarely seen in the steep, dense forest."
+      }
+    ]
+  },
+  {
+    "id": 90109,
+    "name": "Orango Islands NP",
+    "country": "Guinea-Bissau",
+    "region": "Bijagós Archipelago",
+    "lat": 11.15,
+    "lng": -16.05,
+    "description": "Remote mangrove-fringed islands in the Bijagós Archipelago, home to a unique population of saltwater-tolerant hippos and nesting sea turtles.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 16046,
+        "common_name": "Hippopotamus",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/960px-Portrait_Hippopotamus_in_the_water.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "likely",
+        "notes": "A famous population that swims between islands and grazes in brackish saltwater, unusual for the species."
+      },
+      {
+        "species_id": 16465,
+        "common_name": "West African Manatee",
+        "category": "Mammal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg/960px-African_manatee_at_Coex_Aquarium%2C_South_Korea.jpg",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Grazes seagrass beds in the archipelago’s shallow tidal channels."
+      },
+      {
+        "species_id": 15922,
+        "common_name": "Green Sea Turtle",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg/960px-Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
+        "endemic": false,
+        "start_month": 6,
+        "end_month": 11,
+        "likelihood": "likely",
+        "notes": "Nests on the archipelago’s beaches, part of one of West Africa’s most important turtle rookeries."
+      }
+    ]
+  },
+  {
+    "id": 90110,
+    "name": "João Vieira e Poilão Marine NP",
+    "country": "Guinea-Bissau",
+    "region": "Bijagós Archipelago",
+    "lat": 10.87,
+    "lng": -15.72,
+    "description": "One of the Atlantic's most important green turtle rookeries, on a scatter of uninhabited islands at the southern tip of the Bijagós Archipelago.",
+    "type": "park",
+    "sightings": [
+      {
+        "species_id": 15922,
+        "common_name": "Green Sea Turtle",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg/960px-Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
+        "endemic": false,
+        "start_month": 7,
+        "end_month": 11,
+        "likelihood": "common",
+        "notes": "Poilão island hosts one of the largest green turtle nesting colonies in Africa, with thousands of females nesting each season."
+      },
+      {
+        "species_id": 15923,
+        "common_name": "Hawksbill Sea Turtle",
+        "category": "Reptile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eretmochelys-imbricata-K%C3%A9lonia-2.JPG/960px-Eretmochelys-imbricata-K%C3%A9lonia-2.JPG",
+        "endemic": false,
+        "start_month": 1,
+        "end_month": 12,
+        "likelihood": "possible",
+        "notes": "Also nests in smaller numbers alongside green turtles."
       }
     ]
   }
