@@ -204,9 +204,9 @@ export default function MapView({ locations, onSelectCountry, onMapReady, hovere
       <HoverRevealController hoveredLocation={hoveredLocation} />
       <ZoomControl position="topright" />
       <TileLayer
-        url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png"
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
-        subdomains="abcd"
+        url="https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}"
+        attribution='Tiles &copy; <a href="https://www.esri.com/">Esri</a> &mdash; Sources: GEBCO, NOAA, CHS, OSU, UNH, CSUMB, National Geographic, DeLorme, NAVTEQ, and Esri'
+        maxNativeZoom={13}
         maxZoom={19}
       />
       <PlaceLabels onSelectCountry={onSelectCountry} />
