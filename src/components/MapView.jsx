@@ -1,8 +1,9 @@
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
-import { MapContainer, TileLayer, CircleMarker, Popup, ZoomControl, useMap } from 'react-leaflet';
+import { MapContainer, CircleMarker, Popup, ZoomControl, useMap } from 'react-leaflet';
 import { useEffect, useState } from 'react';
 import { createPortal } from 'react-dom';
+import BaseMap from './BaseMap';
 import PlaceLabels from './PlaceLabels';
 import LocationPopup from './LocationPopup';
 
@@ -203,12 +204,7 @@ export default function MapView({ locations, onSelectCountry, onMapReady, hovere
       <MapController onMapReady={onMapReady} />
       <HoverRevealController hoveredLocation={hoveredLocation} />
       <ZoomControl position="topright" />
-      <TileLayer
-        url="https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}"
-        attribution='Tiles &copy; <a href="https://www.esri.com/">Esri</a> &mdash; Sources: GEBCO, NOAA, CHS, OSU, UNH, CSUMB, National Geographic, DeLorme, NAVTEQ, and Esri'
-        maxNativeZoom={13}
-        maxZoom={19}
-      />
+      <BaseMap />
       <PlaceLabels onSelectCountry={onSelectCountry} />
       {locations.map((loc) =>
         WORLD_COPY_OFFSETS.map((offset) => (

@@ -16,10 +16,12 @@
     "db:refresh": "npm run db:seed && npm run species:images && npm run db:export"
   },
   "dependencies": {
+    "@maplibre/maplibre-gl-leaflet": "^0.1.4",
     "@react-google-maps/api": "^2.20.8",
     "all-the-cities": "^3.1.0",
     "better-sqlite3": "^12.11.1",
     "leaflet": "^1.9.4",
+    "maplibre-gl": "^6.13.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "react-leaflet": "^5.0.0",
